@@ -1,0 +1,27 @@
+
+title: Zi cu Soare
+email: your-email@domain.com
+slogan: Un blog pentru părinți și copii
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl: "" # the subpath of your site, eg: /blog
+url: "http://zi-cu-soare.ro" # the base hostname & protocol for your site, eg: http://example.com
+twitter_username: zi_cu_soare
+github_username:  zi_cu_soare
+author: ana # Default author
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+paginate: 5
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+exclude:
+  - Gemfile
+  - Gemfile.lock
