@@ -1,7 +1,6 @@
 ---
-title: About
+title: Info
 layout: page
-permalink: /about/
+permalink: /info/
 ---
-
 Bine ai venit. Voi completa aici mai tarziu. :smile:

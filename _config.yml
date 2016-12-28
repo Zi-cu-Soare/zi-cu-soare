@@ -1,6 +1,6 @@
 
 title: Zi cu Soare
-email: your-email@domain.com
+email: contact@zi-cu-soare.ro
 slogan: Un blog pentru părinți și copii
 description: >
   Write an awesome description for your new site here. You can edit this
@@ -15,7 +15,6 @@ author: ana # Default author
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
 paginate: 5
 gems:
   - jekyll-feed

@@ -3,8 +3,6 @@ ruby RUBY_VERSION
 
 gem "jekyll", "~> 3.3"
 
-gem "jekyll-swiss"
-
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"

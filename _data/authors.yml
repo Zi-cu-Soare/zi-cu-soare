@@ -1,14 +1,16 @@
 
-cro:
-  name: "Cristi Constantin"
-  siterole: "webmaster, developer"
-  uri: https://github.com/croqaz/
-  email: "cristi.constantin @ live.com"
-  twitter: croqaz
-
 ana:
   name: "Ana Constantin"
   siterole: "writer, designer"
-  uri: https://ana.ro/
   email: "ana-maria.constantin @ hotmail.com"
+  web: http://zi-cu-soare.ro/
   twitter: ana
+  avatar: http://semantic-ui.com/images/avatar2/large/elyse.png
+
+cro:
+  name: "Cristi Constantin"
+  siterole: "webmaster, developer"
+  email: "cristi.constantin @ live.com"
+  web: https://github.com/croqaz/
+  twitter: croqaz
+  avatar: http://semantic-ui.com/images/avatar2/large/matthew.png
