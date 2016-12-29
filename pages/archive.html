@@ -4,11 +4,14 @@ layout: page
 permalink: /archive/
 ---
 <h2 class="ui dividing header">Acestea sunt toate postarile, de la început și până în prezent:</h2>
-<div class="ui feed">
-{% for post in site.posts %}
+<div class="ui large feed">
+</br />
+{% assign counter = 1 %}
+{% for post in site.posts limit:999 %}
 <div class="event">
   <div class="content">
     <div class="summary">
+      <div class="date"><i class="archive icon"></i> {{ counter }} &nbsp;</div>
       <a class="header" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
       {{ post.title | strip_html | strip_newlines }}
       </a>
@@ -18,5 +21,6 @@ permalink: /archive/
     </div>
   </div>
 </div>
+{% assign counter=counter | plus:1 %}
 {% endfor %}
 </div>

@@ -4,7 +4,7 @@
       <img src="{{ "/assets/fav" | absolute_url }}/favicon-32.png" style="width:2em;height:2em;" />
       &nbsp; Zi cu Soare
     </div>
-    <a class="item active" href="/"><i class="home icon"></i> Acasă</a>
+    <a class="item {% if page.url == "/" %}active{% endif %}" href="/"><i class="home icon"></i> Acasă</a>
     <div class="ui simple dropdown item">
       Categorii <i class="dropdown icon"></i>
       <div class="menu">
@@ -15,13 +15,6 @@
         <a class="item">În vacanță</a>
       </div>
     </div>
-    <a class="item" href="/archive"><i class="archive icon"></i> Arhivă</a>
-    <a class="item" href="/info"><i class="info icon"></i> Info</a>
-    <div class="right item">
-      <div class="ui icon input">
-        <input class="prompt" type="text" placeholder="Caută în arhivă ...">
-        <i class="search link icon"></i>
-      </div>
-    </div>
+    <a class="item {% if page.url == "/info/" %}active{% endif %}" href="/info"><i class="info icon"></i> Info</a>
   </div>
 </div>
