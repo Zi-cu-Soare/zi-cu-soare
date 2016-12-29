@@ -2,46 +2,56 @@
 layout: default
 format: post
 ---
-<div class="ui container" style="padding:1em 0 1em">
-<div class="ui grid" style="padding:1em 0 1em">
-<div class="fourteen wide column">
+<div class="ui container" style="padding:2em 0 2em"><div class="ui grid"><div class="fourteen wide column" style="min-height:480px">
 
-	<h1>{{ page.title | escape_once }}</h1>
-	<a class="ui label">
-		<i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
-	</a>
-	<br />
-	<br />
+  <div class="ui feed">
+    <div class="event">
+      <div class="label">
+        <img src="http://semantic-ui.com/images/avatar2/large/elyse.png">
+      </div>
+      <div class="content">
+        <div class="summary">
+          Scris de
+          <a class="user">
+            Ana Constantin
+          </a>
+          <div class="date">
+            <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
+          </div>
+          &nbsp;{% include read_time.html %}
+        </div>
+      </div>
+    </div>
+  </div>
 
-	<article itemscope itemtype="http://schema.org/Article">
-		<header>
-			{% if page.image.title %}
-			<figure>
-				<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
-				{% if page.image.caption_url and page.image.caption %}
-				<figcaption class="text-right">
-					<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
-				</figcaption>
-				{% elsif page.image.caption %}
-				<figcaption class="text-right">
-					{{ page.image.caption }}
-				</figcaption>
-				{% endif %}
-			</figure>
-			{% endif %}
-		</header>
+  <h1 class="ui dividing header">{{ page.title | escape_once }}</h1>
+  <br />
+  {{ content }}
+  <br />
+  <br />
 
-		<div itemprop="articleSection">
-		{{ content }}
-		</div>
+  <div class="ui two column stackable grid">
+    <div class="six wide column">
+      Postat în:&nbsp;
+      {% for cat in page.categories %}
+        <a class="ui tag yellow label">{{ cat | xml_escape }}</a>
+      {% endfor %}
+    </div>
+    <div class="ten wide column">
+      Tag-uri:&nbsp;
+      {% for tag in page.tags %}
+        <a class="ui tag label">{{ tag | xml_escape }}</a>
+      {% endfor %}
+    </div>
+    <div class="eight wide column">
+      <span>Părerea ta:</span>
+      <i class="empty heart icon"></i>
+      <i class="comment outline icon"></i>
+      <span>&nbsp;Share:</span>
+      <i class="facebook f icon"></i>
+      <i class="google plus icon"></i>
+      <i class="twitter icon"></i>
+    </div>
+  </div>
 
-	</article>
-
-	<br />
-	Tags: {% for tag in page.tags %}
-		<a class="ui tag label">{{ tag | xml_escape }}</a>
-	{% endfor %}
-
-</div>
-</div>
-</div>
+</div></div></div>

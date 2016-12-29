@@ -1,0 +1,22 @@
+---
+title: Info
+layout: page
+permalink: /archive/
+---
+<h2 class="ui dividing header">Acestea sunt toate postarile, de la început și până în prezent:</h2>
+<div class="ui feed">
+{% for post in site.posts %}
+<div class="event">
+  <div class="content">
+    <div class="summary">
+      <a class="header" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+      {{ post.title | strip_html | strip_newlines }}
+      </a>
+      <div class="date">
+        <i class="calendar icon"></i> {{ post.date | date: "%b %-d, %Y" }}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+</div>

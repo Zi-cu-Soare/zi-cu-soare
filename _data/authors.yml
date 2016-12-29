@@ -1,7 +1,7 @@
 
 ana:
   name: "Ana Constantin"
-  siterole: "writer, designer"
+  roles: "writer, designer"
   email: "ana-maria.constantin @ hotmail.com"
   web: http://zi-cu-soare.ro/
   twitter: ana
@@ -9,7 +9,7 @@ ana:
 
 cro:
   name: "Cristi Constantin"
-  siterole: "webmaster, developer"
+  roles: "webmaster, developer"
   email: "cristi.constantin @ live.com"
   web: https://github.com/croqaz/
   twitter: croqaz

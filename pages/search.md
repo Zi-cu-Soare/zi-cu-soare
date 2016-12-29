@@ -4,4 +4,6 @@ layout: page
 permalink: /search/
 sitemap: false
 ---
-# Cauta-ma
+# Caută în arhiva site-ului
+
+[...]
