@@ -1,0 +1,8 @@
+<div class="ui grid" markdown="1">
+<div class="four wide column" markdown="1">
+{{ include.left }}
+</div>
+<div class="eight wide column" markdown="1">
+{{ include.right }}
+</div>
+</div>

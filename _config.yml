@@ -13,11 +13,20 @@ twitter_username: zi_cu_soare
 github_username:  zi_cu_soare
 author: ana # Default author
 
+defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+      author: ana
+
 # Build settings
 markdown: kramdown
 paginate: 5
 compress_html:
   blanklines: true
+
 gems:
   - jekyll-feed
   - jekyll-sitemap

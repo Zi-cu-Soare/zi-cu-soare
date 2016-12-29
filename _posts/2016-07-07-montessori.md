@@ -1,12 +1,8 @@
 ---
-layout: post
 title:  "Montessori acasă"
 teaser: "Despre metodologia Montessori"
 categories: montessori
-tags:
-  - metodologie
-  - montessori
-author: ana
+tags: metodologie montessori
 ---
 
 La inceputul anilor 1900, dr. Maria Montessori a elaborat aceasta metoda educationala, pe baza observatiilor sale stiintifice asupra comportamentului copiilor. Avand cunostinte solide in materie de pedagogie, antropologie si psihiatrie, ea a dezvoltat ideea ca fiecare copil se naste cu un potential unic ce trebuie valorificat, copilul nefiind doar un “vas gol” care asteapta sa fie umplut. Astfel a luat fiinta o metoda de auto-educatie si dezvoltare care se bucura de recunoastere in toata lumea.
