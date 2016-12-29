@@ -17,6 +17,6 @@ Materialele speciale si modul in care acestea ii sunt prezentate invita si lasa 
 
 Mediul unei gradinite Montessori unifica functiile sociale, psihologice, fizice si academice care ii sunt necesare unui copil pentru a dezvolta o atitudine pozitiva fata de scoala: incredere in sine, simtul ordinii, curiozitate si concentrare, initiativa si perseverenta, abilitatea de a lua decizii, si simtul responsabilitatii fata de alti membrii ai clasei, scolii si comunitatii. Aceasta fundatie solida ii va permite copilului educat intr-un mediu Montessori sa beneficieze de ea pe tot parcursul educatiei scolare dar si mai departe in viata."
 
-(www.gradinitamontessori.ro/metoda-montessori)[http://www.gradinitamontessori.ro/metoda-montessori/]
+Link: [www.gradinitamontessori.ro/metoda-montessori](http://www.gradinitamontessori.ro/metoda-montessori/)
 
 In acest album voi incerca toate activitatile pe care le facem acasa si voi mentiona si varsta la care noi le-am folosit, precum si interesul aratat pentru fiecare in parte. In pedagogia Montessori, nu exista varste standard pentru anumite activitati. Acestea se realizeaza in functie de copil, interesul aratat, inclinatii, rabdare etc...

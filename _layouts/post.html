@@ -2,19 +2,18 @@
 layout: default
 format: post
 ---
+{% assign author = site.data.authors[page.author] %}
 <div class="ui container" style="padding:2em 0 2em"><div class="ui grid"><div class="fourteen wide column" style="min-height:480px">
   <div class="ui feed">
     <div class="event">
       <div class="label">
-        <img src="http://semantic-ui.com/images/avatar2/large/elyse.png">
+        <img src="{{ author.avatar }}">
       </div>
       <div class="content">
         <div class="summary">
           Scris de
-          <a class="user">
-            Ana Constantin
-          </a>
-          <div class="date">
+          <a class="user">{{ author.name }}</a>
+          <div class="ui basic small label" style="color:rgba(0,0,0,.5)">
             <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
           </div>
           &nbsp;{% include read_time.html %}
@@ -33,7 +32,9 @@ format: post
     <div class="six wide column">
       Postat în:&nbsp;
       {% for cat in page.categories %}
-        <a class="ui tag yellow label">{{ cat | xml_escape }}</a>
+        <a class="ui tag yellow label" {% if site.data.category contains cat %}href="/{{ cat }}"{% endif %}>
+          {{ cat | xml_escape }}
+        </a>
       {% endfor %}
     </div>
     <div class="ten wide column">

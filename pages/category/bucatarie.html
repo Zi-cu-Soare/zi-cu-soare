@@ -1,11 +1,11 @@
 ---
-title: "Arhivă"
+title: "Mami gătește"
 layout: page
-permalink: /archive/
+permalink: /bucatarie/
 ---
-<h2 class="ui header">Toate articolele</h2>
+<h2>{{ page.title }}</h2>
 <div class="ui large feed" style="margin-top:1.5em">
-{% for post in site.posts limit:999 %}
+{% for post in site.categories.bucatarie %}
 {% include article_sm.html post=post %}
 {% endfor %}
 </div>

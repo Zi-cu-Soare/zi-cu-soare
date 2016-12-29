@@ -1,4 +1,4 @@
-<div class="ui huge yellow attached main menu">
+<div class="ui large yellow attached main menu">
   <div class="ui container">
     <div class="header item">
       <img src="{{ "/assets/fav" | absolute_url }}/favicon-32.png" style="width:2em;height:2em;" />
@@ -8,11 +8,11 @@
     <div class="ui simple dropdown item">
       Categorii <i class="dropdown icon"></i>
       <div class="menu">
-        <a class="item">Mami gătește</a>
-        <a class="item">Montessori acasă</a>
-        <a class="item">Pasiunile mele</a>
-        <a class="item">Timp liber</a>
-        <a class="item">În vacanță</a>
+        <a class="item {% if page.url == "/bucatarie/" %}active{% endif %}" href="/bucatarie">Mami gătește</a>
+        <a class="item {% if page.url == "/montessori/" %}active{% endif %}" href="/montessori">Montessori acasă</a>
+        <a class="item {% if page.url == "/pasiuni/" %}active{% endif %}" href="/pasiuni">Pasiunile mele</a>
+        <a class="item {% if page.url == "/timp_liber/" %}active{% endif %}" href="/timp_liber">Timp liber</a>
+        <a class="item {% if page.url == "/vacanta/" %}active{% endif %}" href="/vacanta">În vacanță</a>
       </div>
     </div>
     <a class="item {% if page.url == "/info/" %}active{% endif %}" href="/info"><i class="info icon"></i> Info</a>

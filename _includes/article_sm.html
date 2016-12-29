@@ -1,0 +1,13 @@
+{% assign post = include.post %}
+<div class="event">
+<div class="content">
+  <div class="summary">
+    <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+    {{ post.title | strip_html | strip_newlines }}
+    </a>
+    <div class="date">
+      <i class="calendar icon"></i> {{ post.date | date: "%b %-d, %Y" }}
+    </div>
+  </div>
+</div>
+</div>

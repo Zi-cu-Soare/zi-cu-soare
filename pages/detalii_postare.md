@@ -45,7 +45,16 @@ Detaliile META ale articolului sunt absolut vitale pentru identificarea continut
 
 Un articol poate fi intr-una, sau mai multe categorii, dar cel mai bine **doar una**.
 
-Tag-urile trebuie sa fie mai multe si se separa cu spatiu. Se folosesc pentru cautarea articolelor dupa tag.
+Lista de categorii valide:
+- bucatarie = Mami găteșteee
+- montessori = Montessori acasă
+- pasiuni = Pasiunile mele
+- timp_liber = Timp liber
+- vacanta = În vacanță
+
+Tag-urile pot fi oricat de multe si se separa cu spatiu. Pot fi folosite orice cuvinte.
+
+Tag-urile se folosesc pentru cautarea articolelor.
 
 Exemple:
 
@@ -163,7 +172,7 @@ Alert-urile se fac cu:
 ```
 { % include alert positive='Positive info.' %}
 { % include alert info='General info.' %}
-{ % include alert info='A warning.' %}
+{ % include alert warning='A warning.' %}
 { % include alert error='An error.' %}
 ```
 
