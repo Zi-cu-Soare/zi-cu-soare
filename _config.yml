@@ -16,6 +16,8 @@ author: ana # Default author
 # Build settings
 markdown: kramdown
 paginate: 5
+compress_html:
+  blanklines: true
 gems:
   - jekyll-feed
   - jekyll-sitemap

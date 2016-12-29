@@ -3,13 +3,16 @@ layout: null
 title: "Articles index"
 permalink: /index.json
 ---
-{
-{% for post in site.posts %}[
-  "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-  "title": "{{ post.title | strip_html | strip_newlines | xml_escape }}",
-  "updated": "{{ post.date | date_to_xmlschema }}",
-{% if post.author %}{% assign author = site.data.authors[post.author] %}
-  "author": {% if author.name %}"{{ author.name }}"{% else %}"{{ post.author }}"{% endif %}
-{% endif %}
-],{% endfor %}
-}
+[
+{% for post in site.posts %}
+  {
+    "title"   : "{{ post.title }}",
+    "excerpt" : "{{ post.excerpt | strip_html | strip_newlines }}",
+    "url"     : "{{ post.url }}",
+    "date"    : "{{ post.date | date: "%B %d, %Y" }}",
+    "author"  : "{{ post.author }}",
+    "tags"    : "{{ post.tags | join: "," }}",
+    "categories" : "{{ post.categories | join: "," }}"
+  } {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+]
