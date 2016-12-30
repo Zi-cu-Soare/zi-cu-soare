@@ -3,7 +3,7 @@ layout: default
 format: post
 ---
 {% assign author = site.data.authors[page.author] %}
-<div class="ui container" style="padding:2em 0 2em"><div class="ui grid"><div class="fourteen wide column" style="min-height:480px">
+<div class="ui container" style="padding:2em 0 2em"><div class="ui grid"><div id="content" class="fourteen wide column" style="min-height:480px">
   <div class="ui feed">
     <div class="event">
       <div class="label">
@@ -13,7 +13,7 @@ format: post
         <div class="summary">
           Scris de
           <a class="user">{{ author.name }}</a>
-          <div class="ui basic small label" style="color:rgba(0,0,0,.5)">
+          <div class="ui basic small label" style="color:rgba(0,0,0,.5)" data-variation="small" data-tooltip="Data creerii">
             <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
           </div>
           &nbsp;{% include read_time.html %}
@@ -43,15 +43,24 @@ format: post
         <a class="ui tag label">{{ tag | xml_escape }}</a>
       {% endfor %}
     </div>
-    <div class="eight wide column">
+    <div class="twelve wide column">
       <span>Părerea ta:</span>
-      <i class="empty heart icon"></i>
-      <i class="comment outline icon"></i>
+      <i id="love-post" class="heart red link icon"></i>
+      <i id="meh-post" class="meh brown link icon"></i>
+      <i id="comm-post" class="comment violet link icon"></i>
+      <span>| &nbsp;<span id="post-auth-status">...</span>:</span>
+      <i id="post-sign-in" class="sign in hidden link icon"></i>
+      <i id="post-sign-out" class="sign out hidden link icon"></i>
       <span>| &nbsp;Share:</span>
-      <i class="facebook f icon"></i>
-      <i class="google plus icon"></i>
-      <i class="twitter icon"></i>
+      <i class="facebook f circular link icon"></i>
+      <i class="google plus circular link icon"></i>
+      <i class="twitter circular link icon"></i>
     </div>
   </div>
-
+  <div id="login-popup" style="display:none">
+    <h3 style="margin-bottom:.5em">Hey hey!</h3>
+    <p>Trebuie sa te autentifici ca sa dai like <i class="empty heart icon"></i>, sau meh <i class="meh icon"></i>, sau sa comentezi <i class="comment outline icon"></i>.<br /><span style="color:#00B5AD!important">Dureaza doar o secunda si nu doare!</span></p>
+    <p>Login cu: &nbsp;<i class="facebook login f link icon"></i> &nbsp;<i class="google plus login link icon"></i> &nbsp;<i class="twitter login link icon"></i></p>
+  </div>
 </div></div></div>
+<script src="{{ "/assets/js" | absolute_url }}/postare.js"></script>
