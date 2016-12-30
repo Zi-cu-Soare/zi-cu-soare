@@ -5,11 +5,6 @@ teaser: "Cum se scrie o postare"
 permalink: /detalii_postare/
 sitemap: false
 ---
-<style>
-.left { float: left }
-.right { float: right }
-</style>
-
 {:.ui.dividing.header}
 # Cum se scrie un articol pe Zi-cu-Soare
 
