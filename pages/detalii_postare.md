@@ -150,6 +150,19 @@ O lista numerotata:
 {:.ui.violet.dividing.header}
 ## Inserare imagini
 
+Cele mai interesante imagini CC0-license le gasesti pe:
+- https://unsplash.com/collections (probabil cea mai mare colectie de poze)
+- http://foodshot.co (specializati pe mancare)
+- https://bossfight.co
+- http://cc0.photo
+- https://www.splitshire.com/topbestphotos
+- https://pixabay.com/en/editors_choice
+- http://www.photocrops.com/photos/
+- http://minimography.com
+- http://epicantus.tumblr.com (inspiratie excelenta pentru fotografie)
+
+Sunt mai multe feluri in care pot fi inserate poze in post-uri.
+
 
 {:.ui.violet.dividing.header}
 ## Chestii avansate
