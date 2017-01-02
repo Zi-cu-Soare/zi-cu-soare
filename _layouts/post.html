@@ -22,11 +22,24 @@ format: post
     </div>
   </div>
 
+  {% if page.right_image %}
+  <h1 class="ui dividing center aligned header">{{ page.title | escape_once }}</h1>
+  <div class="ui grid">
+    <div class="six wide column" style="min-height:480px">
+      <img class="ui fluid image" src="{{ "/assets/images" | absolute_url }}/poza_about.jpg" />
+    </div>
+    <div class="ten wide column" style="min-height:480px">
+      <br />
+      {{ content }}
+      <br />
+    </div>
+  </div>
+  {% else %}
   <h1 class="ui dividing header">{{ page.title | escape_once }}</h1>
   <br />
   {{ content }}
   <br />
-  <br />
+  {% endif %}
 
   <div class="ui two column stackable grid">
     <div class="six wide column">

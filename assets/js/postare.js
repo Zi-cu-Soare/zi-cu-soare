@@ -46,7 +46,7 @@ ZiCuSoare.prototype.reactToPage = function(reaction) {
     name: this.auth.currentUser.displayName,
     reaction: reaction,
     postedAt: Date.now() // firebase.ServerValue.TIMESTAMP ???
-  });
+  })
 }
 ZiCuSoare.prototype.showAuthStatusLogged = function(name, profilePic) {
   console.log('Autentificat:', name, profilePic)
@@ -67,7 +67,7 @@ function slugifyAddress(){
     .replace(/^\//, '')
     .replace(/&/g, '-and-')
     .replace(/[\s\W-]+/g, '-')
-    .replace(/[^a-zA-Z0-9-_]+/g,'');
+    .replace(/[^a-zA-Z0-9-_]+/g,'')
 }
 
 // Start !

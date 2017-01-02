@@ -151,8 +151,10 @@ O lista numerotata:
 ## Inserare imagini
 
 Cele mai interesante imagini CC0-license le gasesti pe:
+
 - https://unsplash.com/collections (probabil cea mai mare colectie de poze)
 - http://foodshot.co (specializati pe mancare)
+- http://creativevix.com/stock (multe poze in Romania)
 - https://bossfight.co
 - http://cc0.photo
 - https://www.splitshire.com/topbestphotos
