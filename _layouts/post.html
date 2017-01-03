@@ -2,12 +2,31 @@
 layout: default
 format: post
 ---
+{% capture ignore %}
+
 {% assign author = site.data.authors[page.author] %}
-<div class="ui container" style="padding:2em 0 2em"><div class="ui grid"><div id="content" class="fourteen wide column" style="min-height:480px">
+
+{% assign url = site.baseurl | prepend: site.url | append: page.url %}
+
+{% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
+
+{% assign title = title | strip_html | escape | strip_newlines %}
+
+{% endcapture %}
+<div id="posthead" class="ui padded vertical center aligned segment" style="{% if page.image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image }}) center no-repeat{% endif %}">
+  <div class="ui padded basic segment">
+    <h1 class="ui {% if page.head_color %}{{ page.head_color }}{% endif %} header">
+      {{ page.title | escape_once }}
+      {% if page.teaser %}<div class="sub header">{{ page.teaser | escape_once }}</div>{% endif %}
+    </h1>
+  </div>
+</div>
+<div class="ui container" style="padding:1.5em 0 2em"><div class="ui grid">
+  <div id="content" class="fourteen wide column">
   <div class="ui feed">
     <div class="event">
       <div class="label">
-        <img src="{{ author.avatar }}">
+        <img src="{{ author.avatar }}" />
       </div>
       <div class="content">
         <div class="summary">
@@ -22,21 +41,17 @@ format: post
     </div>
   </div>
 
-  {% if page.right_image %}
-  <h1 class="ui dividing center aligned header">{{ page.title | escape_once }}</h1>
+  {% if page.image_left %}
   <div class="ui grid">
-    <div class="six wide column" style="min-height:480px">
-      <img class="ui fluid image" src="{{ "/assets/images" | absolute_url }}/poza_about.jpg" />
+    <div class="six wide column">
+      <img class="ui fluid image" src="{{ "/assets/images" | absolute_url }}/{{ page.image_left }}" />
     </div>
-    <div class="ten wide column" style="min-height:480px">
-      <br />
+    <div class="ten wide column">
       {{ content }}
       <br />
     </div>
   </div>
   {% else %}
-  <h1 class="ui dividing header">{{ page.title | escape_once }}</h1>
-  <br />
   {{ content }}
   <br />
   {% endif %}
@@ -57,17 +72,26 @@ format: post
       {% endfor %}
     </div>
     <div class="twelve wide column">
-      <span>Părerea ta:</span>
+      <!-- <span>Părerea ta:</span>
       <i id="love-post" class="heart red link icon"></i>
       <i id="meh-post" class="meh brown link icon"></i>
       <i id="comm-post" class="comment violet link icon"></i>
       <span>| &nbsp;<span id="post-auth-status">...</span>:</span>
       <i id="post-sign-in" class="sign in hidden link icon"></i>
-      <i id="post-sign-out" class="sign out hidden link icon"></i>
-      <span>| &nbsp;Share:</span>
-      <i class="facebook f circular link icon"></i>
-      <i class="google plus circular link icon"></i>
-      <i class="twitter circular link icon"></i>
+      <i id="post-sign-out" class="sign out hidden link icon"></i> -->
+      <span>Share:</span>
+      <a href="https://www.facebook.com/sharer/sharer.php?s=100&u={{url}}"
+        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');return false;">
+      <i class="share facebook f circular link icon"></i>
+      </a>
+      <a href="https://plus.google.com/share?title=Zi-cu-Soare%20|%20{{title}}&url={{url}}"
+        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=560');return false;">
+      <i class="share google circular link icon"></i>
+      </a>
+      <a href="https://twitter.com/intent/tweet?source={{url}}&text=Zi-cu-Soare%20|%20{{title}}:%20{{url}}"
+        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=255,width=600');return false;">
+      <i class="share twitter circular link icon"></i>
+      </a>
     </div>
   </div>
   <div id="login-popup" style="display:none">

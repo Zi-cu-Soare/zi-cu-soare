@@ -19,15 +19,41 @@
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.7/jBox.min.css">
   <style>
-  .hidden { display: none !important }
+  body { font-size:16px }
+  #fronthead h1, #posthead h1 { font-size:4em }
+  #fronthead { min-height:675px }
+  #posthead { min-height:110px }
+  .hidden { display:none !important }
+  .share.icon.facebook { color:#3b5998 }
+  .share.icon.google { color:#dd4b39 }
+  .share.icon.twitter { color:#00aced }
   </style>
-  {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
-  {% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}">{% endif %}
-  {% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
-  {% if site.google_author %}<link rel="author" href="{{ site.google_author }}">{% endif %}
-  {% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}">{% endif %}
   {% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
   <link rel="canonical" href="{{ url }}{{ page.url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ title }}" href="{{ url }}/feed.xml">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.excerpt %}
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{{ description }}">
+  {% endif %}
+  {% if page.image %}
+  <meta property="og:image" content="{{ url }}/assets/images/{{ page.image }}">
+  {% endif %}
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.url }}/info/">
+  {% endif %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% if page.tags %}
+  <meta itemprop="keywords" content="{{ page.tags | join: ',' }}">
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}">
+  {% endfor %}
+  {% endif %}
+  {% if author %}
+  <meta property="article:author" content="{{ author }}">
+  {% endif %}
   {% include favicon.html %}
   {% include scripts.html %}
 </head>

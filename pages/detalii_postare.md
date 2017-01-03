@@ -62,6 +62,11 @@ tags: blog content post
 ---
 ```
 
+Alte meta-uri folositoare:
+- **image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului;
+- **head_color**: culoarea titlului (ex: red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey); are sens mai mult atunci cand se folosesc imagini de background;
+- **image_left**: numele unei imagini care sa fie pusa in stanga textului (ex: poza_about.jpg);
+
 
 {:.ui.violet.dividing.header}
 ## Titluri

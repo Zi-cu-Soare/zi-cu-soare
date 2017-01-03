@@ -23,7 +23,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-paginate: 5
+# paginate: 5
 compress_html:
   blanklines: true
 

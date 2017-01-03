@@ -3,10 +3,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.7/jBox.min.js"></script>
 <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
 <script type="text/javascript">
-// Start !
 $(function(){
   // Cookie warning
-  if (localStorage.getItem('accepted-cookie') != "true"){
+  if (localStorage.getItem('accepted-cookie') != 'true'){
     $('.cookie.message').removeClass("hidden")
   }
   $('.cookie.message .close').on('click', function(){

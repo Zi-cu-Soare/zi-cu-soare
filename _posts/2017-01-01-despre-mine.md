@@ -3,7 +3,7 @@ title:  "Despre mine"
 teaser: "Primul meu articol - despre mine"
 categories: pasiuni
 tags: blog despre mine
-right_image: poza_about.jpg
+image_left: poza_about.jpg
 ---
 Ridic privirea catre cer, zambesc...
 
