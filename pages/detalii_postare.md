@@ -16,8 +16,7 @@ O postare e doar un fisier simplu, dar care trebuie sa respecte un **format foar
 
 Articolul trebuie sa inceapa cu data, urmat de titlu, urmat de extensia "**.md**".
 
-Separarea cuvintelor se poate face **doar cu liniute** si textul poate contine doar caractere
-latine, niciodata [ă, î, ș, ț].
+Separarea cuvintelor se poate face **doar cu liniute** si textul poate contine doar caractere latine, niciodata [ă, î, ș, ț].
 
 Exemple:
 
@@ -26,9 +25,7 @@ Exemple:
 2016-12-31-este-revelion.md
 ```
 
-Fisierul se poate redenumi (de ex. pentru a modifica data), dar in acest caz
-link-urile catre articol se vor strica si oricine a share-uit articolul pe Facebook sau Twitter
-nu il mai poate accesa.
+Fisierul se poate redenumi (de ex. pentru a modifica data), dar in acest caz link-urile catre articol se vor strica si oricine a share-uit articolul pe Facebook sau Twitter nu il mai poate accesa.
 
 Deci cel mai bine, odata ce a fost postat un articol, **sa nu se mai redenumeasca**.
 
@@ -40,16 +37,16 @@ Detaliile META ale articolului sunt absolut vitale pentru identificarea continut
 
 Un articol poate fi intr-una, sau mai multe categorii, dar cel mai bine **doar una**.
 
-Lista de categorii valide:
-- bucatarie = Mami găteșteee
-- montessori = Montessori acasă
-- pasiuni = Pasiunile mele
-- timp_liber = Timp liber
-- vacanta = În vacanță
+Lista de categorii **valide** (pe viitor, putem sa mai adaugam, daca au sens):
+- **bucatarie** = Mami găteșteee
+- **montessori** = Montessori acasă
+- **pasiuni** = Pasiunile mele
+- **timp_liber** = Timp liber
+- **vacanta** = În vacanță
 
 Tag-urile pot fi oricat de multe si se separa cu spatiu. Pot fi folosite orice cuvinte.
 
-Tag-urile se folosesc pentru cautarea articolelor.
+Tag-urile se folosesc pentru cautarea foarte usor, dupa tag.
 
 Exemple:
 
@@ -65,7 +62,6 @@ tags: blog content post
 Alte meta-uri folositoare:
 - **image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului;
 - **head_color**: culoarea titlului (ex: red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey); are sens mai mult atunci cand se folosesc imagini de background;
-- **image_left**: numele unei imagini care sa fie pusa in stanga textului (ex: poza_about.jpg);
 
 
 {:.ui.violet.dividing.header}
@@ -77,7 +73,7 @@ Alte meta-uri folositoare:
 
 {% include grid2 left='### Titlu mic' right='`### Titlu mic`' %}
 
-{% include grid2 left='#### Titlu micr' right='`#### Titlu micro`' %}
+{% include grid2 left='#### Titlu micro' right='`#### Titlu micro`' %}
 
 <br />
 
@@ -126,6 +122,17 @@ O lista numerotata:
 </div>
 </div>
 
+#### Linkurile, se fac cu descriere in paranteze patrate, urmat de link in paranteze rotunde:
+
+{% include grid2 left='[Google](https://www.google.com)' right='`[Google](https://www.google.com)`' %}
+<br />
+
+#### O linie orizontala se deseneaza cu 3 liniute una dupa alta:
+
+{% include grid2 left='---' right='`---`' %}
+<br />
+
+
 {:.ui.violet.dividing.header}
 ## Emoticoane Emoji
 
@@ -157,18 +164,63 @@ O lista numerotata:
 
 Cele mai interesante imagini CC0-license le gasesti pe:
 
-- https://unsplash.com/collections (probabil cea mai mare colectie de poze)
-- http://foodshot.co (specializati pe mancare)
-- http://creativevix.com/stock (multe poze in Romania)
-- https://bossfight.co
-- http://cc0.photo
-- https://www.splitshire.com/topbestphotos
-- https://pixabay.com/en/editors_choice
-- http://www.photocrops.com/photos/
-- http://minimography.com
-- http://epicantus.tumblr.com (inspiratie excelenta pentru fotografie)
+- [Unsplash.com/collections](https://unsplash.com/collections) (probabil cea mai mare colectie de poze)
+- [Foodshot.co](http://foodshot.co) (specializati pe mancare)
+- [Creativevix.com](http://creativevix.com/stock) (multe poze in Romania)
+- [Bossfight.co](https://bossfight.co)
+- [CC0.photo](http://cc0.photo)
+- [Splitshire.com](https://www.splitshire.com/topbestphotos)
+- [Pixabay.com](https://pixabay.com/en/editors_choice)
+- [Photocrops.com](http://www.photocrops.com/photos)
+- [Minimography.com](http://minimography.com)
+- [Epicantus.tumblr.com](http://epicantus.tumblr.com) (inspiratie excelenta pentru fotografie)
 
 Sunt mai multe feluri in care pot fi inserate poze in post-uri.
+
+#### O imagine fluida, ocupa tot spatiul lateral (cls='fluid'):
+
+`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='fluid' %}`
+
+{% include image src='kg-m_htywp8-james-douglas.jpg' cls='fluid' %}
+
+
+#### O imagine HUGE, cu dimensiune fixa (cls='huge'):
+
+`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='huge' %}`
+
+{% include image src='kg-m_htywp8-james-douglas.jpg' cls='huge' %}
+
+
+#### O imagine medie, cu dimensiune fixa (cls='large'):
+
+`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='large' %}`
+
+{% include image src='kg-m_htywp8-james-douglas.jpg' cls='large' %}
+
+
+#### O imagine medie, cu dimensiune fixa (cls='medium'):
+
+`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='medium' %}`
+
+{% include image src='kg-m_htywp8-james-douglas.jpg' cls='medium' %}
+
+
+#### O imagine small, cu dimensiune fixa (cls='small'):
+
+`{{ "{% include" }} image src='xk_igfdkhmy-alex-blajan.jpg' cls='small' %}`
+
+{% include image src='xk_igfdkhmy-alex-blajan.jpg' cls='small' %}
+
+
+#### O imagine tiny, cu dimensiune fixa (cls='tiny'):
+
+`{{ "{% include" }} image src='xk_igfdkhmy-alex-blajan.jpg' cls='tiny' %}`
+
+{% include image src='xk_igfdkhmy-alex-blajan.jpg' cls='tiny' %}
+
+
+#### Ca si optiuni in plus, o imagine poate "pluti" in interiorul textului, cu extra optiunea 'left floated', sau 'right floated'.
+<br />
 
 
 {:.ui.violet.dividing.header}
@@ -185,10 +237,10 @@ Sunt mai multe feluri in care pot fi inserate poze in post-uri.
 Alert-urile se fac cu:
 
 ```
-{ % include alert positive='Positive info.' %}
-{ % include alert info='General info.' %}
-{ % include alert warning='A warning.' %}
-{ % include alert error='An error.' %}
+{{ "{% include" }} alert positive='Positive info.' %}
+{{ "{% include" }} alert info='General info.' %}
+{{ "{% include" }} alert warning='A warning.' %}
+{{ "{% include" }} alert error='An error.' %}
 ```
 
 Pentru [Stilizare Markdown Avansata](http://digitaldrummerj.me/styling-jekyll-markdown/).

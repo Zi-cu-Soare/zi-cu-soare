@@ -1,0 +1,11 @@
+{% comment %}
+*
+*   This include lets you easily insert an image.
+*
+*   You can use the following kinds of images:
+*
+*    - src = the name of the image
+*    - cls = mini, tiny, small, medium, large, big, huge, massive, fluid | rounded
+*
+{% endcomment %}
+<img class="ui rounded image {{ include.cls }}" src="{{ "/assets/posts" | absolute_url }}/{{ include.src }}" />

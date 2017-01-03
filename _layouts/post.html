@@ -41,20 +41,7 @@ format: post
     </div>
   </div>
 
-  {% if page.image_left %}
-  <div class="ui grid">
-    <div class="six wide column">
-      <img class="ui fluid image" src="{{ "/assets/images" | absolute_url }}/{{ page.image_left }}" />
-    </div>
-    <div class="ten wide column">
-      {{ content }}
-      <br />
-    </div>
-  </div>
-  {% else %}
   {{ content }}
-  <br />
-  {% endif %}
 
   <div class="ui two column stackable grid">
     <div class="six wide column">

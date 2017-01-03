@@ -1,10 +1,9 @@
-<div class="ui large yellow attached main menu">
+<div class="ui large attached main menu">
   <div id="header-container" class="ui container">
-    <div class="header item">
-      <img src="{{ "/assets/fav" | absolute_url }}/favicon-32.png" style="width:2em;height:2em;" />
-      &nbsp; Zi cu Soare
-    </div>
-    <a class="item {% if page.url == "/" %}active{% endif %}" href="/"><i class="home icon"></i> Acasă</a>
+    <a class="item {% if page.url == "/" %}active{% endif %}" href="/">
+      <img src="{{ "/assets/favicon" | absolute_url }}/favicon-32.png" style="width:2em;height:2em;margin-left:-8px" />
+      &nbsp;Zi cu Soare
+    </a>
     <div class="ui simple dropdown item">
       Categorii <i class="dropdown icon"></i>
       <div class="menu">
