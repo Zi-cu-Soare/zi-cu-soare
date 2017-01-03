@@ -10,7 +10,7 @@ homepage: true
     <h2 class="ui header">Cele mai recente articole</h2>
   </div>
 </div>
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
 {% include article_lg.html post=post %}
 {% endfor %}
 </div>
