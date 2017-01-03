@@ -11,7 +11,8 @@ $(function(){
   $('.cookie.message .close').on('click', function(){
     $(this).closest('.message').transition('fade')
   })
-  $('.cookie.message .mini.button').on('click', function(){
+  $('#accept-cookie').on('click', function(e){
+    e.preventDefault()
     localStorage.setItem('accepted-cookie', true)
     $('.cookie.message .close').click()
   })
