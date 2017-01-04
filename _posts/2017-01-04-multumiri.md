@@ -1,0 +1,14 @@
+---
+title:  "Multumiri"
+teaser: "Multumiri si o explicatie"
+categories: pasiuni
+tags: multumiri
+draft: true
+---
+Ideea de a-mi face blog personal, mi-a venit simplu, ca urmare a nenumaratelor retete si activitati pe care le postez pe pagina mea personala de facebook si pentru care am primit incurajari si am observat ca oamenii, cei care ma urmaresc au reactionat pozitiv la ceea ce postez. M-am gandit sa adun informatiile legate de activitatile noastre montesoriene si hrana pe care eu o prepar cu drag pentru cel mic, intr-un blog. Stim cu totii ca facebook nu este foarte sigur in ceea ce priveste stocarea informatiei si siguranta acesteia. Am transmis ideea sotului meu, care foarte receptiv si deschis, s-a oferit sa ma ajute in crearea unui blog cap-coada, realizat de el.
+
+A folosit tot felul de tehnologii interesante: *Git, Jekyll, Semantic-UI, JavaScript, FireBase*...
+
+Ulterior discutiei noastre am cautat nume pentru blog, ne doream un blog cu titlu optimist si care sa ma reprezinte. Dupa Craciun in timp ce preparam ceva in bucatarie, m-a lovit inspiratia si mi-a venit pur si simplu in minte **o zi cu soare**. Probabil alegerea avea legatura stransa cu starea mea de spirit din ziua respectiva.
+
+:sunflower:

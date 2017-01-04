@@ -3,35 +3,5 @@ title: "Caută"
 layout: page
 permalink: /search/
 ---
-<h2 class="ui header">Caută în arhiva site-ului</h2>
-<div class="ui fluid category search" style="margin-top:2em;max-width:22em;">
-  <div class="ui large fluid icon input">
-    <input id="search" class="prompt" type="text" placeholder="Caută ..." />
-    <i class="search icon"></i>
-  </div>
-</div>
-<div id="arch" class="ui large feed" style="margin-top:2em"></div>
-<script type="text/javascript">
-function search(){
-var v = $('#search').val()
-if(!v) return;
-$.getJSON('/index.json')
-.done(function(d) {
-  var f
-  $.each(d, function(i,j) {
-    if (j.title.indexOf(v) > -1 || j.excerpt.indexOf(v) > -1) {
-      f = true
-      $('#arch').append('<div class="event"><div class="content"><div class="summary">'
-      + '<a href="' + j.url + '">' + j.title + '</a>'
-      + '<div class="date"><i class="calendar icon"></i> ' + j.date
-      + '</div></div></div></div>')
-    }
-  })
-  if(!f) $('#arch').append('<div class="event">Nu am găsit nici un rezultat...</div>')
-})
-.fail(function(err) {console.warn('Error:', err)})
-}
-$('#search').on('keypress',function(e){
-  if(e.which === 13){ $('#arch').empty(); setTimeout(search,10) }
-})
-</script>
+<h2 class="ui header" style="margin-bottom:1em">Caută în arhiva site-ului</h2>
+{% include search.html %}

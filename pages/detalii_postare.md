@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Detalii postare"
-teaser: "Cum se scrie o postare"
 permalink: /detalii_postare/
 sitemap: false
 ---
@@ -13,9 +12,7 @@ sitemap: false
 ## Numele unui articol
 
 O postare e doar un fisier simplu, dar care trebuie sa respecte un **format foarte strict**.
-
-Articolul trebuie sa inceapa cu data, urmat de titlu, urmat de extensia "**.md**".
-
+Articolul trebuie sa inceapa cu data (AN-LUNA-ZI), urmat de titlu, urmat de extensia "**.md**".
 Separarea cuvintelor se poate face **doar cu liniute** si textul poate contine doar caractere latine, niciodata [ă, î, ș, ț].
 
 Exemple:
@@ -25,15 +22,16 @@ Exemple:
 2016-12-31-este-revelion.md
 ```
 
-Fisierul se poate redenumi (de ex. pentru a modifica data), dar in acest caz link-urile catre articol se vor strica si oricine a share-uit articolul pe Facebook sau Twitter nu il mai poate accesa.
+Fisierul trebuie pus in folderul **_posts/**.
 
+Fisierul se poate redenumi (de ex. pentru a modifica data), dar in acest caz link-urile catre articol se vor strica si oricine a share-uit articolul pe Facebook sau Twitter nu il mai poate accesa.
 Deci cel mai bine, odata ce a fost postat un articol, **sa nu se mai redenumeasca**.
 
 
 {:.ui.violet.dividing.header}
 ## META info
 
-Detaliile META ale articolului sunt absolut vitale pentru identificarea continutului dupa tip si tag-uri.
+Detaliile META ale articolului sunt **absolut vitale** pentru identificarea continutului dupa tip si tag-uri.
 
 Un articol poate fi intr-una, sau mai multe categorii, dar cel mai bine **doar una**.
 
@@ -45,8 +43,10 @@ Lista de categorii **valide** (pe viitor, putem sa mai adaugam, daca au sens):
 - **vacanta** = În vacanță
 
 Tag-urile pot fi oricat de multe si se separa cu spatiu. Pot fi folosite orice cuvinte.
-
 Tag-urile se folosesc pentru cautarea foarte usor, dupa tag.
+
+Pentru a fi privat, un articol trebuie sa aiba "draft: true".
+Imediat ce linia "draft: true" este stearsa, articolul va apare public pe prima pagina.
 
 Exemple:
 
@@ -56,6 +56,7 @@ title:  "Un titlu smecher"
 teaser: "Acesta este un titlu smecher. Mi-a luat mult sa-l scriu."
 categories: bucatarie
 tags: blog content post
+draft: true
 ---
 ```
 
@@ -177,46 +178,51 @@ Cele mai interesante imagini CC0-license le gasesti pe:
 
 Sunt mai multe feluri in care pot fi inserate poze in post-uri.
 
-#### O imagine fluida, ocupa tot spatiul lateral (cls='fluid'):
+Imaginile au 3 parametri:
+- alt = o descriere text a pozei (foarte importanta pentru Google si Facebook)
+- src = numele pozei + extensie (JPG, PNG, sau GIF)
+- cls = cat de mare sa fie afisata poza
 
-`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='fluid' %}`
+#### Imaginile fluide, ocupa tot spatiul lateral (cls="fluid"):
 
-{% include image src='kg-m_htywp8-james-douglas.jpg' cls='fluid' %}
+`{{ "{% include" }} image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="fluid" %}`
 
-
-#### O imagine HUGE, cu dimensiune fixa (cls='huge'):
-
-`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='huge' %}`
-
-{% include image src='kg-m_htywp8-james-douglas.jpg' cls='huge' %}
+{% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="fluid" %}
 
 
-#### O imagine medie, cu dimensiune fixa (cls='large'):
+#### Imaginile HUGE, au dimensiune fixa (cls="huge"):
 
-`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='large' %}`
+`{{ "{% include" }} image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="huge" %}`
 
-{% include image src='kg-m_htywp8-james-douglas.jpg' cls='large' %}
-
-
-#### O imagine medie, cu dimensiune fixa (cls='medium'):
-
-`{{ "{% include" }} image src='kg-m_htywp8-james-douglas.jpg' cls='medium' %}`
-
-{% include image src='kg-m_htywp8-james-douglas.jpg' cls='medium' %}
+{% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="huge" %}
 
 
-#### O imagine small, cu dimensiune fixa (cls='small'):
+#### O imagine medie, au dimensiune fixa (cls="large"):
 
-`{{ "{% include" }} image src='xk_igfdkhmy-alex-blajan.jpg' cls='small' %}`
+`{{ "{% include" }} image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="large" %}`
 
-{% include image src='xk_igfdkhmy-alex-blajan.jpg' cls='small' %}
+{% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="large" %}
 
 
-#### O imagine tiny, cu dimensiune fixa (cls='tiny'):
+#### O imagine medie, cu dimensiune fixa (cls="medium"):
 
-`{{ "{% include" }} image src='xk_igfdkhmy-alex-blajan.jpg' cls='tiny' %}`
+`{{ "{% include" }} image alt="Palme" src="kg-m_htywp8-james-douglas.jpg" cls="medium" %}`
 
-{% include image src='xk_igfdkhmy-alex-blajan.jpg' cls='tiny' %}
+{% include image alt="Palme" src="kg-m_htywp8-james-douglas.jpg" cls="medium" %}
+
+
+#### O imagine small, cu dimensiune fixa (cls="small"):
+
+`{{ "{% include" }} image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="small" %}`
+
+{% include image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="small" %}
+
+
+#### O imagine tiny, cu dimensiune fixa (cls="tiny"):
+
+`{{ "{% include" }} image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="tiny" %}`
+
+{% include image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="tiny" %}
 
 
 #### Ca si optiuni in plus, o imagine poate "pluti" in interiorul textului, cu extra optiunea 'left floated', sau 'right floated'.
