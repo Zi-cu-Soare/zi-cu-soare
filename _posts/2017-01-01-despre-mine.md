@@ -3,6 +3,7 @@ title:  "Despre mine"
 teaser: "Primul meu articol - despre mine"
 categories: pasiuni
 tags: blog despre mine
+draft: true
 ---
 {% include image src='poza_about.jpg' cls='large left floated' %}
 

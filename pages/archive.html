@@ -6,6 +6,7 @@ permalink: /archive/
 <h2 class="ui header">Toate articolele</h2>
 <div class="ui large feed" style="margin-top:1.5em">
 {% for post in site.posts limit:999 %}
+{% if post.draft %}{% continue %}{% endif %}
 {% include article_sm.html post=post %}
 {% endfor %}
 </div>

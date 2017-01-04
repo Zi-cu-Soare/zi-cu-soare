@@ -5,6 +5,7 @@ permalink: /index.json
 ---
 [
 {% for post in site.posts %}
+{% if post.draft %}{% continue %}{% endif %}
   {
     "title"   : "{{ post.title }}",
     "excerpt" : "{{ post.excerpt | strip_html | strip_newlines }}",

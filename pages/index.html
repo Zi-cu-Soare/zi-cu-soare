@@ -10,8 +10,12 @@ homepage: true
     <h2 class="ui header">Cele mai recente articole</h2>
   </div>
 </div>
-{% for post in site.posts limit:5 %}
+{% assign index = 1 %}
+{% for post in site.posts %}
+{% if post.draft %}{% continue %}{% endif %}
 {% include article_lg.html post=post %}
+{% if index >= 5 %}{% break %}{% endif %}
+{% assign index = index | plus: 1 %}
 {% endfor %}
 </div>
 <br />

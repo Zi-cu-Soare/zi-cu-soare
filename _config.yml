@@ -7,7 +7,7 @@ description: >
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "" # the subpath of your site, eg: /blog
+baseurl: "" # The subpath of the§ site, eg: /blog
 url: "http://zi-cu-soare.ro" # the base hostname & protocol for your site, eg: http://example.com
 twitter_username: zi_cu_soare
 github_username:  zi_cu_soare
@@ -22,6 +22,7 @@ defaults:
       author: ana
 
 # Build settings
+permalink: /:year/:month/:title
 markdown: kramdown
 kramdown:
   input: GFM

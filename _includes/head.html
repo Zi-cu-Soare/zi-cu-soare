@@ -45,6 +45,9 @@
   <meta property="article:author" content="{{ site.url }}/info/">
   {% endif %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% for cat in page.categories limit:1 %}
+  <meta property="article:section" content="{{ cat }}">
+  {% endfor %}
   {% if page.tags %}
   <meta itemprop="keywords" content="{{ page.tags | join: ',' }}">
   {% for tag in page.tags %}
