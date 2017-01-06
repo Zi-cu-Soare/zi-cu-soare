@@ -9,6 +9,7 @@ function ZiCuSoare() {
   this.initFirebase()
 }
 ZiCuSoare.prototype.initFirebase = function() {
+  this.addr = slugifyAddress()
   this.auth = firebase.auth()
   this.db = firebase.database()
   this.re_db = this.db.ref().child('reactions')
@@ -42,14 +43,13 @@ ZiCuSoare.prototype.onAuthStateChanged = function(user) {
 }
 
 ZiCuSoare.prototype.listReactions = function(snapshot) {
-  var a = slugifyAddress()
-  if (!snapshot.val()[a]) return
-  this.reactions = snapshot.val()[a]
+  if (!snapshot.val()[this.addr]) return
+  this.reactions = snapshot.val()[this.addr]
   $("#total-reactions").trigger("reaction-change",this.reactions)
   this.readMyReaction()
 }
 ZiCuSoare.prototype.readMyReaction = function() {
-  var a = slugifyAddress()
+  if (!this.checkSignedIn()) return
   if (!this.reactions) return
   var u = this.auth.currentUser.uid
   var m = this.reactions[u]
@@ -57,10 +57,9 @@ ZiCuSoare.prototype.readMyReaction = function() {
   $("#my-reaction").trigger("reaction-change",m.reaction)
 }
 ZiCuSoare.prototype.sendReaction = function(reaction) {
-  var a = slugifyAddress()
   var u = this.auth.currentUser.uid
-  console.log('Reactie:', reaction)
-  this.re_db.child(a).child(u).set({
+  console.log('Trimis reactia:', reaction)
+  this.re_db.child(this.addr).child(u).set({
     name: this.auth.currentUser.displayName,
     reaction: reaction,
     postedAt: Date.now()
@@ -107,7 +106,7 @@ $(function(){
   window.z = new ZiCuSoare()
 
   $("#total-reactions").on("reaction-change",function(_,r){
-    console.log('Reactii:', Object.keys(r).length)
+    console.log('Total reactii:', Object.keys(r).length)
     var l=0,h=0
     for (var key in r) {
       if (r[key].reaction==='love') l++
@@ -118,10 +117,12 @@ $(function(){
   })
   $("#my-reaction").on("reaction-change",function(_,r){
     console.log('Reactia mea:', r)
-    if (r==='love') {
+    if (r=='love') {
       $("#send-love").addClass("red")
-    } else if (r==='hate') {
+      $("#send-hate").removeClass("brown")
+    } else if (r=='hate') {
       $("#send-hate").addClass("brown")
+      $("#send-love").removeClass("red")
     }
   })
   $("#my-reaction").on("sign-in",function(_,o){
@@ -154,8 +155,6 @@ $(function(){
   })
 
   $("#send-love")
-    .mouseenter(function(){ $(this).addClass("red") })
-    .mouseleave(function(){ $(this).removeClass("red") })
     .click(function(){
       if(!z.checkSignedIn()){
         shake("#post-auth-req")
@@ -164,8 +163,6 @@ $(function(){
       }
     })
   $("#send-hate")
-    .mouseenter(function(){ $(this).addClass("brown") })
-    .mouseleave(function(){ $(this).removeClass("brown") })
     .click(function(){
       if(!z.checkSignedIn()){
         shake("#post-auth-req")
