@@ -8,4 +8,4 @@
 *    - cls = mini, tiny, small, medium, large, big, huge, massive, fluid | rounded
 *
 {% endcomment %}
-<img class="ui rounded image {{ include.cls }}" alt="{{ include.alt }}" src="{{ "/assets/posts" | absolute_url }}/{{ include.src }}" />
+<img class="ui rounded image {{ include.cls }}" alt="{{ include.alt }}" src="{{ "/assets/post_images" | absolute_url }}/{{ include.src }}" />

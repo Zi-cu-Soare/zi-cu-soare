@@ -13,9 +13,9 @@ format: post
 {% assign title = title | strip_html | escape | strip_newlines %}
 
 {% endcapture %}
-<div id="posthead" class="ui padded vertical center aligned segment" style="{% if page.image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image }}) center no-repeat{% endif %}">
+<div id="posthead" class="ui padded vertical center aligned segment" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
   <div class="ui padded basic segment">
-    <h1 class="ui {% if page.head_color %}{{ page.head_color }}{% endif %} header">
+    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
       {{ page.title | escape_once }}
       {% if page.teaser %}<div class="sub header">{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
@@ -60,10 +60,12 @@ format: post
       {% endfor %}
     </div>
     <div class="twelve wide column">
+      <span id="total-reactions">
       Reactii:
-      <div class="ui label"><i class="react heart red icon"></i>0</div>
-      <div class="ui label"><i class="react thumbs down brown icon"></i>0</div>
-      <span> | Share:</span>
+      <div class="ui label"><i class="heart red icon"></i><span id="love-reactions">0</span></div>
+      <div class="ui label"><i class="thumbs down brown icon"></i><span id="hate-reactions">0</span></div>
+      </span>
+      <span> | Share: </span>
       <a href="https://www.facebook.com/sharer/sharer.php?s=100&u={{url}}"
         onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');return false;">
       <i class="share facebook f circular link icon"></i>
@@ -78,10 +80,22 @@ format: post
       </a>
     </div>
   </div>
-  <div id="login-popup" style="display:none">
-    <h3 style="margin-bottom:.5em">Hey hey!</h3>
-    <p>Trebuie sa te autentifici ca sa dai like <i class="empty heart icon"></i>, sau meh <i class="meh icon"></i>, sau sa comentezi <i class="comment outline icon"></i>.<br /><span style="color:#00B5AD!important">Dureaza doar o secunda si nu doare!</span></p>
-    <p>Login cu: &nbsp;<i class="facebook login f link icon"></i> &nbsp;<i class="google plus login link icon"></i> &nbsp;<i class="twitter login link icon"></i></p>
+  <div class="ui icon message" style="margin-top:2em">
+    <i class="smile icon"></i>
+    <div class="content">
+      <div class="header" style="margin-bottom:5px">Spune-ți și tu părerea</div>
+      <!-- <i id="comm-post" class="comment violet link icon"></i> -->
+      <span id="my-reaction">
+        <i id="send-love" class="heart link icon"></i><i id="send-hate" class="thumbs down link icon"></i>
+      </span>
+      |
+      <span id="post-auth-req" class="hidden">
+        Login cu: <i class="facebook login f link icon"></i> &nbsp;<i class="google login link icon"></i> &nbsp;<i class="twitter login link icon"></i>
+      </span>
+      <span id="post-auth-ok" class="hidden">
+        Hello <i id="prov-id" class="icon" style="font-size:0.85em"></i><span id="user-name" style="color:#777"></span> | &nbsp;<i id="post-sign-out" class="sign out link icon">Ieșire</i>
+      </span>
+  </div>
   </div>
 </div></div></div>
-<!-- <script src="{{ "/assets/js" | absolute_url }}/postare.js"></script> -->
+<script src="{{ "/assets/js" | absolute_url }}/postare.js"></script>

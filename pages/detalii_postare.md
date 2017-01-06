@@ -61,12 +61,12 @@ draft: true
 ```
 
 Alte meta-uri folositoare:
-- **image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului;
-- **head_color**: culoarea titlului (ex: red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey); are sens mai mult atunci cand se folosesc imagini de background;
+- **top_image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului; aceste imagini se incarca in folderul "**assets/top_images**", pentru a nu fi amestecate cu cele din interiorul postarilor;
+- **title_color**: culoarea titlului (ex: red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey); are sens mai mult atunci cand se folosesc imagini de background;
 
 
 {:.ui.violet.dividing.header}
-## Titluri
+## Cum se scriu titlurile
 
 {% include grid2 left='# Un titlu mare' right='`# Un titlu mare`' %}
 
@@ -79,7 +79,7 @@ Alte meta-uri folositoare:
 <br />
 
 {:.ui.violet.dividing.header}
-## Formatare text
+## Cum se formateaza textul
 
 {% include grid2 left='**Bold**, *Italic*, _Subliniat_' right='`**Bold**, *Italic*, _Subliniat_`' %}
 
@@ -153,11 +153,47 @@ O lista numerotata:
 
 {% include grid2 left=':snowflake: :snowman: :santa: :package: :gift:' right='`:snowflake: :snowman: :santa: :package: :gift:`' %}
 
-#### Lista completa: "[Emoji lists](http://emoji-cheat-sheet.com/)".
+#### Lista completa Emoji: "[Huge Emoji Lists](http://emoji-cheat-sheet.com/)".
+
+
+{:.ui.violet.dividing.header}
+## Icon-uri
+
+{% include grid2 left='<i class="facebook icon"></i>' right='`<i class="facebook icon"></i>`' %}
+{% include grid2 left='<i class="twitter icon"></i>' right='`<i class="twitter icon"></i>`' %}
+{% include grid2 left='<i class="google icon"></i>' right='`<i class="google icon"></i>`' %}
+{% include grid2 left='<i class="birthday icon"></i>' right='`<i class="birthday icon"></i>`' %}
+{% include grid2 left='<i class="bomb icon"></i>' right='`<i class="bomb icon"></i>`' %}
+{% include grid2 left='<i class="cloud icon"></i>' right='`<i class="cloud icon"></i>`' %}
+{% include grid2 left='<i class="sun icon"></i>' right='`<i class="sun icon"></i>`' %}
+{% include grid2 left='<i class="photo icon"></i>' right='`<i class="photo icon"></i>`' %}
+{% include grid2 left='<i class="paint brush icon"></i>' right='`<i class="paint brush icon"></i>`' %}
+
+#### Culori diferite
+
+*[red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey]*
+
+{% include grid2 left='<i class="blue cloud icon"></i>' right='`<i class="blue cloud icon"></i>`' %}
+{% include grid2 left='<i class="yellow sun icon"></i>' right='`<i class="yellow sun icon"></i>`' %}
+{% include grid2 left='<i class="red heart icon"></i>' right='`<i class="red heart icon"></i>`' %}
+{% include grid2 left='<i class="pink shopping bag icon"></i>' right='`<i class="pink shopping bag icon"></i>`' %}
+
+#### Dimensiuni diferite
+
+{% include grid2 left='<i class="tiny home icon"></i>' right='`<i class="tiny home icon"></i>`' %}
+{% include grid2 left='<i class="small home icon"></i>' right='`<i class="small home icon"></i>`' %}
+{% include grid2 left='<i class="home icon"></i>' right='`<i class="home icon"></i>`' %}
+{% include grid2 left='<i class="large home icon"></i>' right='`<i class="large home icon"></i>`' %}
+{% include grid2 left='<i class="big home icon"></i>' right='`<i class="big home icon"></i>`' %}
+{% include grid2 left='<i class="huge home icon"></i>' right='`<i class="huge home icon"></i>`' %}
+
+#### Lista completa Icon-uri: "[Huge Icons Lists](http://semantic-ui.com/elements/icon.html)".
 
 
 {:.ui.violet.dividing.header}
 ## Inserare video
+
+[...] Inca nu am implementat ...
 
 
 {:.ui.violet.dividing.header}
@@ -176,6 +212,8 @@ Cele mai interesante imagini CC0-license le gasesti pe:
 - [Minimography.com](http://minimography.com)
 - [Epicantus.tumblr.com](http://epicantus.tumblr.com) (inspiratie excelenta pentru fotografie)
 
+Imaginile din interiorul articolelor se incarca in folderul "**assets/post_images**", pentru a nu fi amestecate cu cele de sus din titlu !
+
 Sunt mai multe feluri in care pot fi inserate poze in post-uri.
 
 Imaginile au 3 parametri:
@@ -190,35 +228,35 @@ Imaginile au 3 parametri:
 {% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="fluid" %}
 
 
-#### Imaginile HUGE, au dimensiune fixa (cls="huge"):
+#### Imaginile HUGE, au dimensiune fixa de 800px (cls="huge"):
 
 `{{ "{% include" }} image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="huge" %}`
 
 {% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="huge" %}
 
 
-#### O imagine medie, au dimensiune fixa (cls="large"):
+#### O imagine LARGE, au dimensiune fixa de 450px (cls="large"):
 
 `{{ "{% include" }} image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="large" %}`
 
 {% include image alt="Palme intinse" src="kg-m_htywp8-james-douglas.jpg" cls="large" %}
 
 
-#### O imagine medie, cu dimensiune fixa (cls="medium"):
+#### O imagine medie, cu dimensiune fixa de 300px (cls="medium"):
 
 `{{ "{% include" }} image alt="Palme" src="kg-m_htywp8-james-douglas.jpg" cls="medium" %}`
 
 {% include image alt="Palme" src="kg-m_htywp8-james-douglas.jpg" cls="medium" %}
 
 
-#### O imagine small, cu dimensiune fixa (cls="small"):
+#### O imagine small, cu dimensiune fixa de 150px (cls="small"):
 
 `{{ "{% include" }} image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="small" %}`
 
 {% include image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="small" %}
 
 
-#### O imagine tiny, cu dimensiune fixa (cls="tiny"):
+#### O imagine tiny, cu dimensiune fixa de 80px (cls="tiny"):
 
 `{{ "{% include" }} image alt="Floare" src="xk_igfdkhmy-alex-blajan.jpg" cls="tiny" %}`
 
@@ -230,23 +268,51 @@ Imaginile au 3 parametri:
 
 
 {:.ui.violet.dividing.header}
-## Chestii avansate
+## Alte elemente care pot fi folosite
 
-{% include alert positive='Show a positive *information*.' %}
+#### Tabele
 
-{% include alert info='Show an info alert with *outstanding* info.' %}
+<div class="ui grid" markdown="1">
+<div class="six wide column" markdown="1">
+{:.ui.celled.table}
+|---
+| Titlul tabelului
+|---
+| celula 1 | celula 2
+| celula 3 | celula 4
 
-{% include alert warning='Oh man, this is not looking good at all...' %}
+</div>
 
-{% include alert error='Damn !This was a big error !' %}
+<div class="six wide column" markdown="1">
+```
+{:.ui.celled.table}
+|---
+| Titlul tabelului
+|---
+| celula 1 | celula 2
+| celula 3 | celula 4
+```
+</div>
+</div>
 
-Alert-urile se fac cu:
+
+#### Mesaje colorate
+
+{% include alert positive='O informatie cu efect pozitiv.' %}
+
+{% include alert info='O informatie interesanta.' %}
+
+{% include alert warning='Un warning...' %}
+
+{% include alert error='La naiba ! O eroare periculoasa !' %}
+
+Mesajele se scriu cu:
 
 ```
-{{ "{% include" }} alert positive='Positive info.' %}
-{{ "{% include" }} alert info='General info.' %}
-{{ "{% include" }} alert warning='A warning.' %}
-{{ "{% include" }} alert error='An error.' %}
+{{ "{% include" }} alert positive='O informatie cu efect pozitiv.' %}
+{{ "{% include" }} alert info='O informatie interesanta.' %}
+{{ "{% include" }} alert warning='Un warning...' %}
+{{ "{% include" }} alert error='O eroare periculoasa !' %}
 ```
 
 Pentru [Stilizare Markdown Avansata](http://digitaldrummerj.me/styling-jekyll-markdown/).
