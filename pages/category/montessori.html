@@ -6,6 +6,6 @@ permalink: /montessori/
 <h2>{{ page.title }}</h2>
 <div class="ui large feed" style="margin-top:1.5em">
 {% for post in site.categories.montessori %}
-{% include article_sm.html post=post %}
+{% if post.draft %}{% continue %}{% endif %}{% include article_sm.html post=post %}
 {% endfor %}
 </div>

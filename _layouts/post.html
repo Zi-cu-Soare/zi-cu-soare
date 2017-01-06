@@ -21,8 +21,8 @@ format: post
     </h1>
   </div>
 </div>
-<div class="ui container" style="padding:1.5em 0 2em"><div class="ui grid">
-  <div id="content" class="fourteen wide column">
+<div class="ui container"><div id="content" class="ui grid">
+  <div class="fourteen wide column">
   <div class="ui feed">
     <div class="event">
       <div class="label">
@@ -60,14 +60,10 @@ format: post
       {% endfor %}
     </div>
     <div class="twelve wide column">
-      <!-- <span>Părerea ta:</span>
-      <i id="love-post" class="heart red link icon"></i>
-      <i id="meh-post" class="meh brown link icon"></i>
-      <i id="comm-post" class="comment violet link icon"></i>
-      <span>| &nbsp;<span id="post-auth-status">...</span>:</span>
-      <i id="post-sign-in" class="sign in hidden link icon"></i>
-      <i id="post-sign-out" class="sign out hidden link icon"></i> -->
-      <span>Share:</span>
+      Reactii:
+      <div class="ui label"><i class="react heart red icon"></i>0</div>
+      <div class="ui label"><i class="react thumbs down brown icon"></i>0</div>
+      <span> | Share:</span>
       <a href="https://www.facebook.com/sharer/sharer.php?s=100&u={{url}}"
         onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');return false;">
       <i class="share facebook f circular link icon"></i>
