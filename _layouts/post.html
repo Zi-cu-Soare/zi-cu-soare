@@ -41,6 +41,7 @@ format: post
     </div>
   </div>
 
+  {% if page.draft %}<h1 class="ui red dividing center aligned header">DRAFT</h1>{% endif %}
   {{ content }}
 
   <div class="ui two column stackable grid">

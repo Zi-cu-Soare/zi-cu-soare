@@ -22,7 +22,7 @@
   body { font-size:16px }
   #fronthead h1, #posthead h1 { font-size:4em }
   #fronthead { min-height:675px }
-  #posthead { min-height:110px }
+  #posthead { min-height:110px; border-bottom:2px solid #FBBD08; }
   img.logo { width:2em!important; height:2em; vertical-align:middle; }
   .hidden { display:none!important }
   .share.icon.facebook { color:#3b5998 }
@@ -61,6 +61,7 @@
   {% if author %}
   <meta property="article:author" content="{{ author }}">
   {% endif %}
+  <meta name="google-site-verification" content="z98MN2A2gQy5DZPRmfU5JheRNZvw70ch9ujdzdCVp7A">
   {% include favicon.html %}
   {% include scripts.html %}
 </head>
