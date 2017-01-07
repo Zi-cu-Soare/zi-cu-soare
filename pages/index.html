@@ -1,0 +1,21 @@
+---
+title: Acasă
+layout: front
+permalink: /
+homepage: true
+---
+<div class="ui items">
+<div class="item">
+  <div class="ui padded text container basic segment" style="padding-left:0">
+    <h2 class="ui header">Cele mai recente articole</h2>
+  </div>
+</div>
+{% assign index = 1 %}
+{% for post in site.posts %}
+{% if post.draft %}{% continue %}{% endif %}
+{% include article_lg.html post=post %}
+{% if index >= 5 %}{% break %}{% endif %}
+{% assign index = index | plus: 1 %}
+{% endfor %}
+</div>
+<br />

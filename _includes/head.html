@@ -1,0 +1,70 @@
+{% capture ignore %}
+
+{% assign url = site.baseurl | prepend: site.url %}
+
+{% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
+{% assign description = description | strip_html | escape | strip %}
+
+{% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
+
+{% assign title = title | strip_html | escape | strip_newlines %}
+
+{% endcapture %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Zi-cu-Soare | {{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.7/jBox.min.css">
+  <style>
+  body { font-size:16px }
+  #fronthead h1, #posthead h1 { font-size:4em }
+  #fronthead { min-height:675px; background-size:cover!important; }
+  #posthead { min-height:110px; border-bottom:2px solid #FBBD08; }
+  #content { min-height:480px; padding:1.5em 0 2em; text-align:justify; }
+  img.logo { width:2em!important; height:2em; vertical-align:middle; }
+  .hidden { display:none!important }
+  .share.icon.facebook { color:#3b5998 }
+  .share.icon.google { color:#dd4b39 }
+  .share.icon.twitter { color:#00aced }
+  .heart.link.icon:hover { color:#DB2828!important }
+  .thumbs.down.link.icon:hover { color:#A5673F!important }
+  </style>
+  {% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
+  <link rel="canonical" href="{{ url }}{{ page.url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ title }}" href="{{ url }}/feed.xml">
+  <meta property="og:locale" content="ro_RO">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.excerpt %}
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{{ description }}">
+  {% else %}
+  <meta property="og:type" content="website">
+  {% endif %}
+  {% if page.image %}
+  <meta property="og:image" content="{{ url }}/assets/top_images/{{ page.image }}">
+  {% endif %}
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.url }}/info/">
+  {% endif %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% for cat in page.categories limit:1 %}
+  <meta property="article:section" content="{{ cat }}">
+  {% endfor %}
+  {% if page.tags %}
+  <meta itemprop="keywords" content="{{ page.tags | join: ',' }}">
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}">
+  {% endfor %}
+  {% endif %}
+  {% if author %}
+  <meta property="article:author" content="{{ author }}">
+  {% endif %}
+  <meta name="google-site-verification" content="z98MN2A2gQy5DZPRmfU5JheRNZvw70ch9ujdzdCVp7A">
+  {% include favicon.html %}
+  {% include scripts.html %}
+</head>

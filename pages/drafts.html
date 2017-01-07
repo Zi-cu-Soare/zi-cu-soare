@@ -1,0 +1,14 @@
+---
+title: "Drafts"
+layout: page
+permalink: /drafts/
+sitemap: false
+---
+<h2 class="ui header">Toate draft-urile</h2>
+<div class="ui large feed" style="margin-top:1.5em">
+{% for post in site.posts %}
+{% if post.draft %}
+{% include article_sm.html post=post %}
+{% endif %}
+{% endfor %}
+</div>

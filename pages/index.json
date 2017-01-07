@@ -1,0 +1,19 @@
+---
+layout: null
+title: "Articles index"
+permalink: /index.json
+---
+[
+{% for post in site.posts %}
+{% if post.draft %}{% continue %}{% endif %}
+  {
+    "title"   : "{{ post.title }}",
+    "excerpt" : "{{ post.excerpt | strip_html | strip_newlines }}",
+    "url"     : "{{ post.url }}",
+    "date"    : "{{ post.date | date: "%B %d, %Y" }}",
+    "author"  : "{{ post.author }}",
+    "tags"    : "{{ post.tags | join: "," }}",
+    "categories" : "{{ post.categories | join: "," }}"
+  } {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+]

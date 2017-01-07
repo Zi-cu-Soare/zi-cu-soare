@@ -1,0 +1,28 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.7/jBox.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga')
+ga('create','UA-89970010-1','auto')
+ga('send','pageview')
+</script>
+<script type="text/javascript">
+$(function(){
+  // Cookie warning
+  if (localStorage.getItem('accepted-cookie') != 'true'){
+    $('.cookie.message').removeClass("hidden")
+  }
+  $('.cookie.message .close').on('click', function(){
+    $(this).closest('.message').transition('fade')
+  })
+  $('#ok-cookie').on('click', function(e){
+    e.preventDefault()
+    localStorage.setItem('accepted-cookie', true)
+    $('.cookie.message .close').click()
+  })
+})
+</script>

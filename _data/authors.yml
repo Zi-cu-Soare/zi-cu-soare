@@ -1,0 +1,16 @@
+
+ana:
+  name: "Ana Constantin"
+  roles: "writer, designer"
+  email: "ana-maria.constantin @ hotmail.com"
+  web: http://zi-cu-soare.ro/
+  twitter: ana
+  avatar: http://zi-cu-soare.ro/assets/profile/ana.jpg
+
+cro:
+  name: "Cristi Constantin"
+  roles: "webmaster, developer"
+  email: "cristi.constantin @ live.com"
+  web: https://github.com/croqaz/
+  twitter: croqaz
+  avatar: http://zi-cu-soare.ro/assets/profile/cro.jpg

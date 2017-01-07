@@ -1,0 +1,19 @@
+<div class="ui large attached main menu">
+  <div id="header-container" class="ui container">
+    <a class="item {% if page.url == "/" %}active{% endif %}" href="/">
+      <img alt="Logo" class="logo" src="/assets/favicon/favicon-32.png" style="margin-left:-8px" />
+      &nbsp;Zi cu Soare
+    </a>
+    <div class="ui simple dropdown item">
+      Categorii <i class="dropdown icon"></i>
+      <div class="menu">
+        <a class="item {% if page.url == "/bucatarie/" %}active{% endif %}" href="/bucatarie">Mami gătește</a>
+        <a class="item {% if page.url == "/montessori/" %}active{% endif %}" href="/montessori">Montessori acasă</a>
+        <a class="item {% if page.url == "/pasiuni/" %}active{% endif %}" href="/pasiuni">Pasiunile mele</a>
+        <a class="item {% if page.url == "/timp_liber/" %}active{% endif %}" href="/timp_liber">Timp liber</a>
+        <a class="item {% if page.url == "/vacanta/" %}active{% endif %}" href="/vacanta">În vacanță</a>
+      </div>
+    </div>
+    <a class="item {% if page.url == "/info/" %}active{% endif %}" href="/info"><i class="info icon"></i> Info</a>
+  </div>
+</div>

@@ -1,0 +1,18 @@
+{% comment %}
+*
+*   This include lets you easily display an alert.
+*
+*   You can use the following kinds of alerts:
+*
+*    - positive
+*    - info
+*    - warning
+*    - error
+*
+{% endcomment %}
+{% for entry in include %}
+{% if entry[0] == 'classes' %}{% continue %}{% endif %}
+<div class="ui {{ entry[0] }} {{ include.classes }} message">
+  {% if entry[0] contains 'terminal' %}{{ entry[1] }}{% else %}{{ entry[1] | markdownify }}{% endif %}
+</div>
+{% endfor %}
