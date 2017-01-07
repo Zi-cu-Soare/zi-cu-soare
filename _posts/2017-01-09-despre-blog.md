@@ -1,7 +1,7 @@
 ---
 title:  "Numele blogului"
 teaser: "Numele blogului - Multumiri"
-categories: pasiuni
+categories: altele
 tags: multumiri
 draft: true
 ---

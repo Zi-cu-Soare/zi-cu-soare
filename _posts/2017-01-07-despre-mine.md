@@ -1,7 +1,7 @@
 ---
 title:  "Despre mine"
 teaser: "Cateva cuvinte despre mine"
-categories: pasiuni
+categories: altele
 tags: blog despre mine
 ---
 {% include image src='poza_about.jpg' cls='large left floated' %}
@@ -19,7 +19,7 @@ Numele meu este Ana, mamica de Rares nazdravan si iubibil de numai 1 an si 10 lu
 Varsator visator, temerar, iubitor de frumos, cu suflet cald si temperament rebel.
 Sunt pasionata de lucrul manual de cand ma stiu. In apropierea adolescentei am inceput sa desenez schite de design, stangaci, dar cu entuziasm. Am continuat sa-mi fructific pasiunea pentru lucrul de mana cu bijuterii, urmand in prealabil un curs specializat, apoi mi-am facut blog si pagina, pe vremea respectiva se numea Jewlery from the heart. Tot cu elan si motivatia de a face lucruri noi, am incercat tehnica decoupage, care imi este draga si in prezent si ale caror lucrari le puteti gasi pe pagina de [Facebook AnaVintageBlue](https://www.facebook.com/AnaVintageBlue/) si [Blogul VintageBlue](https://vintage-blue.blogspot.com/). :art:
 
-Imi place fotografia, pozele portret si peisaj. Daca as mai avea 20 de ani, as alege sa calatoresc in toata lumea. 
+Imi place fotografia, pozele portret si peisaj. Daca as mai avea 20 de ani, as alege sa calatoresc in toata lumea.
 Sunt o persoana spirituala, ocazional practic yoga. Am facut gimnastica de performanta, sportul a fost o parte importanta din copilaria mea, si-mi doresc sa-mi reiau acest obicei sanatos.
 
 Pun suflet in tot ceea ce fac si in relatiile mele cu oamenii. Ma consider un om cinstit, orgolios si cu principii bine intemeiate. Ma atasez usor, rezonez rapid cu tot ce inseamna schimbare si lupt cu sargunita pentru tot ceea ce este bun si frumos in lume si in oameni. Imi place sa traiesc in liniste si armonie cu tot ce ma inconjoara.

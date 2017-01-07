@@ -41,6 +41,7 @@ Lista de categorii **valide** (pe viitor, putem sa mai adaugam, daca au sens):
 - **pasiuni** = Pasiunile mele
 - **timp_liber** = Timp liber
 - **vacanta** = În vacanță
+- **altele** = Altele
 
 Tag-urile pot fi oricat de multe si se separa cu spatiu. Pot fi folosite orice cuvinte.
 Tag-urile se folosesc pentru cautarea foarte usor, dupa tag.
