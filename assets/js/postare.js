@@ -91,10 +91,6 @@ function shake(elem){
     .animate({ opacity: .5 }, 50)
     .animate({ "margin-left": "+=10px" }, 100)
     .animate({ "margin-left": "-=10px" }, 100)
-    .animate({ opacity: 1 }, 50)
-    .animate({ opacity: .5 }, 50)
-    .animate({ "margin-left": "+=10px" }, 100)
-    .animate({ "margin-left": "-=10px" }, 100)
     .animate({ opacity: 1 }, {
       duration: 50,
       complete: function() {$(this).css("color", "black")}
@@ -152,6 +148,31 @@ $(function(){
   })
   $("#post-sign-out").click(function(){
     z.signOut()
+  })
+
+  var ms = "Trebuie să fii autentificat ca să-ți poți trimite reacția.<br />" +
+    'Durează doar o secundă și nu doare! Promit <i class="icon smile"></i>'
+  var ml = 'Mă bucur că ți-a plăcut articolul <i class="icon smile"></i>'
+  var mh = 'Îmi pare nespus de rău că nu ți-a plăcut <i class="icon frown"></i>'
+  var lt = new jBox('Tooltip', {
+    fade: 500,
+    trigger: "click",
+    autoClose: 2500,
+    attach: "#send-love",
+    onOpen: function() {
+      if (z.checkSignedIn()) this.setContent(ml)
+      else this.setContent(ms)
+    }
+  })
+  var ht = new jBox('Tooltip', {
+    fade: 500,
+    trigger: "click",
+    autoClose: 2500,
+    attach: "#send-hate",
+    onOpen: function() {
+      if (z.checkSignedIn()) this.setContent(mh)
+      else this.setContent(ms)
+    }
   })
 
   $("#send-love")
