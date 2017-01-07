@@ -1,6 +1,6 @@
 ---
 title:  "Despre mine"
-teaser: "Primul meu articol - despre mine"
+teaser: "Cateva cuvinte despre mine"
 categories: pasiuni
 tags: blog despre mine
 ---
