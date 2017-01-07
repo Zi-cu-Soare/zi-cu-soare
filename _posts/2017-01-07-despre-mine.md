@@ -3,7 +3,6 @@ title:  "Despre mine"
 teaser: "Primul meu articol - despre mine"
 categories: pasiuni
 tags: blog despre mine
-draft: true
 ---
 {% include image src='poza_about.jpg' cls='large left floated' %}
 
@@ -28,7 +27,7 @@ Pun suflet in tot ceea ce fac si in relatiile mele cu oamenii. Ma consider un om
 De cand am devenit mama, s-a trezit in mine un simt al responsabilitatii si al dreptatii mai pregnant decat inainte. Incerc sa-mi cresc baietelul departe de zgomotul lumii comerciale. Nu reusesc intotdeauna, dar ma straduiesc.  
 Rezonez foarte mult cu principiile de crestere montessori, libertatea de a alege a copilului, ca fiinta libera si unica. Voi impartasi cu voi informatii, activitati pe care noi le incercam acasa si care ne ajuta sa crestem frumos.
 
-De ceva vreme, alimentatia reprezinta pentru noi ajutorul si motorul care ne fac sa constientizam lucrurile, sa ramanem autentici. Pentru noi si pentru copil functioneaza foarte bine stilul de viata ales si dieta ovo-lacto-vegetariana pe care o adoptam de aproximativ 2 ani si jumatate. Veti regasi o categorie special creata cu retete sanatoase atat pentru cei mari cat mai ales pentru copii. :family:
+De ceva vreme, alimentatia reprezinta pentru noi ajutorul si motorul care ne fac sa constientizam lucrurile, sa ramanem autentici. Pentru noi si pentru copil functioneaza foarte bine stilul de viata ales si dieta ovo-lacto-vegetariana pe care o adoptam de aproximativ 2 ani si jumatate. Veti regasi o categorie special creata cu retete sanatoase atat pentru cei mari cat mai ales pentru copii.
 Ma ghidez dupa principiul, minte sanatoasa in corp sanatos. Imi doresc ca in anul ce tocmai a inceput sa reiau practica yoga mai des. Inceputul de an vine cu o promisiune de suflet pentru mine, renuntarea la tot ce inseamna hrana de origine animala si adoptarea unei diete vegane.
 
 Imi acord timpul necesar sa discutam despre evenimentele din viata noastra a tuturor, locurile pe care le-am vizitat si care ne-au placut, despre vise, emotii, viata asa cum este ea, vazuta optimist, ca o zi cu soare si cer senin.
