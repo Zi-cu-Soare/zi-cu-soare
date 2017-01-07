@@ -8,12 +8,13 @@ permalink: /index.json
 {% if post.draft %}{% continue %}{% endif %}
   {
     "title"   : "{{ post.title }}",
+    "teaser"  : "{{ post.teaser }}",
     "excerpt" : "{{ post.excerpt | strip_html | strip_newlines }}",
     "url"     : "{{ post.url }}",
     "date"    : "{{ post.date | date: "%B %d, %Y" }}",
     "author"  : "{{ post.author }}",
-    "tags"    : "{{ post.tags | join: "," }}",
-    "categories" : "{{ post.categories | join: "," }}"
+    "tags"    : {{ post.tags | jsonify }},
+    "categories": {{ post.categories | jsonify }}
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ]
