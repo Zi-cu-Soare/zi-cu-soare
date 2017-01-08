@@ -14,28 +14,23 @@ format: post
 
 {% endcapture %}
 <div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
-  <!-- <div class="ui very padded basic segment"> -->
-  <div class="ui very padded message" style="background:none;border:none;box-shadow:none;">
-    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header" style="background:rgba(200,220,220,0.3)">
+  <div class="ui very padded message">
+    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
       {{ page.title | escape_once }}
-      {% if page.teaser %}<div class="sub header" style="color:{% if page.title_color %}{{ page.title_color }}{% else %}#000{% endif %}">{{ page.teaser | escape_once }}</div>{% endif %}
+      {% if page.teaser %}<div class="sub header"{% if page.title_color %} style="color:{{ page.title_color }}"{% endif %}>{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
   </div>
 </div>
 
 <div id="content" class="ui text container">
-  <div class="ui feed">
-    <div class="event">
-      <div class="label"><img src="{{ author.avatar }}" /></div>
-      <div class="content">
-        <div class="summary">
-          Scris de <a class="user">{{ author.name }}</a> &nbsp;
-          <div class="ui basic small label" style="color:rgba(0,0,0,.5)" data-variation="small" data-tooltip="Data creerii">
-          <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
-          </div>
-          &nbsp;{% include read_time.html %}
-        </div>
-      </div>
+  <div class="ui two column stackable grid" style="margin-bottom:5px">
+    <div class="six wide column" style="padding-bottom:5px!important">
+      <img class="ui avatar image" alt="Avatar" src="{{ author.avatar }}" />
+      Scris de {{ author.name }}
+    </div>
+    <div class="column">
+      <div class="ui basic small label" style="color:rgba(0,0,0,.5)" data-variation="small" data-tooltip="Data creerii"><i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}</div>
+      &nbsp;{% include read_time.html %}
     </div>
   </div>
   {% if page.draft %}<h1 class="ui red dividing center aligned header">DRAFT</h1>{% endif %}
@@ -43,7 +38,7 @@ format: post
 </div>
 
 <div class="ui two column stackable grid text container">
-  <div class="column" style="padding-left:0">
+  <div class="six wide column" style="padding-left:0">
     Postat în:&nbsp;
     {% for cat in page.categories %}
       <a class="ui tag yellow label" {% if site.data.category contains cat %}href="/{{ cat }}"{% endif %}>
@@ -57,7 +52,7 @@ format: post
       <a class="ui tag label">{{ tag | xml_escape }}</a>
     {% endfor %}
   </div>
-  <div class="column" style="padding-left:0">
+  <div class="six wide column" style="padding-left:0">
     <span id="total-reactions">
     Reactii:
     <div class="ui label"><i class="heart red icon"></i><span id="love-reactions">0</span></div>
