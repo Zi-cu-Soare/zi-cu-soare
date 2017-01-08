@@ -17,7 +17,7 @@ format: post
   <div class="ui padded basic segment">
     <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
       {{ page.title | escape_once }}
-      {% if page.teaser %}<div class="sub header">{{ page.teaser | escape_once }}</div>{% endif %}
+      {% if page.teaser %}<div class="sub header" style="color:{% if page.title_color %}{{ page.title_color }}{% else %}#000{% endif %}">{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
   </div>
 </div>

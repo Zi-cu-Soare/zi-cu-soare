@@ -3,7 +3,7 @@ title:  "Numele blogului"
 teaser: "Numele blogului - Multumiri"
 categories: altele
 tags: multumiri
-draft: true
+top_image: "lan-de-grau.jpg"
 ---
 Ideea de a-mi face blog personal mi-a venit simplu, ca urmare a multelor retete si activitati pe care le postez pe pagina mea personala de facebook si pentru care am primit incurajari si am observat ca oamenii, cei care ma urmaresc au reactionat pozitiv la ceea ce postez. M-am gandit sa adun informatiile legate de activitatile noastre montesoriene si hrana pe care eu o prepar cu drag pentru cel mic, intr-un blog. Stim cu totii ca facebook nu este foarte sigur in ceea ce priveste stocarea informatiei si siguranta acesteia.
 
