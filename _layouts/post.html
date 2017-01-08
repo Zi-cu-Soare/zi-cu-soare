@@ -13,16 +13,16 @@ format: post
 {% assign title = title | strip_html | escape | strip_newlines %}
 
 {% endcapture %}
-<div id="posthead" class="ui padded vertical center aligned segment" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
-  <div class="ui padded basic segment">
+<div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
+  <div class="ui very padded basic segment">
     <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
       {{ page.title | escape_once }}
       {% if page.teaser %}<div class="sub header" style="color:{% if page.title_color %}{{ page.title_color }}{% else %}#000{% endif %}">{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
   </div>
 </div>
-<div class="ui container"><div id="content" class="ui grid">
-  <div class="fourteen wide column">
+
+<div class="ui text container" style="margin-top:1em">
   <div class="ui feed">
     <div class="event">
       <div class="label">
@@ -40,46 +40,50 @@ format: post
       </div>
     </div>
   </div>
-
   {% if page.draft %}<h1 class="ui red dividing center aligned header">DRAFT</h1>{% endif %}
   {{ content }}
+</div>
 
-  <div class="ui two column stackable grid">
-    <div class="six wide column">
-      Postat în:&nbsp;
-      {% for cat in page.categories %}
-        <a class="ui tag yellow label" {% if site.data.category contains cat %}href="/{{ cat }}"{% endif %}>
-          {{ cat | xml_escape }}
-        </a>
-      {% endfor %}
-    </div>
-    <div class="ten wide column">
-      Tag-uri:&nbsp;
-      {% for tag in page.tags %}
-        <a class="ui tag label">{{ tag | xml_escape }}</a>
-      {% endfor %}
-    </div>
-    <div class="twelve wide column">
-      <span id="total-reactions">
-      Reactii:
-      <div class="ui label"><i class="heart red icon"></i><span id="love-reactions">0</span></div>
-      <div class="ui label"><i class="thumbs down brown icon"></i><span id="hate-reactions">0</span></div>
-      </span>
-      <span> | Share: </span>
-      <a href="https://www.facebook.com/sharer/sharer.php?s=100&u={{url}}"
-        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');return false;">
-      <i class="s1 circular link icon"></i>
+<div class="ui two column stackable grid text container" style="margin-top:1em">
+  <div class="column" style="padding-left:0">
+    Postat în:&nbsp;
+    {% for cat in page.categories %}
+      <a class="ui tag yellow label" {% if site.data.category contains cat %}href="/{{ cat }}"{% endif %}>
+        {{ cat | xml_escape }}
       </a>
-      <a href="https://plus.google.com/share?title=Zi-cu-Soare%20|%20{{title}}&url={{url}}"
-        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=410');return false;">
-      <i class="s2 circular link icon"></i>
-      </a>
-      <a href="https://twitter.com/intent/tweet?source={{url}}&text=Zi-cu-Soare%20|%20{{title}}:%20{{url}}"
-        onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=275,width=600');return false;">
-      <i class="s3 circular link icon"></i>
-      </a>
-    </div>
+    {% endfor %}
   </div>
+  <div class="column" style="padding-left:0">
+    Tag-uri:&nbsp;
+    {% for tag in page.tags %}
+      <a class="ui tag label">{{ tag | xml_escape }}</a>
+    {% endfor %}
+  </div>
+  <div class="column" style="padding-left:0">
+    <span id="total-reactions">
+    Reactii:
+    <div class="ui label"><i class="heart red icon"></i><span id="love-reactions">0</span></div>
+    <div class="ui label"><i class="thumbs down brown icon"></i><span id="hate-reactions">0</span></div>
+    </span>
+  </div>
+  <div class="column" style="padding-left:0">
+    <span> Share: </span>
+    <a href="https://www.facebook.com/sharer/sharer.php?s=100&u={{url}}"
+      onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');return false;">
+    <i class="s1 circular link icon"></i>
+    </a>
+    <a href="https://plus.google.com/share?title=Zi-cu-Soare%20|%20{{title}}&url={{url}}"
+      onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=410');return false;">
+    <i class="s2 circular link icon"></i>
+    </a>
+    <a href="https://twitter.com/intent/tweet?source={{url}}&text=Zi-cu-Soare%20|%20{{title}}:%20{{url}}"
+      onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=275,width=600');return false;">
+    <i class="s3 circular link icon"></i>
+    </a>
+  </div>
+</div>
+
+<div class="ui text container" style="margin:1em">
   <div class="ui icon message" style="margin-top:2em">
     <i class="smile icon"></i>
     <div class="content">
@@ -95,7 +99,8 @@ format: post
       <span id="post-auth-ok" class="hidden">
         Hello <i id="prov-id" class="icon" style="font-size:0.85em"></i><span id="user-name" style="color:#777"></span> | &nbsp;<i id="post-sign-out" class="sign out link icon">Ieșire</i>
       </span>
+    </div>
   </div>
-  </div>
-</div></div></div>
+</div>
+
 <script src="{{ "/assets/js" | absolute_url }}/postare.js"></script>
