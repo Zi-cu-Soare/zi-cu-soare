@@ -45,8 +45,8 @@
   {% else %}
   <meta property="og:type" content="website">
   {% endif %}
-  {% if page.image %}
-  <meta property="og:image" content="{{ url }}/assets/top_images/{{ page.image }}">
+  {% if page.top_image %}
+  <meta property="og:image" content="{{ url }}/assets/top_images/{{ page.top_image }}">
   {% endif %}
   {% if page.date %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
