@@ -11,4 +11,10 @@ Am transmis ideea sotului meu, care foarte receptiv si deschis, s-a oferit sa ma
 
 Ulterior discutiei noastre am cautat nume pentru blog. Ne doream un titlu optimist si care sa ma reprezinte. Dupa Craciun in timp ce preparam ceva in bucatarie, m-a lovit inspiratia si mi-a venit pur si simplu in minte **o zi cu soare**. Alegerea a avut legatura stransa cu starea mea de spirit din ziua respectiva.
 
+Nu este un blog de parenting, nu am experienta si cunostiintele necesare pentru a da sfaturi in materie de educatie. Voi descrie activitati incercate de noi acasa, retete adunate sau inventate. De fiecare data voi mentiona sursele acestora, materialele care sa va ajute si care ne-au folosit si noua.
+Veti regasi obiecte lucrate manual de mine pentru care voi prelua comenzi, precum si obiecte incercate de mine si achizitionate de la alti artizani sub forma de recomandare.
+Voi recomanda, de asemenea mamici care se ocupa cu comercializarea jucariilor, magazine de profil sau grupuri.
+
+Nu este un blog de discutii politice!
+
 :sunflower:
