@@ -14,26 +14,24 @@ format: post
 
 {% endcapture %}
 <div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
-  <div class="ui very padded basic segment">
-    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
+  <!-- <div class="ui very padded basic segment"> -->
+  <div class="ui very padded message" style="background:none;border:none;box-shadow:none;">
+    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header" style="background:rgba(200,220,220,0.3)">
       {{ page.title | escape_once }}
       {% if page.teaser %}<div class="sub header" style="color:{% if page.title_color %}{{ page.title_color }}{% else %}#000{% endif %}">{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
   </div>
 </div>
 
-<div class="ui text container" style="margin-top:1em">
+<div id="content" class="ui text container">
   <div class="ui feed">
     <div class="event">
-      <div class="label">
-        <img src="{{ author.avatar }}" />
-      </div>
+      <div class="label"><img src="{{ author.avatar }}" /></div>
       <div class="content">
         <div class="summary">
-          Scris de
-          <a class="user">{{ author.name }}</a>
+          Scris de <a class="user">{{ author.name }}</a> &nbsp;
           <div class="ui basic small label" style="color:rgba(0,0,0,.5)" data-variation="small" data-tooltip="Data creerii">
-            <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
+          <i class="calendar icon"></i> {{ page.date | date: "%b %-d, %Y" }}
           </div>
           &nbsp;{% include read_time.html %}
         </div>
@@ -44,7 +42,7 @@ format: post
   {{ content }}
 </div>
 
-<div class="ui two column stackable grid text container" style="margin-top:1em">
+<div class="ui two column stackable grid text container">
   <div class="column" style="padding-left:0">
     Postat în:&nbsp;
     {% for cat in page.categories %}
