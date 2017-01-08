@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title:  "Detalii postare"
 permalink: /detalii_postare/
 sitemap: false
 ---
+<div class="ui container" style="margin:1em 0 1em" markdown="1">
+
 {:.ui.dividing.header}
 # Cum se scrie un articol pe Zi-cu-Soare
 
@@ -22,7 +24,7 @@ Exemple:
 2016-12-31-este-revelion.md
 ```
 
-Fisierul trebuie pus in folderul **_posts/**.
+Fisierul oricarui articol trebuie pus in **folderul {[gh-pages/_posts](https://github.com/Zi-cu-Soare/zi-cu-soare/tree/gh-pages/_posts)}**.
 
 Fisierul se poate redenumi (de ex. pentru a modifica data), dar in acest caz link-urile catre articol se vor strica si oricine a share-uit articolul pe Facebook sau Twitter nu il mai poate accesa.
 Deci cel mai bine, odata ce a fost postat un articol, **sa nu se mai redenumeasca**.
@@ -62,7 +64,7 @@ draft: true
 ```
 
 Alte meta-uri folositoare:
-- **top_image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului; aceste imagini se incarca in folderul "**assets/top_images**", pentru a nu fi amestecate cu cele din interiorul postarilor;
+- **top_image**: numele unei imagini deja incarcate pe blog (ex: bridge-sun.jpg); aceasta imagine va fi pusa ca background al titlului; imaginile top se incarca in **folderul {[gh-pages/assets/top_images](https://github.com/Zi-cu-Soare/zi-cu-soare/tree/gh-pages/assets/top_images)}**, pentru a nu fi amestecate cu cele din interiorul postarilor;
 - **title_color**: culoarea titlului (ex: red, orange, yellow, olive, green, teal, blue, purple, violet, pink, brown, grey); are sens mai mult atunci cand se folosesc imagini de background;
 
 
@@ -85,7 +87,7 @@ Alte meta-uri folositoare:
 {% include grid2 left='**Bold**, *Italic*, _Subliniat_' right='`**Bold**, *Italic*, _Subliniat_`' %}
 
 <div class="ui grid" markdown="1">
-<div class="four wide column" markdown="1">
+<div class="five wide column" markdown="1">
 O lista simpla:
 - prima chestie
 - a doua chestie
@@ -93,7 +95,7 @@ O lista simpla:
 - ultima
 </div>
 
-<div class="eight wide column" markdown="1">
+<div class="eleven wide column" markdown="1">
 ```
 O lista simpla:
 - prima chestie
@@ -105,7 +107,7 @@ O lista simpla:
 </div>
 
 <div class="ui grid" markdown="1">
-<div class="four wide column" markdown="1">
+<div class="five wide column" markdown="1">
 O lista numerotata:
 1. prima chestie
 1. a doua chestie
@@ -113,7 +115,7 @@ O lista numerotata:
 1. ultima
 </div>
 
-<div class="eight wide column" markdown="1">
+<div class="eleven wide column" markdown="1">
 ```
 O lista numerotata:
 1. prima chestie
@@ -200,7 +202,7 @@ O lista numerotata:
 {:.ui.violet.dividing.header}
 ## Inserare imagini
 
-Cele mai interesante imagini CC0-license le gasesti pe:
+Cele mai interesante imagini [CC0-license](https://creativecommons.org/choose/zero/) le gasesti pe:
 
 - [Unsplash.com/collections](https://unsplash.com/collections) (probabil cea mai mare colectie de poze)
 - [Foodshot.co](http://foodshot.co) (specializati pe mancare)
@@ -213,7 +215,9 @@ Cele mai interesante imagini CC0-license le gasesti pe:
 - [Minimography.com](http://minimography.com)
 - [Epicantus.tumblr.com](http://epicantus.tumblr.com) (inspiratie excelenta pentru fotografie)
 
-Imaginile din interiorul articolelor se incarca in folderul "**assets/post_images**", pentru a nu fi amestecate cu cele de sus din titlu !
+Imaginile din interiorul postarilor se incarca in **folderul {[gh-pages/assets/post_images](https://github.com/Zi-cu-Soare/zi-cu-soare/tree/gh-pages/assets/post_images)}**, pentru a nu fi amestecate cu cele de sus din titlu !
+
+O galerie completa cu toate imaginile incarcate deja, se gaseste **la {[/gallery](/gallery/)}**.
 
 Sunt mai multe feluri in care pot fi inserate poze in post-uri.
 
@@ -274,7 +278,7 @@ Imaginile au 3 parametri:
 #### Tabele
 
 <div class="ui grid" markdown="1">
-<div class="six wide column" markdown="1">
+<div class="eight wide column" markdown="1">
 {:.ui.celled.table}
 |---
 | Titlul tabelului
@@ -284,7 +288,7 @@ Imaginile au 3 parametri:
 
 </div>
 
-<div class="six wide column" markdown="1">
+<div class="five wide column" markdown="1">
 ```
 {:.ui.celled.table}
 |---
@@ -317,3 +321,5 @@ Mesajele se scriu cu:
 ```
 
 Pentru [Stilizare Markdown Avansata](http://digitaldrummerj.me/styling-jekyll-markdown/).
+
+</div>
