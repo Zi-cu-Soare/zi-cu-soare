@@ -1,0 +1,64 @@
+---
+title: "Gallery"
+layout: default
+permalink: /gallery/
+sitemap: false
+---
+<div class="ui container" style="margin:1em 0 1em">
+<h2 class="ui header">Top images</h2>
+<div class="ui cards">
+{% for image in site.static_files %}
+  {% if image.path contains 'top_images' %}
+  <div class="card">
+    <div class="image">
+      <img class="g" src="{{ site.baseurl }}{{ image.path }}" alt="Img: {{ image.path }}" />
+    </div>
+    <div class="content">
+      <div class="header">{{ image.path | split:"/" | last }}</div>
+      <div class="meta">top_images</div>
+      <div class="description"></div>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<h2 class="ui header">Post images</h2>
+<div class="ui cards">
+{% for image in site.static_files %}
+  {% if image.path contains 'post_images' %}
+  <div class="card">
+    <div class="image">
+      <img class="g" src="{{ site.baseurl }}{{ image.path }}" alt="Img: {{ image.path }}" />
+    </div>
+    <div class="content">
+      <div class="header">{{ image.path | split:"/" | last }}</div>
+      <div class="meta">post_images</div>
+      <div class="description"></div>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
+</div>
+<script type="text/javascript">
+$(function(){
+  $("img.g").one("load", function(){
+    var self = this
+    var src = self.src
+    var img = $(self)
+    var card = img.parent().parent()
+    if(!card.hasClass("card")) return
+    $.ajax({
+      type: "HEAD", url: src
+    }).done(function(message,text,jqXHR){
+      card.find(".description").text(
+        self.naturalWidth + "x" + self.naturalHeight + " ; " +
+        Math.round(jqXHR.getResponseHeader('Content-Length')/1000) + "kb"
+      )
+    })
+  }).each(function(){
+    if(this.complete) $(this).load()
+  })
+})
+</script>
