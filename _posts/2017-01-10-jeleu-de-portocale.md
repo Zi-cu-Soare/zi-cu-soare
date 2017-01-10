@@ -2,8 +2,7 @@
 title:  "Jeleu de portocale"
 teaser: "Jeleu de portocale sanatos, pentru cei mici"
 categories: bucatarie
-tags: jeleu portocale acasa
-draft: true
+tags: jeleu portocale sanatos copii
 ---
 Iata o reteta foarte simpla de jeleu de portocale, pentru cei mici cu doar doua ingrediente.:tangerine:
 
