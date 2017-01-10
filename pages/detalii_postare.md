@@ -3,6 +3,7 @@ layout: default
 title:  "Detalii postare"
 permalink: /detalii_postare/
 sitemap: false
+noindex: true
 ---
 <div class="ui container" style="margin:1em 0 1em" markdown="1">
 

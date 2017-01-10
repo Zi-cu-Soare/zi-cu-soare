@@ -2,6 +2,8 @@
 layout: null
 title: "Articles index"
 permalink: /index.json
+sitemap: false
+noindex: true
 ---
 [
 {% for post in site.posts %}

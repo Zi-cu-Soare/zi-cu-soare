@@ -13,7 +13,7 @@ format: post
 {% assign title = title | strip_html | escape | strip_newlines %}
 
 {% endcapture %}
-<div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:420px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
+<div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:480px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
   <div class="ui very padded message">
     <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
       {{ page.title | escape_once }}
