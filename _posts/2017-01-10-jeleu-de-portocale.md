@@ -4,7 +4,7 @@ teaser: "Jeleu de portocale sanatos, pentru cei mici"
 categories: bucatarie
 tags: jeleu portocale sanatos copii
 ---
-Iata o reteta foarte simpla de jeleu de portocale, pentru cei mici cu doar doua ingrediente.:tangerine:
+Reteta simpla de jeleu de portocale, pentru cei mici cu doar doua ingrediente. :tangerine:
 
 **Timp de preparare:** 15 min
 
@@ -12,7 +12,7 @@ Iata o reteta foarte simpla de jeleu de portocale, pentru cei mici cu doar doua 
 
 **Mod de preparare:** Se pune pe foc sucul, iar cand incepe sa se incalzeasca se adauga lingurita de agar agar si se amesteca continuu pana fierbe. Se toarna in forme (eu am folosit o forma pentru gheata din silicon) si se da la frigider peste noapte.
 
-Data viitoare voi adauga si o lingurita cu miere.
+Data viitoare voi adauga si o lingurita cu miere.:honey_pot:
 Ramane de incercat cu suc de mere, afine si alte fructe dulci.
 
 Rezultatul arata incredibil, considerand cat e de simplu!
