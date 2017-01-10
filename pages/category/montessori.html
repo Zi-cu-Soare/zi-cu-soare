@@ -1,11 +1,14 @@
 ---
 title: "Montessori acasă"
-layout: page
+layout: category
 permalink: /montessori/
+top_image: gzlsrmpwz0o-alexander-dummer.jpg
 ---
-<h2>{{ page.title }}</h2>
-<div class="ui large feed" style="margin-top:1.5em">
+<h2>Lista de articole</h2>
+<div class="ui large feed" style="margin-top:1em">
 {% for post in site.categories.montessori %}
 {% if post.draft %}{% continue %}{% endif %}{% include article_sm.html post=post %}
+{% else %}
+Deocamdată nu e nici un articol. :blush:
 {% endfor %}
 </div>

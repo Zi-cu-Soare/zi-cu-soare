@@ -1,11 +1,15 @@
 ---
 title: Pasiunile mele
-layout: page
+layout: category
 permalink: /pasiuni/
+top_image: m6f-anqil9k-peter-miranda.jpg
+top_image_pos: top
 ---
-<h2>{{ page.title }}</h2>
-<div class="ui large feed" style="margin-top:1.5em">
+<h2>Lista de articole</h2>
+<div class="ui large feed" style="margin-top:1em">
 {% for post in site.categories.pasiuni %}
 {% if post.draft %}{% continue %}{% endif %}{% include article_sm.html post=post %}
+{% else %}
+Deocamdată nu e nici un articol. :blush:
 {% endfor %}
 </div>

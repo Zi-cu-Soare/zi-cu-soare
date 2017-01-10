@@ -1,0 +1,14 @@
+---
+layout: default
+format: page
+---
+<div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:480px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) {% if page.top_image_pos %}{{ page.top_image_pos }}{% else %}center{% endif %} no-repeat{% endif %}">
+  <div class="ui very padded message">
+    <h1 class="ui header">
+      {{ page.title }}
+    </h1>
+  </div>
+</div>
+<div id="content" class="ui text container">
+  {{ content }}
+</div>
