@@ -36,7 +36,7 @@
   .heart.link.icon:hover { color:#DB2828!important }
   .thumbs.down.link.icon:hover { color:#A5673F!important }
   </style>
-  {% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex, nofollow">{% endif %}
+  {% if page.noindex == true or layout.noindex == true or page.draft == true %}<meta name="robots" content="noindex, nofollow">{% endif %}
   <link rel="canonical" href="{{ url }}{{ page.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ title }}" href="{{ url }}/feed.xml">
   <meta property="og:locale" content="ro_RO">

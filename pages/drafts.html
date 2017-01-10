@@ -1,10 +1,11 @@
 ---
+layout: default
 title: "Drafts"
-layout: page
 permalink: /drafts/
 sitemap: false
 noindex: true
 ---
+<div id="content" class="ui container" style="margin:1em 0 1em">
 <h2 class="ui header">Toate draft-urile</h2>
 <div class="ui large feed" style="margin-top:1.5em">
 {% for post in site.posts %}
@@ -12,4 +13,5 @@ noindex: true
 {% include article_sm.html post=post %}
 {% endif %}
 {% endfor %}
+</div>
 </div>

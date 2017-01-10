@@ -11,7 +11,6 @@ Ingrediente: portocale, agar-agar.
 
 Rezultatul arata incredibil, considerand cat e de simplu!
 
-{% include image src='jeleu-portocale-10.jpg' cls='large' %}
-{% include image src='jeleu-portocale-11.jpg' cls='large' %}
+{% include image src='jeleu-portocale-11.jpg' cls='huge' %}
 
 :sunflower:
