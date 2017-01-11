@@ -7,11 +7,11 @@ draft: true
 ---
 Reteta simpla ...
 
-**Timp de preparare:** 15 min
+**Timp de preparare:** 5 min.
 
-**Ingrediente:** ...
+**Ingrediente:** un morcov, o sfecla rosie, o tija de telina apio, o mana de spanac si 2-3 fire de patrunjel.
 
-**Mod de preparare:** ...
+*Nota* Sucul de legume este...
 
 {% include image src='suc-sfecla-morcovi-10.jpg' cls='huge' %}
 {% include image src='suc-sfecla-morcovi-11.jpg' cls='huge' %}
