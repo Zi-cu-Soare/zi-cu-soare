@@ -1,5 +1,5 @@
 ---
-title:  "Brioasa uriasa cu unt de arahide"
+title:  "Briosa uriasa cu unt de arahide"
 teaser: "Briosa uriasa cu unt de arahide fara zahar"
 categories: bucatarie
 tags: briosa unt-de-arahide fara-zahar
