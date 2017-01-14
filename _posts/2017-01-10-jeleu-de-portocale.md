@@ -22,6 +22,6 @@ Rezultatul arata incredibil, considerand cat e de simplu!
 Cateva informatii despre agar-agar gasiti aici:
 [Copilulverde.ro/articol/Hrana_10/Enciclopedia-vegetala_14/Agar-agar-agar-China-grass-Kanten_107](http://copilulverde.ro/articol/Hrana_10/Enciclopedia-vegetala_14/Agar-agar-agar-China-grass-Kanten_107)
 
-**Nota: Reteta preluata de pe grupul Bucataria ovo-lacto-vegetariana Facebook.**
+**Nota:** Reteta preluata de pe grupul Bucataria ovo-lacto-vegetariana Facebook.
 
 :sunflower:

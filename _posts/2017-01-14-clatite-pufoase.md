@@ -3,7 +3,6 @@ title:  "Clatite pufoase"
 teaser: "Mic dejun simplu - Clatite pufoase"
 categories: bucatarie
 tags: clatite mic-dejun rapid
-draft: true
 ---
 
 **Timp de preparare:** 10 min.
@@ -13,6 +12,7 @@ draft: true
 **Mod de preparare:** Am frecat ouale cu banana, am adaugat laptele, apoi restul de ingrediente.
 Am uns o tigaie de telfon cu putin unt si am adaugat compozitia cu ajutorul unui polonic.
 Mi-au iesit 3 clatite pufoase si gustoase.
+
 Doua clatite au fost papate de Rares in 2 timpi si 3 miscari, iar tati a papat cealalta clatita ramasa; mami s-a uitat multumita si a baut o gura de cafea. :coffee:
 
 {% include image src='clatite-pufoase-10.jpg' cls='huge' %}
@@ -21,5 +21,8 @@ Doua clatite au fost papate de Rares in 2 timpi si 3 miscari, iar tati a papat c
 
 ** In curand o reteta de clatite vegane, fara ou. **
 
-**Nota** Baza acestor clatite pufoase o reprezinta laptele, ouale, faina si praful de copt. Restul ingredientelor se pot modifica prin adaugare sau excludere.
+**Nota:** Baza acestor clatite pufoase o reprezinta laptele, ouale, faina si praful de copt. Restul ingredientelor se pot modifica prin adaugare sau excludere.
+
 Le puteti prepara simple, iar deasupra orna cu nuca macinata si miere, dulceata sau unt de arahide.
+
+:sunflower:
