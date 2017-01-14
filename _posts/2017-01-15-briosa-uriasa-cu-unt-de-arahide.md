@@ -22,4 +22,4 @@ Compozitia astfel rezultata se toarna intr-o forma de briosa si se tine la cupto
 
 Cautati unt de arahide 100% pur fara adaos de zahar sau sare. Magazinele bio de profil ofera o gama larga. Pentru cei curajosi si cu mai mult timp liber exista si varianta de a-l face acasa.
 
-*Nota* Mai multe informatii despre untul de arahide gasiti aici: [Livestrong.com/article/394766-are-peanut-butter-jelly-sandwiches-healthy](http://www.livestrong.com/article/394766-are-peanut-butter-jelly-sandwiches-healthy/)
+**Nota** Mai multe informatii despre untul de arahide gasiti aici: [Livestrong.com/article/394766-are-peanut-butter-jelly-sandwiches-healthy](http://www.livestrong.com/article/394766-are-peanut-butter-jelly-sandwiches-healthy/)
