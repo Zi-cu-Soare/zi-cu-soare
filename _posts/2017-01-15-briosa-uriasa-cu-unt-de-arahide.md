@@ -3,10 +3,9 @@ title:  "Brioasa uriasa cu unt de arahide"
 teaser: "Briosa uriasa cu unt de arahide fara zahar"
 categories: bucatarie
 tags: briosa unt-de-arahide fara-zahar
-draft: true
 ---
 
-Am gasit aceasta reteta pe un grup de mamici preocupate de retete sanatoase pentru copiii lor si am decis sa o incerc si pentru noi.
+Am descoperit aceasta reteta pe un grup de mamici preocupate de retete sanatoase pentru copiii lor si am decis sa o incerc si pentru noi.
 Untul de arahide este un aliment bogat in proteine si grasimi sanatoase, precum si o sursa buna de potasiu.
 Impartasesc cu voi aceasta reteta simpla, gata in aproximativ 20 minute.
 
