@@ -1,0 +1,23 @@
+{
+  "name": "Zi-cu-Soare",
+  "homepage": "http//zi-cu-soare.ro",
+  "authors": [
+    "Cristi Constantin <cristi.constantin@live.com>"
+  ],
+  "description": "Ca o zi frumoasa de soare",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "3.x",
+    "jBox": "StephanWagner/jBox#0.x",
+    "firebase": "3.x"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}

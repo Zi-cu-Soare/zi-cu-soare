@@ -1,0 +1,38 @@
+{
+  "name": "zi-cu-soare",
+  "homepage": "http//zi-cu-soare.ro",
+  "author": "Cristi Constantin <cristi.constantin@live.com>",
+  "description": "Ca o zi frumoasa de soare",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zi-cu-Soare/zi-cu-soare.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zi-cu-Soare/zi-cu-soare/issues"
+  },
+  "dependencies": {
+    "gulp": "3.x",
+    "del": "2.x",
+    "semantic-ui": "2.x"
+  },
+  "standard": {
+    "globals": [
+      "$",
+      "jBox",
+      "firebase",
+      "localStorage"
+    ],
+    "ignore": [
+      "script.js",
+      "*.min.js"
+    ]
+  },
+  "devDependencies": {
+    "gulp-concat": "2.x",
+    "gulp-rename": "1.x",
+    "gulp-clean-css": "2.x",
+    "gulp-uglify": "2.x"
+  }
+}

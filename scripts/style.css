@@ -1,0 +1,56 @@
+.hidden {
+  display:none!important
+}
+#fronthead h1, #posthead h1 {
+  font-size:4em
+}
+#fronthead, #posthead {
+  background-size:cover!important;
+  border-bottom:2px solid #FBBD08;
+}
+#fronthead {
+  min-height:675px
+}
+#posthead {
+  min-height:110px
+}
+#posthead h1 {
+  background:rgba(200,220,220,0.3)
+}
+#posthead .message {
+  background:none;
+  border:none;
+  box-shadow:none;
+}
+#posthead .sub.header {
+  padding:1em
+}
+#content {
+  min-height:480px;
+  padding:1.5em 0 2em;
+  text-align:justify;
+}
+
+img.logo {
+  width:2em!important;
+  height:2em;
+  vertical-align:middle;
+}
+.s1.icon:before {
+  content: "\f09a";
+  color:#3b5998;
+}
+.s2.icon:before {
+  content: "\f1a0";
+  color:#dd4b39;
+}
+.s3.icon:before {
+  content: "\f099";
+  color:#00aced;
+}
+.heart.link.icon:hover {
+  color:#DB2828!important
+}
+.thumbs.down.link.icon:hover {
+  color:#A5673F!important
+}
