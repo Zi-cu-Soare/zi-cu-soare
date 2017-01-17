@@ -38,8 +38,22 @@ gulp.task('concat-art', function () {
     .pipe(gulp.dest('./build'));
 });
 
-gulp.task('compress-js', ['concat-main', 'concat-art'], function (cb) {
-  return gulp.src(['./build/script.js', './build/article.js', './search.js'])
+gulp.task('concat-rea', function () {
+  // This already depends on the main script
+  return gulp.src([
+      './vendor/firebase/firebase-app.js',
+      './vendor/firebase/firebase-auth.js',
+      './vendor/firebase/firebase-database.js',
+      './reactions.js'
+    ])
+    .pipe(concat('reactions.js', {newLine: ';'}))
+    .pipe(gulp.dest('./build'));
+});
+
+gulp.task('compress-js', ['concat-main', 'concat-art', 'concat-rea'], function (cb) {
+  return gulp.src([
+      './build/script.js', './build/article.js', './build/reactions.js', './search.js'
+    ])
     .pipe(uglify())
     .pipe(rename({suffix: '.min'}))
     .pipe(gulp.dest('../assets/js/'));
@@ -66,8 +80,12 @@ gulp.task('minify-css', ['concat-css'], function (cb) {
     .pipe(gulp.dest('../assets/css/'));
 });
 
+gulp.task('js', [
+  'concat-main', 'concat-art', 'concat-rea', 'compress-js'
+]);
+
 gulp.task('default', [
   'clean',
-  'concat-main', 'concat-art', 'compress-js',
+  'concat-main', 'concat-art', 'concat-rea', 'compress-js',
   'concat-css', 'minify-css'
 ]);
