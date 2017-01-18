@@ -1,9 +1,8 @@
 ---
 title:  "Suc natural de legume"
-teaser: "Suc natural de legume sanatos, pentru cei mici"
+teaser: "Suc natural de legume sanatos si plin de vitamine"
 categories: bucatarie
 tags: suc legume sanatos copii
-draft: true
 ---
 Reteta simpla ...
 
