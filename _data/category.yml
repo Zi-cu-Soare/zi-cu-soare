@@ -1,12 +1,12 @@
 
-bucatarie:
-  title: Mami găteșteee
-
 montessori:
   title: Montessori acasă
 
 pasiuni:
   title: Pasiunile mele
+
+bucatarie:
+  title: Mami găteșteee
 
 timp_liber:
   title: Timp liber
@@ -14,5 +14,8 @@ timp_liber:
 vacanta:
   title: În vacanță
 
+recomandari:
+  title: Recomandări
+
 altele:
-  title: altele
+  title: Altele

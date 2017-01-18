@@ -1,0 +1,13 @@
+---
+title: Recomandari
+layout: category
+permalink: /recomandari/
+---
+<h2>Lista de articole</h2>
+<div class="ui large feed" style="margin-top:1em">
+{% for post in site.categories.recomandari %}
+{% if post.draft %}{% continue %}{% endif %}{% include article_sm.html post=post %}
+{% else %}
+Deocamdată nu e nici un articol. :blush:
+{% endfor %}
+</div>
