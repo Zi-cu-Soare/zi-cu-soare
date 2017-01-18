@@ -19,10 +19,10 @@ O percep pe Nico ca pe un artizan japonez de ikebana :) meticulos, disciplinat, 
 
 Iata si cum se descrie ea:
 
-Imi place sa merg cu bicicleta, sa fac sport, sa cos, sa experimentez in bucatarie.
-Ador lavanda si culoarea galben mustar.
-Cafeaua, ceaiul si turta dulce home-made sunt preferatele mele si le consum cu placere in zilele reci, ploioase pentru un plus de inspiratie.
-Apreciez tot ce-i lucrat de mana cu pasiune. Oamenii pasionati de ceea ce fac ma inspira si motiveaza.
+> *Imi place sa merg cu bicicleta, sa fac sport, sa cos, sa experimentez in bucatarie.
+> Ador lavanda si culoarea galben mustar.
+> Cafeaua, ceaiul si turta dulce home-made sunt preferatele mele si le consum cu placere in zilele reci, ploioase pentru un plus de inspiratie.
+> Apreciez tot ce-i lucrat de mana cu pasiune. Oamenii pasionati de ceea ce fac ma inspira si motiveaza.*
 
 I-am cerut cateva poze reprezentative pentru acest articol si iata ce minunatii am primit.
 
