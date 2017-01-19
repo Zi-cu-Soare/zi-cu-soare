@@ -41,4 +41,4 @@ Creatiile spiriducesti le gasiti pe [Pagina de Facebook Nicomade](https://www.fa
 
 **Nota:** Nu uitati, cadourile se fac din suflet lucrate de maini harnice!
 
-**sunflower**
+:sunflower
