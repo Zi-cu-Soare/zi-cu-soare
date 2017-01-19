@@ -40,3 +40,5 @@ O recomand din inima si dezinteresat. Mi-am dorit sa scriu cateva cuvinte despre
 Creatiile spiriducesti le gasiti pe [Pagina de Facebook Nicomade](https://www.facebook.com/nicomadero-158364987540717/) si pe pagina personala [Nicomade.me](http://nicomade.me).
 
 **Nota:** Nu uitati, cadourile se fac din suflet lucrate de maini harnice!
+
+**sunflower**
