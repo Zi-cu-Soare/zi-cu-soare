@@ -7,8 +7,8 @@ tags: hand-made artizani talentati
 ---
 
 Iubesc obiectele lucrate cu drag si grija, iar Nico este un creator de frumos care realizeaza astfel de obiecte.
-Artizanul anului in 2015, premiu acordat de catre revista Atelierul, Nico aka Nicomade, si-a inceput calatoria in lumea hand-made-ului prin 2010 cand isi realiza bijuterii din lut polimeric pentru ea, ulterior confectionand la cererea colegilor de munca.
-A experimentat diferite tehnici de lucru, iar in 2013 a renuntat definitiv la job pentru a se dedica trup si suflet pasiunii pentru hand-made.
+Artizanul anului in 2015, premiu acordat de catre revista Atelierul, Nico aka Nicomade, si-a inceput calatoria in lumea handmade-ului prin 2010 cand isi realiza bijuterii din lut polimeric pentru ea, ulterior confectionand la cererea colegilor de munca.
+A experimentat diferite tehnici de lucru, iar in 2013 a renuntat definitiv la job pentru a se dedica trup si suflet pasiunii pentru handmade.
 Atelierul spiridusesc din propria-i locuinta, reprezinta pentru Nico, un loc de relaxare si de liniste.
 
 {% include image src='atelier-spiridus-10.jpg' cls='huge' %}
