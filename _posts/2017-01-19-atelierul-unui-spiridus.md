@@ -3,7 +3,7 @@ title:  "Atelierul unui spiridus"
 teaser: "Atelierul unui spiridus - Nicomade"
 categories: recomandari
 tags: hand-made artizani talentati
-draft: true
+
 ---
 
 Iubesc obiectele lucrate cu drag si grija, iar Nico este un creator de frumos care realizeaza astfel de obiecte.
