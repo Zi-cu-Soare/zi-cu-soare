@@ -3,7 +3,6 @@ title:  "Atelierul unui spiridus"
 teaser: "Atelierul unui spiridus - Nicomade"
 categories: recomandari
 tags: hand-made artizani talentati
-
 ---
 
 Iubesc obiectele lucrate cu drag si grija, iar Nico este un creator de frumos care realizeaza astfel de obiecte.
@@ -40,5 +39,3 @@ O recomand din inima si dezinteresat. Mi-am dorit sa scriu cateva cuvinte despre
 Creatiile spiriducesti le gasiti pe [Pagina de Facebook Nicomade](https://www.facebook.com/nicomadero-158364987540717/) si pe pagina personala [Nicomade.me](http://nicomade.me).
 
 **Nota:** Nu uitati, cadourile se fac din suflet lucrate de maini harnice!
-
-
