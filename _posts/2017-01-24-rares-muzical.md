@@ -21,8 +21,6 @@ In prezent, Rares (1 an si 10 luni) canta la fluier si muzicuta, apasa clapetele
 
 Pe langa auditie, dansam vals, dansam pur si simplu, ne invartim prin camera si el este foarte incantat.
 
-Se pare ca muzica este totusi un talent nascut, ambii parinti, atat eu cat si Cristi avand ureche muzicala si voce (nu o spunem doar noi, avem confirmari).
-
 Atasez mai jos cateva imagini cu o parte din cartile si instrumentele muzicale ce prezinta mare interes, urmand ca in urmatorul articol muzical sa adaugam si filmulete mentionate mai sus.
 
 {% include image src='rares-muzical-10.jpg' cls='huge' %}
