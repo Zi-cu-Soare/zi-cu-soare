@@ -28,4 +28,6 @@ Atasez mai jos cateva imagini cu o parte din cartile si instrumentele muzicale c
 {% include image src='rares-muzical-12.jpg' cls='huge' %}
 {% include image src='rares-muzical-13.jpg' cls='huge' %}
 
+:sunflower
+
 **Nota:** O parte din instrumentele muzicale si cartile Usborne le avem de la [Cufarul Copilariei](https://www.facebook.com/Cufarul-Copilariei-513504942173159/).
