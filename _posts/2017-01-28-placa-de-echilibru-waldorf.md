@@ -3,6 +3,7 @@ title:  "Placa de echilibru Waldorf"
 teaser: "Placa de echilibru Waldorf - balans si echilibru, pentru copii si adulti"
 categories: recomandari
 tags: activitati waldorf miscare
+top_image: zahnal_ic3o-austin-neill.jpg
 ---
 Ma bucura tare ca sunt oameni care fac handmade si care lucreaza jucarii pentru copii impecabil realizate.
 
