@@ -13,7 +13,7 @@ Am ales aceasta metoda de educatie ca si comparatie si alternativa intre sistemu
 Isi are originile in scoala Waldorf si reprezinta o reinventare cu un design modern al placilor clasice de balans.
 Noi am achizitionat o astfel de placa [de pe pagina Montessori Pitesti](https://www.facebook.com/montessoripitesti) la un pret decent, realizata in Romania, pentru ca si la noi se pot realiza jucarii de calitate pentru copii.
 
-Placa poate fi utilizata atat de copii, cat si de adulti, pentru balans si echilibru, dar are multiple intrebunintari, imaginatia este limita!
+Placa poate fi utilizata atat de copii, cat si de adulti, pentru balans si echilibru, dar are multiple intrebuintari, imaginatia este limita!
 
 Iata un filmulet ce apartine exclusiv firmei Montessori & Waldorf Pitesti:
 
