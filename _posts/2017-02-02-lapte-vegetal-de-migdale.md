@@ -21,4 +21,7 @@ Migdalele se lasa de cu seara la inmuiat. Se proceseaza apoi in blender cu canti
 {% include image src='lapte-migdale-11.jpg' cls='huge' %}
 
 Pulpa migdalelor se pastreaza si se amesteca cu fructe uscate, rezultand delicioase bombonele de tip rafaello.
+
 Reteta pentru acestea in urmatoarea postare.
+
+:sunflower:
