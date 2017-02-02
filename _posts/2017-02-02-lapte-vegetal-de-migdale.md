@@ -1,7 +1,7 @@
 ---
 title:  "Lapte vegetal de migdale"
 teaser: "Lapte vegetal de migdale o alternativa sanatoasa"
-categories: mami gateste
+categories: bucatarie
 tags: lapte vegetal sanatos migdale
 draft: true
 ---
@@ -17,8 +17,8 @@ Ingrediente: 200 gr migdale, 3 cani apa filtrata sau apa plata (pentru cel mic f
 
 Migdalele se lasa de cu seara la inmuiat. Se proceseaza apoi in blender cu cantitatea de apa mentionata. La final se trece printr-un saculet special de filtrare (il gasiti la magazinele de profil), sau un tifon cu gauri foarte mici.
 
+{% include image src='lapte-migdale-10.jpg' cls='huge' %}
+{% include image src='lapte-migdale-11.jpg' cls='huge' %}
+
 Pulpa migdalelor se pastreaza si se amesteca cu fructe uscate, rezultand delicioase bombonele de tip rafaello.
 Reteta pentru acestea in urmatoarea postare.
-
-
-
