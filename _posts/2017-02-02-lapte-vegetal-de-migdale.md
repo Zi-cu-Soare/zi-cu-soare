@@ -6,7 +6,7 @@ tags: lapte vegetal sanatos migdale
 draft: true
 ---
 
-Laptele de origine animala in special cel de vaca nu este un lapte destinat consumul uman.
+Laptele de origine animala in special cel de vaca nu este un lapte destinat consumului uman.
 I-am oferit copilului, dupa intarcare lapte de capra, iar laptele vegetal il folosesc in prepararea diferitelor budinci, briose etc..
 Gasim in comert multe variante de lapte vegetal, insa mai toate gamele contin sare, zahar si alti crocobauri. Cel facut in casa se prepara rapid, fara alte adaosuri si este varianta cea mai sigura atat pentru un copil cat si pentru adulti.
 De evitat laptele de orez pentru cantitatea de arsenic continuta, fiind un lapte nerecomandat copiilor.
