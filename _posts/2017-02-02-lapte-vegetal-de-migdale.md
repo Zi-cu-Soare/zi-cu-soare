@@ -3,12 +3,12 @@ title:  "Lapte vegetal de migdale"
 teaser: "Lapte vegetal de migdale o alternativa sanatoasa"
 categories: bucatarie
 tags: lapte vegetal sanatos migdale
-draft: true
+top_image: ttrjmhrkoey-juan-jose-valencia-antia.jpg
 ---
-
 Laptele de origine animala in special cel de vaca nu este un lapte destinat consumului uman.
-I-am oferit copilului, dupa intarcare lapte de capra, iar laptele vegetal il folosesc in prepararea diferitelor budinci, briose etc..
-Gasim in comert multe variante de lapte vegetal, insa mai toate gamele contin sare, zahar si alti crocobauri. Cel facut in casa se prepara rapid, fara alte adaosuri si este varianta cea mai sigura atat pentru un copil cat si pentru adulti.
+I-am oferit copilului, dupa intarcare lapte de capra, iar laptele vegetal il folosesc in prepararea diferitelor budinci, briose etc...
+
+Gasim in comert multe variante de lapte vegetal, insa mai toate sortimentele contin sare, zahar si alti _crocobauri_. Cel facut in casa se prepara rapid, fara alte adaosuri si este varianta cea mai sigura atat pentru copii, cat si pentru adulti.
 De evitat laptele de orez pentru cantitatea de arsenic continuta, fiind un lapte nerecomandat copiilor.
 
 Asadar, reteta este simpla si aveti nevoie de urmatoarele:
@@ -20,8 +20,8 @@ Migdalele se lasa de cu seara la inmuiat. Se proceseaza apoi in blender cu canti
 {% include image src='lapte-migdale-10.jpg' cls='huge' %}
 {% include image src='lapte-migdale-11.jpg' cls='huge' %}
 
-Pulpa migdalelor se pastreaza si se amesteca cu fructe uscate, rezultand delicioase bombonele de tip rafaello.
+Pulpa migdalelor se pastreaza si se amesteca cu fructe uscate, rezultand delicioase bombonele de tip Raffaello.
 
-Reteta pentru acestea in urmatoarea postare.
+Reteta pentru acestea in [urmatoarea postare](/2017/02/bombonele-raw-vegane-tip-Rafaello).
 
 :sunflower:
