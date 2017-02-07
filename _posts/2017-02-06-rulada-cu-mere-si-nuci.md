@@ -3,7 +3,6 @@ title:  "Rulada cu mere si nuci"
 teaser: "Rulada cu mere si nuci - simplu de preparat"
 categories: bucatarie
 tags: rulada mere nuci
-draft: true
 ---
 In weekend am intotdeauna mai mult timp de gatit si de experimentat. Imi place sa incerc retete noi si sa improvizez retete clasice.
 Astfel ca, placinta mea cu mere s-a transformat intr-o rulada cu mere.
