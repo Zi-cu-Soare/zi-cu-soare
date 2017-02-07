@@ -10,7 +10,7 @@ Aluatul este unul utilizat de mine des in placinte si biscuiti. Un aluat ca de p
 
 **Ingrediente aluat**: 100 gr faina alba spelta, 100 gr unt ras, 100 gr branza dulce.
 
-**Ingrediente umplutura**: 100 gr branza vaci, 1 caserola de aprox 250- 300 gr de ciuperci champignon brune, taiate fideluta si trase in unt, 1 legatura marar sau patrunjel, piper, 4 oua de tara.
+**Ingrediente umplutura**: 100 gr branza dulce, 1 caserola de 500 gr de ciuperci champignon brune, taiate fideluta si trase in unt, 1 legatura marar sau patrunjel, piper, 4 oua de tara.
 
 **Mod de preparare**: Aluatul il lasam la odihnit 30 minute la frigider, timp in care tragem ciupercile in tigaie cu unt si amestecam restul de ingrediente pentru umplutura.
 
