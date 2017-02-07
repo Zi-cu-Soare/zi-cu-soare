@@ -3,7 +3,6 @@ title:  "Placinta cu ciuperci"
 teaser: "Placinta cu ciuperci - o reteta rapida"
 categories: bucatarie
 tags: placinta ciuperci
-draft: true
 ---
 Cand copilul este innebunit dupa cocaturi si mami vrea sa-i faca pe plac, ii incropeste rapid o placinta umpluta cu ce are ea mai gustos si bun in frigider si camara.
 Aluatul este unul utilizat de mine des in placinte si biscuiti. Un aluat ca de patiserie, fraged si crocant in acelasi timp.
