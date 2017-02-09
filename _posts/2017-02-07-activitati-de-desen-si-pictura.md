@@ -11,4 +11,9 @@ Inca de pe vremea cand abia implinise un an, sau chiar mai putin i-am pus la dis
 Am observat ca multi copii au reactionat pozitiv la o astfel de activitate, asa ca m-am hotarat sa scriu aici cateva randuri si sa va indemn sa incercati si voi cu ai vostri copilasi, noi vom repeta activitatea ceva mai tarziu.
 
 Materiale necesare: Tablou canvans, l-am achizitionat din Jysk, m-a costat 12 lei, culori acrilice pe baza de apa aveam, dar gasiti si la librarie si folie alimentara.
+Rares a gasit o alta intrebunintare activitatii, aceea de a scoate cu sarguinta folia alimentara ce acoperea canvas-ul. :)))
 
+Cateva cuvinte despre metoda de pictare cu degetele:
+
+Pictura cu degetele a fost  introdusa ca o forma de arta de catre educatorul american Ruth Faison Shaw, care si-a perfectionat talentul acetei tehnici in Roma, Italia, inainte de a picta un tablou netoxic in 1931. 
+Pictura cu degetele are multe beneficii educationale,creative si de dezvoltare. Activitatile artistice sunt foarte importante in dezvoltarea timpurie a creierului la copii. Una dintre acestea este joaca senzoriala prin care copiii invata cu propriile simturi.
