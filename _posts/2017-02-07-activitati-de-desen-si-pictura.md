@@ -19,3 +19,5 @@ Pictura cu degetele a fost  introdusa ca o forma de arta de catre educatorul ame
 Pictura cu degetele are multe beneficii educationale, creative si de dezvoltare. Activitatile artistice sunt foarte importante in dezvoltarea timpurie a creierului la copii. Una dintre acestea este joaca senzoriala prin care copiii invata cu propriile simturi.
 Activitatea senzoriala reprezinta un proces de dezvoltare, in care gustul, auzul si vederea sunt parte a dezvoltarii creierului ce vor folosi mai tarziu la concepte matematice, vedere in spatiu si limbaj.
 
+Messy play like finger painting is important to every child’s development. It helps the body and brain integrate information as well as being relaxing creative way to express feelings.
+
