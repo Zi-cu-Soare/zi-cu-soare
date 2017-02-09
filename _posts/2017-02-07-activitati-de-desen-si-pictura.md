@@ -17,7 +17,9 @@ Cateva cuvinte despre metoda de pictare cu degetele:
 
 Pictura cu degetele a fost  introdusa ca o forma de arta de catre educatorul american Ruth Faison Shaw, care si-a perfectionat talentul acetei tehnici in Roma, Italia, inainte de a picta un tablou netoxic in 1931. 
 Pictura cu degetele are multe beneficii educationale, creative si de dezvoltare. Activitatile artistice sunt foarte importante in dezvoltarea timpurie a creierului la copii. Una dintre acestea este joaca senzoriala prin care copiii invata cu propriile simturi.
-Activitatea senzoriala reprezinta un proces de dezvoltare, in care gustul, auzul si vederea sunt parte a dezvoltarii creierului ce vor folosi mai tarziu la concepte matematice, vedere in spatiu si limbaj.
+Activitatea senzoriala reprezinta un proces de dezvoltare, in care gustul, auzul si vederea sunt parte a dezvoltarii creierului ce vor folosi mai tarziu la concepte matematice, vedere in spatiu si limbaj. 
+
+Pe partea senzoriala am exeprimentat de la cateva luni si pana in prezent, ne-am jucat cu cutii senzoriale, cosuri senzoriale, jocul euristic. Dar, despre toate acestea voi scrie un articol special.
 
 Beneficii ale pictatului cu degetele:
 
