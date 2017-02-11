@@ -29,4 +29,4 @@ Mi-a acordat increderea sa preiau cateva poze de pe pagina personala, am ales si
 
 Pe Gabi, o gasiti pe [pagina ei de Facebook](https://www.facebook.com/gabriela.bivolaru.9).
 
-**Nota**: N-am "pile" la artizan, scriu de placere, imi place daca pot ajuta oamenii talentati, modesti si frumosi.
+**Nota**: N-am "pile" la artizan, scriu de placere, ma bucura sa ajut oameni talentati, modesti si frumosi.
