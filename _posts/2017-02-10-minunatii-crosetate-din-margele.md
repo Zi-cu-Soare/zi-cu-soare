@@ -3,7 +3,6 @@ title:  "Minunatii crosetate din margele"
 teaser: "Minunatii crosetate din margele - podoabe cu valoare"
 categories: recomandari
 tags: bijuterii toho margele
-draft: true
 ---
 **Gabriela Bivolaru**, este un artizan talentat si perseverent, un om fericit, care se bucura de viata alaturi de familia sa, asa cum se descrie chiar ea.
 Fiind o persoana vesela, care iubeste oamenii, ii este usor sa se faca placuta si apreciata in lumea hand-made-ului romanesc.
@@ -29,4 +28,4 @@ Mi-a acordat increderea sa preiau cateva poze de pe pagina personala, am ales si
 
 Pe Gabi, o gasiti pe [pagina ei de Facebook](https://www.facebook.com/gabriela.bivolaru.9).
 
-**Nota**: N-am "pile" la artizan, scriu de placere, imi place daca pot ajuta oamenii talentati, modesti si frumosi.
+**Nota**: N-am "pile" la artizan, scriu de placere, ma bucura sa ajut oameni talentati, modesti si frumosi.
