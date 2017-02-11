@@ -16,7 +16,7 @@ Materiale necesare:
 - culori acrilice pe baza de apa aveam, dar gasiti si la librarie
 - folie alimentara.
 
-Rares a gasit o alta intrebunintare activitatii, aceea de a scoate cu sarguinta folia alimentara ce acoperea canvas-ul. :smile:
+Rares a gasit o alta intrebuintare activitatii, aceea de a scoate cu sarguinta folia alimentara ce acoperea canvas-ul. :smile:
 
 Cateva cuvinte despre metoda:
 
@@ -24,7 +24,7 @@ Pictura cu degetele a fost introdusa ca o forma de arta de catre educatorul amer
 Pictura cu degetele are multe beneficii educationale, creative si de dezvoltare. Activitatile artistice sunt foarte importante in dezvoltarea timpurie a creierului la copii. Una dintre acestea este joaca senzoriala prin care copiii invata cu propriile simturi.
 Activitatea senzoriala reprezinta un proces de dezvoltare, in care gustul, auzul si vederea sunt parte a dezvoltarii creierului ce vor folosi mai tarziu la concepte matematice, vedere in spatiu si limbaj.
 
-Pe partea senzoriala am exeprimentat de la cateva luni si pana in prezent, ne-am jucat cu cutii senzoriale, cosuri senzoriale, jocul euristic. Dar, despre toate acestea voi scrie un articol special.
+Pe partea senzoriala am experimentat de la cateva luni si pana in prezent, ne-am jucat cu cutii senzoriale, cosuri senzoriale, jocul euristic. Dar, despre toate acestea voi scrie un articol special.
 
 Beneficii ale pictatului cu degetele:
 
