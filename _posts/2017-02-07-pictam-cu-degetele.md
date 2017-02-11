@@ -35,3 +35,7 @@ Imbunatateste dezvoltarea motorie fina, fortifica muschii mainilor si a degetelo
 Exprimarea emotiilor fara cuvinte;
 Stimuleaza creativitatea si imaginatia;
 Invata despre culori, forme. etc.
+
+{% include image src='pictam-cu-degetele-10.jpg' cls='huge' %}
+
+:sunflower:
