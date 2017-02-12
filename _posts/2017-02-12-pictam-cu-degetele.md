@@ -4,7 +4,6 @@ teaser: "Pictam cu degetele - canvas pentru pictat cu degetele"
 categories: montessori
 tags: activitati desen pictura degetele
 top_image: yc7otffn-0-rhondak-native-florida-folk-artist.jpg
-draft: true
 ---
 Inca de pe vremea cand abia implinise un an, sau chiar mai putin, i-am pus la dispozitie brotacelului din dotare mijloace de expresie artistica. L-am incurajat sa picteze cu degetele, sa picteze cu apa pe o coala alba cu ajutorul unei pensule, sa se joace cu plastilina, insa nu a aratat un interes deosebit pentru aceste activitati.
 Ultima activitate incercata: pictarea unui canvans cu ajutorul degetelelor, folosind o folie alimentara, culori acrilice pe baza de apa si un canvans. Rezultatul si de aceasta data acelasi, nu este interesat de partea creativa.
