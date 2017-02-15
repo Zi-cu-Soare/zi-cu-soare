@@ -1,3 +1,9 @@
+#landing {
+  background: url('/assets/top_images/sun-golden-flowers.jpg') center;
+  background-size: cover;
+  background-position: center 45%;
+  background-attachment: fixed;
+}
 .hidden {
   display:none!important
 }
@@ -9,7 +15,12 @@
   border-bottom:2px solid #FBBD08;
 }
 #fronthead {
-  min-height:675px
+  height:94vh
+}
+#fronthead h1 {
+  color:#605C1C;
+  opacity:.75;
+  text-shadow:1px 3px 5px rgba(0,0,0,.5);
 }
 #posthead {
   min-height:110px

@@ -4,7 +4,7 @@ layout: compress
 <!DOCTYPE HTML>
 <html lang="ro">
 {% include head.html %}
-<body>
+<body {% if page.url == "/" %}id="landing"{% endif %}>
 {% include header.html %}
 {% include scripts.html %}
 {{ content }}
