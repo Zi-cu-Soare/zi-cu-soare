@@ -6,7 +6,7 @@ tags: tarta prune dulce
 draft: true
 ---
 
-Am incercat pentru prima data aceasta reteta acum 3 ani si mi-a placut foarte mult, insa nu stiu cum se face ca abia zilele trecute m-am gandit sa o prepar din nou, cu mici modificari de ingrediente astfel incat sa poata fi consumata si de catre copii.
+Am incercat pentru prima data aceasta reteta acum 3 ani si mi-a placut foarte mult, insa nu stiu cum se face ca abia zilele trecute m-am gandit sa o prepar din nou, cu mici modificari de ingrediente astfel incat sa poata fi consumata si de catre copil.
 
 Timp de preparare: 15 minute.
 Timp de coacere: aproximativ 45-50 minute.
@@ -17,4 +17,8 @@ In reteta preluata, se adauga 250 gr de zahar. Eu facand tarta pentru a fi papat
 La 2 tavi aceasta cantitate de indulcitor natural este foarte mica. Dulceata tartei o da prunele uscate si stafidele.
 
 
-Mod de preparare: Amestecam ingredientele lichide, apoi adaugam faina si ce
+Mod de preparare: Într-un vas încăpător amestecăm făina cu praful de sare și pulberea de mesquite. Adăugăm apoi ouăle bătute, uleiul de masline și un praf de sare. Turnăm progresiv laptele și batem cu telul până obținem un aluat omogen fără cocoloașe.
+Puteti adauga in tarta, vanilie naturala din pastaie sau scortisoara.
+Prunele le-am curatat si scos samburii, apoi le-am tavalit prin faina, sa nu se lase pe fundul tavii. La fel am procedat si cu stafidele, dar tot s-au lasat. La stafide cred ca merg incorporate in aluat, ca la briose.
+
+Am uns o tava de tarta si una din sticla termorezistenta cu unt, am asezat prunele uscate tavalite
