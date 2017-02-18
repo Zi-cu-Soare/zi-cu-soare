@@ -26,5 +26,5 @@ Am uns o tava de tarta si una din sticla termorezistenta cu unt, am asezat prune
 Timp de coacere: aproximativ 45-50 minute, la 180*. Este gata cand deasupra s-a copt si capata un aspect auriu.
 
 Nota: Tarta este incredibil de buna, are consistenta unei budinci la interior.
-Pentru o consistenta puteti experimenta si incerca sa adaugati mai putina faina in compozitie sau sa adaugati alte fructe, spre exemplu, mere, pere, caise, visine etc., sau fulgi de ciocolata. 
+Pentru a iesi mai pufoasa si mai budincoasa, puteti experimenta adaugand mai putina faina in compozitie sau sa adaugati alte fructe, spre exemplu: mere, pere, caise, visine etc., sau fulgi de ciocolata. 
 Imaginatia este limita!
