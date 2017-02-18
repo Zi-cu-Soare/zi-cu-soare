@@ -21,4 +21,8 @@ Mod de preparare: Într-un vas încăpător amestecăm făina cu praful de sare 
 Puteti adauga in tarta, vanilie naturala din pastaie sau scortisoara.
 Prunele le-am curatat si scos samburii, apoi le-am tavalit prin faina, sa nu se lase pe fundul tavii. La fel am procedat si cu stafidele, dar tot s-au lasat. La stafide cred ca merg incorporate in aluat, ca la briose.
 
-Am uns o tava de tarta si una din sticla termorezistenta cu unt, am asezat prunele uscate tavalite
+Am uns o tava de tarta si una din sticla termorezistenta cu unt, am asezat prunele uscate tavalite prin faina, apoi am turnat aluatul.
+
+Timp de coacere: aproximativ 45-50 minute, la 180*. Este gata cand deasupra s-a copt si capata un aspect auriu.
+
+Nota: Tarta este incredibil de buna, are consistenta unei budinci la interior.
