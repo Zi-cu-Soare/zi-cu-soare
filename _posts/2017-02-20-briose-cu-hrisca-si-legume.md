@@ -4,7 +4,7 @@ teaser: "Briose cu hrisca si legume - fel de fel"
 categories: bucatarie
 tags: briose hrisca legume
 ---
-Hrişca este o samanta bogata in nutrienti, fibre, proteine si lipsita de gluten. Beneficiile ei sunt nenumarate pentru organism. Ajuta mult digestia si are un gust dulce placut. [Link sursa](https://viataverdeviu.ro/hrisca-uzina-nutrienti).
+Hrişca este o samanta bogata in nutrienti, fibre, proteine si lipsita de gluten. Beneficiile ei sunt nenumarate pentru organism. Ajuta mult digestia si are un gust dulce placut. Mai multe informatii despre beneficii [gasiti aici](https://viataverdeviu.ro/hrisca-uzina-nutrienti).
 
 Folosesc hrişca in alimentatie de aproximativ 2 ani.
 Copilul este innebunit dupa ea, am folosit-o in briose, atat semintele cat si faina.
