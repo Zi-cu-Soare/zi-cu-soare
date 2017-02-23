@@ -2,7 +2,7 @@
 title:  "Bombonele raw vegane de tip Raffaello"
 teaser: "Bombonele raw vegane - un dulce sanatos"
 categories: bucatarie
-tags: bombonele raw vegan migdale
+tags: bombonele raw-vegan migdale fara-zahar
 ---
 Ieri am scris o reteta pentru lapte vegetal de migdale, de la care mi-a ramas pulpa si pe care o puteti folosi pentru a face in casa, bomboane raw vegane sanatoase.
 

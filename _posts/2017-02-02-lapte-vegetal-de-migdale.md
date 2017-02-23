@@ -2,7 +2,7 @@
 title:  "Lapte vegetal de migdale"
 teaser: "Lapte vegetal de migdale o alternativa sanatoasa"
 categories: bucatarie
-tags: lapte vegetal sanatos migdale
+tags: lapte vegetal migdale
 top_image: ttrjmhrkoey-juan-jose-valencia-antia.jpg
 ---
 Laptele de origine animala in special cel de vaca nu este un lapte destinat consumului uman.
