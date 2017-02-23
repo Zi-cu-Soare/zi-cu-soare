@@ -1,8 +1,9 @@
 ---
 title:  "Bomboane sanatoase"
 teaser: "Bomboane sanatoase-fara zahar"
-categories:mancare
+categories: bucatarie
 tags: bomboane sanatoase fara zahar
+draft:true
 ---
 
 
