@@ -33,7 +33,7 @@
     "gulp-concat": "2.x",
     "gulp-rename": "1.x",
     "gulp-uglify": "2.x",
-    "gulp-clean-css": "2.x",
+    "gulp-clean-css": "3.x",
     "gulp-uncss": "1.x"
   }
 }

@@ -15,7 +15,7 @@ format: post
 {% endcapture %}
 <div id="posthead" class="ui center aligned container" style="{% if page.top_image %}height:480px; background:url({{ site.url }}{{ site.baseurl }}/assets/top_images/{{ page.top_image }}) center no-repeat{% endif %}">
   <div class="ui very padded message">
-    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header">
+    <h1 class="ui {% if page.title_color %}{{ page.title_color }}{% endif %} header"{% if page.title_color %}  style="color:{{ page.title_color }}"{% endif %}>
       {{ page.title | escape_once }}
       {% if page.teaser %}<div class="sub header"{% if page.title_color %} style="color:{{ page.title_color }}"{% endif %}>{{ page.teaser | escape_once }}</div>{% endif %}
     </h1>
