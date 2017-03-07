@@ -16,7 +16,7 @@ Ingrediente: 500 gr urzici, 300 gr faina, 80 ml ulei de masline, 120 ml lapte, 2
 
 
 Mod de preparare: Urzicile se oparesc, se strecoara, se toaca marunt, iar mai apoi se amesteca cu branza dulce, ceapa verde taiata marunt, piper, cele doua oua si verdeata.
-Pentru aluat: Amestecam faina cu 1 ou si laptele caldut, framantam si adaugam apoi uleiul treptat pana la incorporare. Cand nu se mai lipeste de maini si de vas aluatul este gata. 
+Pentru aluat: Amestecam faina, praful de sare, 1 ou si laptele caldut, framantam si adaugam apoi uleiul treptat pana la incorporare. Cand nu se mai lipeste de maini si de vas aluatul este gata. 
 
 Eu am mai adaugat la aceasta reteta aproximativ 100 ml de chefir de capra, dat fiind ca laptele adaugat anterior a fost tot de capra, apoi am completat cu faina la ochi. Se poate folosi smantana in loc de lapte si iaurt, si unt in loc de ulei de masline. Data viitoare incerc si varianta asta.
 
