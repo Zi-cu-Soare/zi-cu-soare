@@ -15,7 +15,7 @@ Astazi va propun o reteta pregatita cu hrisca si legume fel de fel, simpla si de
 **Mod de preparare**: Hrisca hidratata, lasata de cu seara in apa, se spala bine in 2-3 ape, apoi se pune la fiert, intr-o cantitate dubla de apa.
 Hrisca o sa absoarba toata apa si va capata consistenta unui terci.
 Se amesteca intr-un vas incapator cu restul de ingrediente, cartoful si ardeiul taiat cuburi. Eu cand sunt in mare graba, apelez la legumele congelate pe care le adaug in diverse briose, omlete si terciuri.
-Tot amestecul se potriveste in formele de briosa siliconate si se da la cuptor pentru aproximativ 30 minute, la 180*.
+Tot amestecul se potriveste in formele de briosa siliconate si se da la cuptor pentru aproximativ 30 minute, la 180°.
 
 Arata bine, au o consistenta pufoasa si sunt foarte gustoase.
 
