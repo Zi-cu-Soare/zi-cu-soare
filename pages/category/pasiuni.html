@@ -14,7 +14,9 @@ Pasiunea mea a început în copilărie cu tăiat și cusut haine pentru păpuși
 De fiecare dată am lucrat cu drag și multă grija. Îmi place să cred că produsul oferit de mine este unul de foarte bună calitate, finisat și frumos ambalat.<br />
 Vă las pe voi să admirați o parte din lucrușoarele pe care le-am făcut de-a lungul timpului și dacă vă place ceva anume <a href="/contact/">să-mi lăsați un mesaj</a>.</p>
 
-<h2>Lista de articole</h2>
+{% include slider size='large' images='vb/vintage-10.jpg vb/vintage-11.jpg vb/vintage-12.jpg vb/vintage-13.jpg vb/vintage-14.jpg vb/vintage-15.jpg vb/vintage-16.jpg vb/vintage-17.jpg vb/vintage-18.jpg vb/vintage-19.jpg vb/vintage-20.jpg vb/vintage-21.jpg vb/vintage-22.jpg vb/vintage-23.jpg vb/vintage-24.jpg vb/vintage-25.jpg vb/vintage-26.jpg vb/vintage-27.jpg vb/vintage-28.jpg vb/vintage-29.jpg vb/vintage-30.jpg vb/vintage-31.jpg vb/vintage-32.jpg vb/vintage-33.jpg vb/vintage-34.jpg vb/vintage-35.jpg vb/vintage-36.jpg vb/vintage-37.jpg vb/vintage-38.jpg vb/vintage-39.jpg vb/vintage-40.jpg vb/vintage-41.jpg vb/vintage-42.jpg vb/vintage-43.jpg vb/vintage-44.jpg vb/vintage-45.jpg vb/vintage-46.jpg vb/vintage-47.jpg vb/vintage-48.jpg vb/vintage-49.jpg vb/vintage-50.jpg' %}
+
+<h2 style="margin-top:0">Lista de articole</h2>
 <div class="ui large feed" style="margin-top:1em">
 {% for post in site.categories.pasiuni %}
 {% if post.draft %}{% continue %}{% endif %}{% include article_sm.html post=post %}

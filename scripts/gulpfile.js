@@ -25,6 +25,17 @@ gulp.task('concat-main', function () {
     .pipe(gulp.dest('./build'));
 });
 
+gulp.task('concat-cat', function () {
+  // This already depends on the main script
+  return gulp.src([
+      './vendor/jBox/Source/jBox.js',
+      './vendor/lightslider/dist/js/lightslider.js',
+      './category.js'
+    ])
+    .pipe(concat('category.js', {newLine: ';'}))
+    .pipe(gulp.dest('./build'));
+});
+
 gulp.task('concat-art', function () {
   // This already depends on the main script
   return gulp.src([
@@ -51,9 +62,15 @@ gulp.task('concat-rea', function () {
     .pipe(gulp.dest('./build'));
 });
 
-gulp.task('compress-js', ['concat-main', 'concat-art', 'concat-rea'], function (cb) {
+var js_list = ['concat-main', 'concat-cat', 'concat-art', 'concat-rea']
+
+gulp.task('compress-js', js_list, function (cb) {
   return gulp.src([
-      './build/script.js', './build/article.js', './build/reactions.js', './search.js'
+      './build/script.js',
+      './build/category.js',
+      './build/article.js',
+      './build/reactions.js',
+      './search.js'
     ])
     .pipe(uglify())
     .pipe(rename({suffix: '.min'}))
@@ -82,12 +99,10 @@ gulp.task('minify-css', ['concat-css'], function (cb) {
     .pipe(gulp.dest('../assets/css/'));
 });
 
-gulp.task('js', [
-  'concat-main', 'concat-art', 'concat-rea', 'compress-js'
-]);
+gulp.task('js', js_list);
 
 gulp.task('default', [
   'clean',
-  'concat-main', 'concat-art', 'concat-rea', 'compress-js',
+  'concat-main', 'concat-cat', 'concat-art', 'concat-rea', 'compress-js',
   'concat-css', 'minify-css'
 ]);
