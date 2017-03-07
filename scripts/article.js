@@ -187,6 +187,14 @@ $(function () {
     }
   })
 
+  var slider = $('.lightSlider').lightSlider({
+    adaptiveHeight: true,
+    autoWidth: true,
+    keyPress: true,
+    loop: true,
+    item: 1
+  })
+
   $('#send-love')
     .click(function () {
       if (!z.checkSignedIn()) {

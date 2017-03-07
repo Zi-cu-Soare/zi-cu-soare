@@ -18,13 +18,6 @@ Pe pagina de [Facebook "Caciuli si articole crosetate"](https://www.facebook.com
 
 Las aici cateva poze cu ceea ce mie mi-a placut cel mai tare de pe pagina, ramane sa decoperiti voi restul.
 
-{% include image src='martisor-crosetat-10.jpg' cls='large' %}
-{% include image src='martisor-crosetat-11.jpg' cls='large' %}
-{% include image src='martisor-crosetat-12.jpg' cls='large' %}
-{% include image src='martisor-crosetat-13.jpg' cls='large' %}
-{% include image src='martisor-crosetat-14.jpg' cls='large' %}
-{% include image src='martisor-crosetat-15.jpg' cls='large' %}
-{% include image src='martisor-crosetat-16.jpg' cls='large' %}
-{% include image src='martisor-crosetat-17.jpg' cls='large' %}
+{% include slider size='large' images='martisor-crosetat-10.jpg martisor-crosetat-11.jpg martisor-crosetat-12.jpg martisor-crosetat-13.jpg martisor-crosetat-14.jpg martisor-crosetat-15.jpg martisor-crosetat-16.jpg martisor-crosetat-17.jpg' %}
 
 Nota: Ii admir si respect munca si daruirea ei pentru frumos. Admirati-o si voi pentru ca merita!

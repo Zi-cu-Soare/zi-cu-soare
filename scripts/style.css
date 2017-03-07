@@ -68,3 +68,20 @@ img.logo {
 .thumbs.down.link.icon:hover {
   color:#A5673F!important
 }
+
+.lightSlider ul {
+  list-style:none outside none;
+  padding-left:0;
+  margin-bottom:0;
+}
+.lightSlider li {
+  display:block;
+  float:left;
+  margin-right:6px;
+  cursor:pointer;
+}
+.lightSlider img {
+  display:block;
+  height:auto;
+  max-width:700px!important;
+}

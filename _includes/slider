@@ -1,0 +1,9 @@
+<div style="margin:.5em 0 1em" markdown="1">
+<ul class="lightSlider" markdown="1">
+{% assign images = include.images | split:&nbsp; %}
+{% for img in images %}
+<li markdown="1"><img class="ui image {{ include.size }}" alt="Image" src="{{ "/assets/post_images" | absolute_url }}/{{ img }}" />
+</li>
+{% endfor %}
+</ul>
+</div>

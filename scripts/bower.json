@@ -10,6 +10,7 @@
   "dependencies": {
     "jquery": "3.x",
     "jBox": "StephanWagner/jBox#0.x",
+    "lightslider": "1.x",
     "firebase": "3.x"
   },
   "ignore": [

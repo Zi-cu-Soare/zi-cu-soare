@@ -29,6 +29,7 @@ gulp.task('concat-art', function () {
   // This already depends on the main script
   return gulp.src([
       './vendor/jBox/Source/jBox.js',
+      './vendor/lightslider/dist/js/lightslider.js',
       './vendor/firebase/firebase-app.js',
       './vendor/firebase/firebase-auth.js',
       './vendor/firebase/firebase-database.js',
@@ -63,6 +64,7 @@ gulp.task('concat-css', function () {
   return gulp.src([
       './semantic/dist/semantic.css',
       './vendor/jBox/Source/jBox.css',
+      './vendor/lightslider/dist/css/lightslider.css',
       './style.css'
     ])
     .pipe(concat('style.css'))
@@ -73,7 +75,7 @@ gulp.task('minify-css', ['concat-css'], function (cb) {
   return gulp.src(['./build/style.css'])
     .pipe(uncss({
       html: ['../_site/*.html', '../_site/**/*.html'],
-      ignore: [/^\.jBox-/]
+      ignore: [/^\.jBox-/, /^\.lightSlider/, /^\.lSSlide/, /^\.lSAction/]
     }))
     .pipe(minify({keepSpecialComments: 1, processImport: false}))
     .pipe(rename({suffix: '.min'}))
