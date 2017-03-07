@@ -158,10 +158,18 @@ $(function () {
   var ml = 'Mă bucur că ți-a plăcut articolul <i class="icon smile"></i>'
   var mh = 'Îmi pare nespus de rău că nu ți-a plăcut <i class="icon frown"></i>'
 
+  var dc = new jBox('Tooltip', { // eslint-disable-line
+    fade: 750,
+    attach: '#date-created'
+  })
+  var er = new jBox('Tooltip', { // eslint-disable-line
+    fade: 750,
+    attach: '#eta-read'
+  })
   var tl = new jBox('Tooltip', { // eslint-disable-line
     fade: 500,
     trigger: 'click',
-    autoClose: 2500,
+    autoClose: 2750,
     attach: '#send-love',
     onOpen: function () {
       if (z.checkSignedIn()) this.setContent(ml)
@@ -171,7 +179,7 @@ $(function () {
   var th = new jBox('Tooltip', { // eslint-disable-line
     fade: 500,
     trigger: 'click',
-    autoClose: 2500,
+    autoClose: 2750,
     attach: '#send-hate',
     onOpen: function () {
       if (z.checkSignedIn()) this.setContent(mh)

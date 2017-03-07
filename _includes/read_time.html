@@ -1,8 +1,0 @@
-<div class="ui tiny basic small label" style="color:rgba(0,0,0,.5)" data-variation="small" data-tooltip="Timpul estimat de citire">
-  {% assign words = content | number_of_words %}
-  {% if words < 360 %}
-    ~ 1 minut
-  {% else %}
-    ~ {{ words | divided_by:180 }} minute
-  {% endif %}
-</div>
