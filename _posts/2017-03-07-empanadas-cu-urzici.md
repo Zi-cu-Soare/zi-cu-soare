@@ -10,7 +10,7 @@ Urzici, leurda, spanac, untisor, stevie, loboda, imi plac toate deopotriva, iar 
 
 Astazi va propun o reteta cu traditie dincolo de ocean: _empanadas_. Un fel de langosi umplute cu fel de fel de amestecuri. Am mai facut pana acum cu mere, nuca si scortisoara.
 
-Eu am cumparat urzici proaspete si pentru ca Rares nu le consuma sub forma de tocanita cu mamaliguta, asa cum imi plac mie, m-am gandit sa i le adaug in aluat.
+Am cumparat urzici proaspete si pentru ca Rares nu le consuma sub forma de tocanita cu mamaliguta, asa cum imi plac mie, m-am gandit sa i le adaug in aluat.
 Reteta este una simpla, de complexitate medie. Se prepara rapid si se coace la fel de rapid. Se consuma cat ai bate din palme.
 
 **Ingrediente**: 500 gr urzici, 300 gr faina, 80 ml ulei de masline, 120 ml lapte, 2 fire ceapa verde, 250 gr branza dulce, piper, un praf de sare, 3 oua de tara, 3 fire de marar (patrunjel).
@@ -31,4 +31,4 @@ Iata rezultatul:
 {% include image src='empanadas-urzici-11.jpg' cls='huge' %}
 {% include image src='empanadas-urzici-12.jpg' cls='huge' %}
 
-**Nota**: Aluatul se intinde subtire, sau gros. Eu din lipsa de timp si in graba, l-am lasat ceva mai gros si a fost foarte bun si asa. Daca mergeti pe reteta, faina, unt, smantana, aluatul iese ca de patiserie, tip foietaj; daca il faceti cu ulei, duce mai mult spre paine. Mie imi plac ambele variante pentru ca textura este alta. Acestea propuse de mine nu sunt atat de sfaramicioase ca cele cu unt.
+**Nota**: Aluatul se intinde subtire. Eu din lipsa de timp si in graba, l-am lasat ceva mai gros si a fost foarte bun si asa. Daca mergeti pe reteta, faina, unt, smantana, aluatul iese ca de patiserie, tip foietaj; daca il faceti cu ulei, duce mai mult spre paine. Mie imi plac ambele variante pentru ca textura este alta. Acestea propuse de mine nu sunt atat de sfaramicioase ca cele cu unt.
