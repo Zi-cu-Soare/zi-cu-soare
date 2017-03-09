@@ -3,7 +3,6 @@ title:  "Empanadas cu urzici"
 teaser: "Empanadas cu urzici - O reteta de incercat primavara"
 categories: bucatarie
 tags: empanadas urzici primavara
-draft: true
 ---
 Ador primavara si multitudinea de verdeturi care se gasesc pe piata. Am fost obisnuita inca din copilarie cu multe salate verzi si cu mersul in piata saptamanal pentru a cumpara cele necesare...
 Urzici, leurda, spanac, untisor, stevie, loboda, imi plac toate deopotriva, iar primavara le folosesc cat de des pot in retetele zilnice.
