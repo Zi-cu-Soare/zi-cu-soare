@@ -14,7 +14,7 @@ Nu voi vorbi de costuri pentru ca acestea difera in functie de compania aeriana 
 Pentru cei cu copii mici stiti foarte bine ca a-i tine ocupati si pe scaun in timpul unei calatorii este aproape imposibil, insa am pregatit din timp cateva activitati care sa ne faca calatoria cu avionul mai usoara si de ce nu mai distractiva.
 Este important de stiut ca pe perioada decolarii si a aterizarii copilului trebuie sa i se ofere lichide si ceva de rontait, astfel incat el sa inghita si sa faca fata cu brio presiunii atmosefrice si durerilor de urechi.
 Eu n-am avut nici o teama in privinta asta, iar copilul s-a descurcat minunat. A simtit relaxarea mea si zborul a fost placut.
-I-am pus la dispozitie biscuitii preferati pregatiti de acasa, am lipit impreuna stikere pe spatele scaunului din fata noastra, am facut impreuna puzzle cu animale, a bagat pompouri prin orificii si nasturi. Calatoria a durat 2 ore si nu a fost nevoie sa-l ridic sa-l iau la plimbare. 
+I-am pus la dispozitie biscuitii preferati pregatiti de acasa, am lipit impreuna stikere pe spatele scaunului din fata noastra, am facut impreuna puzzle cu animale, a bagat pompouri prin orificii si nasturi. Calatoria a durat 1 ora si jumatate si nu a fost nevoie sa-l ridic sa-l iau la plimbare. 
 
 Pentru Rares joaca in apa si balaceala este o placere, asadar zilele la plaja i-au priit tare mult. S-a jucat cu pietricele si nisip, a mancat bine si a dormit la pranz mai mult decat o facea acasa.
 Pe perioada sederii noastre in Benitses am optat curajosi pentru o excursie de o zi, un tur al insulei Corfu cu autocarul. 
