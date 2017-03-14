@@ -6,8 +6,8 @@ tags: calatorii toddler busybags mare
 draft: true
 ---
 Se apropie sezonul cald. Chiar daca temperaturile din termometre nu sunt tocmai prietenoase si prinsi in jungla asta a orasului aglomerat, cei mai multi dintre noi, printre care si eu, se gandesc la o escapada departe de agitatie... cu peisaje frumoase, mancare buna si multa liniste.
-Stim cu totii ca partea cu linistea cu un toddler e aproape imposibila, dar uite ca eu am avut parte de ea.
-Anul trecut pe cand baietelul meu Rares avea 1 an si 5 luni, in Septembrie mai exact, am planuit un sejur de 7 nopti in insula Corfu din Grecia, localitatea Benitses.
+Stim cu totii ca partea de liniste cu un toddler e aproape imposibila, dar uite ca eu am avut parte de ea.
+Anul trecut pe cand Rares avea 1 an si 5 luni, in Septembrie mai exact, am planuit un sejur de 7 nopti in insula Corfu din Grecia, localitatea Benitses.
 
 Am planificat totul din timp, cu cateva luni inainte si am rezervat sejurul printr-o agentie.
 Nu voi vorbi de costuri pentru ca acestea difera in functie de compania aeriana cu care alegeti sa mergeti, de hotel, precum si de locatia aleasa. Voi insista pe vacanta si calatoria cu avionul cu un bebelus, deloc astamparat, energic si jucaus, dar care a fost neasteptat de linistit si binedispus pe tot parcursul vacantei noastre.
