@@ -3,6 +3,7 @@ title:  "Vacanta cu toddler la mare"
 teaser: "Vacanta cu toddler la mare - busybags"
 categories: calatorii
 tags: calatorii toddler busybags mare
+draft: true
 ---
 
 Se apropie sezonul cald, chiar daca temperaturile din termometre nu sunt tocmai prietenoase si prinsi in jungla asta a orasului aglomerat, cei mai multi dintre noi printre care si eu se gandesc la o escapada departe de agitatie, cu peisaje frumoase, mancare buna si multa liniste. Stim cu totii ca partea cu linistea cu un toddler e aproape imposibila, dar uite ca eu am avut parte de ea.
