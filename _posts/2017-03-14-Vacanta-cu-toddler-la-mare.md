@@ -14,6 +14,10 @@ Nu voi vorbi de costuri pentru ca acestea difera in functie de compania aeriana 
 
 Pentru cei cu copii mici stiti foarte bine ca a-i tine ocupati si pe scaun in timpul unei calatorii este aproape imposibil, insa am pregatit din timp cateva activitati care sa ne faca calatoria cu avionul mai usoara si de ce nu, mai distractiva.
 
+M-am lasat inspirata de activitati incercate de altii si am cautat pe Pinterest idei de busybags (activitati care sa-l tina ocupat in timpul calatoriei).
+Am folosit ce aveam prin casa, iar unele materiale le-am cumparat de la librarie. Costul unor astfel de activitati este foarte mic, in jur de 30-40 lei, dat fiind jocul puzzle care a fost ceva mai scump. 
+Atasez poze cu activitatile noastre inainte de decolare si doua filmulete de utilizare a activitatilor.
+
 Este important de stiut ca pe perioada decolarii si a aterizarii, copilului trebuie sa i se ofere lichide si ceva de rontait, astfel incat el sa inghita si sa faca fata diferentei de presiune atmosferica si durerilor de urechi.
 Eu n-am avut nici o teama in privinta asta, iar copilul s-a descurcat minunat. A simtit relaxarea mea si zborul a fost placut.
 
@@ -25,8 +29,14 @@ Nu mi-a fost usor, pentru ca a stat lipit de mine aproximativ 11 ore in sistemul
 
 Nu ne-am multumit cu turul insulei Corfu, ci am vizitat la pas orasul Corfu Town, folosind miloacele de transport in comun si cu bebe la purtator, luand dupa noi si carutul. Ne-am plimbat prin centrul orasului dupa suveniruri, am mancat la o taverna locala, ne-am jucat prin parc, Rares a alergat dupa porumbei, am mancat porumb fiert pe bordura unei cladiri si am admirat oceanul din port la asfintit. Am ajuns la hotel seara tarziu, dupa ce am ratat un autobuz si a trebuit sa-l asteptam jumatate de ora pe urmatorul, dar a meritat.
 
+De mentionat, asta mi s-a parut foarte important de stiut; pe toata perioada sederii noastre, de fiecare data cand mergeam la masa, luam cu noi o parte din activitatile folosite in avion. Astfel ca, scurtam timpul si rabdarea celui mic cand asteptam mancarea si dupa ce el termina sau refuza sa manance. Am putut astfel sa mancam si sa ne distram in acelasi timp, fara nervi si cel mai important imreuna toti trei la masa.
+
 La final, chiar daca a fost obositor sa calatorim cu un bebe de 1 an si 5 luni, a meritat efortul. Ne-am intors cu amintiri frumoase, locuri minunate vazute si un copil fericit.
 
 Si pentru ca ne-a placut atat de mult, am decis sa continuam sa-l luam cu noi peste tot pe unde mergem. Stiu ca alaturi de noi ii este cel mai bine si se simte cel mai fericit, iar eu sunt fericita numai vazandu-i privirea si bucuria de pe chip.
 
 In curand revin cu un review nou pentru urmatoarea noastra vacanta planuita si cateva tips and tricks de luat in calcul atunci cand calatoriti cu un toddler, de aceasta data intr-un citybreak.
+
+
+Nota: Sper sa ajute si sa aveti vacante linistite, pline de soare si voie buna!
+
