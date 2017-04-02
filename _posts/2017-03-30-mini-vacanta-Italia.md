@@ -32,7 +32,7 @@ La un moment dat, ne-am asezat la un restaurant sa manacam niste paste, dar Rare
 In a treia zi am vizitat Florenta, tot la pas, luand din Bologna trenul rapid, pentru o calatorie care a durat fix 30 minute.
 Florenta mi s-a parut a fi un oras aglomerat, dar plin de obiective turistice. Am colindat o zi intreaga vizitand Piata Domului, gradinile Boboli, Podul vechi...
 
-Arhitectura in Florenta este impresionanta, precum e si istoria sa. In mod sigur iti trebuie cateva zile sa vizitezi muzeele si galeriile, care timp de secole au fost sub conducerea familiei Medici, una dintre cele mai bogate din Italia si din lume. Ca o pasionata de istorie ce sunt, mi-ar fi placut sa intru peste tot si sa ascult un ghid povestind, dar nu s-a putut, asa ca am plecat cu promisiunea sa ne mai intoarcem si pe viitor.
+Arhitectura in Florenta este impresionanta, precum e si istoria sa. In mod sigur iti trebuie cateva zile sa vizitezi muzeele si galeriile. Ca o pasionata de istorie ce sunt, mi-ar fi placut sa intru peste tot si sa ascult un ghid povestind, dar nu s-a putut, asa ca am plecat cu promisiunea sa ne mai intoarcem si pe viitor.
 
 A patra zi era ziua dedicata vizitarii Veronei, locul de nastere si moarte a lui Romeo si a Julietei, insa pentru ca Rares era obosit de zilele trecute si nu am vrut sa-l obosesc si mai tare, am decis sa anulam si sa vedem ce a ramas nevizitat din Bologna.
 
