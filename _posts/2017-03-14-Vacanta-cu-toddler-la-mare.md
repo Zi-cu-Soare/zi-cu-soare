@@ -19,14 +19,14 @@ Am folosit ce aveam prin casa, iar unele materiale le-am cumparat de la librarie
 
 Atasez poze cu activitatile noastre inainte de decolare si doua filmulete de utilizare a activitatilor.
 
-{% include image src='vacanta-la-mare-10.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-10.jpg' cls='huge' %}
 
 <video width="426" height="240" controls>
-  <source src="{{ '/assets/post_images' | absolute_url }}/vacanta-la-mare-vid1.mp4" type="video/mp4">
+  <source src="{{ '/assets/post_images' | absolute_url }}/vacanta-grecia1/vacanta-vid1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="426" height="240" controls>
-  <source src="{{ '/assets/post_images' | absolute_url }}/vacanta-la-mare-vid2.mp4" type="video/mp4">
+  <source src="{{ '/assets/post_images' | absolute_url }}/vacanta-grecia1/vacanta-vid2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -51,18 +51,18 @@ In curand revin cu un review nou pentru urmatoarea noastra vacanta planuita si c
 
 **Nota**: Sper sa ajute si sa aveti vacante linistite, pline de soare si voie buna!
 
-{% include image src='vacanta-la-mare-11.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-12.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-13.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-14.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-15.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-16.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-17.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-18.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-19.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-20.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-21.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-22.jpg' cls='huge' %}
-{% include image src='vacanta-la-mare-23.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-11.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-12.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-13.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-14.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-15.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-16.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-17.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-18.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-19.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-20.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-21.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-22.jpg' cls='huge' %}
+{% include image src='vacanta-grecia1/vacanta-23.jpg' cls='huge' %}
 
 :sunflower:
