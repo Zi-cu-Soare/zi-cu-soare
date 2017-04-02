@@ -1,8 +1,8 @@
 ---
 title:  "Mini vacanta noastra din Italia"
-teaser: "Vacanta noastra in Bologna"
+teaser: "Bologna si Florenta"
 categories: vacanta
-tags: poveste
+tags: vacanta Italia toddler
 draft: true
 ---
 Am pornit la drum de 2h cu avionul, avand ca destinatie Bologna, unde urma sa ne cazam, cu bagajele pregatite din timp, cu toddlerul in dotare si cu mult optimism si speranta. Si de aceasta data am planificat vacanta cu cateva luni inainte, am cumparat biletele de avion cu reducere, alegand sa calatorim cu Rayanair, iar cazarea am rezervat-o prin Booking.com.
