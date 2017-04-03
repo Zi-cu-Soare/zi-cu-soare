@@ -37,7 +37,7 @@ A patra zi era ziua dedicata vizitarii Veronei, locul de nastere si moarte a lui
 
 Asadar, a fost o vacanta frumoasa vizual, dar obositoare fizic. I-am pregatit celui mic activitati de acasa, de care nu s-a prea atins, iar pentru avion am pregatit bunatati de mancat, biscuiti si chiftelute, pe care ma bucur ca le-am avut, pentru ca a rontait la ele pana in a treia zi de vacanta. Am avut frigider in camera si am putut sa le pastram mai mult timp.
 
-Aaaa si sa nu credeti ca o durere de dinti, sau mesele la restaurant ratate ne tin departe de a vizita si colinda lumea cu un toddler in dotare! Deja planific urmatoarea noastra vacanta.  :smile:
+Aaaa si sa nu credeti ca o durere de dinti, sau mesele la restaurant ratate ne tin departe de a vizita si colinda lumea cu un toddler in dotare! Deja planific urmatoarea noastra vacanta.  :relaxed:
 
 Cateva poze:
 
