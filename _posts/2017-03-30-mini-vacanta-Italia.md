@@ -10,7 +10,7 @@ Stiam ca urmeaza sa fie o vacanta obositoare, dar frumoasa si ca o sa vedem mult
 
 Ajunsi la hotel, ne-am schimbat si ne-am gandit sa dam un tur de oras, pentru ca mai aveam timp inainte sa se intunece. Ei bine, nu s-a putut! Cel mic era foarte obosit, trezit de dimineata de la ora 8, a dormit doar 15 minute in taxi, in drum spre hotel. Am iesit jumatate de ora, dupa care ne-am intors in camera, am despachetat, ne-am facut cate un dus si ne-am culcat odata cu gainile la ora 20:00. =)
 
-Au urmat zile mai linistite, insa insotite de smiorcaiala specifica durerilor de dintisori. Mamicile stiu despre ce vorbesc. =)
+Au urmat zile mai linistite, insa insotite de smiorcaiala specifica durerilor de dintisori. Mamicile stiu despre ce vorbesc.  =)
 
 A doua zi am traversat aproape tot orasul Bologna la pas, vizitand centrul Piata Maggiore, Biserica San Petronio, amandoua situate in centru. Nu am vazut Fantana lui Neptun, pentru ca era in reconstructie. In apropierea centrului am trecut printr-o piata locala, unde se gaseau fructe proaspete, legume, peste si fructe de mare, paste de tot felul, parmezan si alte produse locale.
 Pentru ca Rares ne-a trezit la 7 de dimineata si am pornit la drum foarte devreme, am trecut prin piata exact cand se facea aprovizionarea.
@@ -37,7 +37,7 @@ A patra zi era ziua dedicata vizitarii Veronei, locul de nastere si moarte a lui
 
 Asadar, a fost o vacanta frumoasa vizual, dar obositoare fizic. I-am pregatit celui mic activitati de acasa, de care nu s-a prea atins, iar pentru avion am pregatit bunatati de mancat, biscuiti si chiftelute, pe care ma bucur ca le-am avut, pentru ca a rontait la ele pana in a treia zi de vacanta. Am avut frigider in camera si am putut sa le pastram mai mult timp.
 
-Aaaa si sa nu credeti ca o durere de dinti, sau mesele la restaurant ratate ne tin departe de a vizita si colinda lumea cu un toddler in dotare! Deja planific urmatoarea noastra vacanta. =)
+Aaaa si sa nu credeti ca o durere de dinti, sau mesele la restaurant ratate ne tin departe de a vizita si colinda lumea cu un toddler in dotare! Deja planific urmatoarea noastra vacanta.  =)
 
 Cateva poze:
 
