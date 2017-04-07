@@ -10,7 +10,7 @@ Am gasit o multitudine de materiale de inspiratie si idei usor de pus in practic
 Acestea mi-au facut cu ochiul, gandindu-ma si la ceea ce stiu ca-i place in primul rand lui Rares si pentru care ar putea arata interes:
 
 Pentru ca urmeaza sa pregatesc zilele urmatoare, activitatile noastre si voi amenaja un colt in casa cu tematica "primavara si Paste", m-am gandit la cateva crengute de pom, uscate. Tot am vazut ca se curata copacii prin Bucuresti, astfel ca am si material natural. Am achizionat de luna trecuta de la Pepco, niste oua de plastic care au snur si se pot agata.
-Daca aveti timp si copii ceva mai maricei, puteti decora impreuna cu ei oua din poliester pe care sa le agatati in copacelul creat din crengute.
+Daca aveti timp si copii ceva mai maricei, puteti decora impreuna cu ei oua din polistiren pe care sa le agatati in copacelul creat din crengute.
 
 {% include image src='activitati-montessori-10.jpg' cls='large' %}
 [Simmy.typepad.com](http://simmy.typepad.com){:target="_blank"}
