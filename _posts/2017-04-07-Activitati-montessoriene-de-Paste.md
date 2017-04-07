@@ -65,9 +65,9 @@ Poza de pe Pinterest cu sursa blogului de unde a fost preluata:
 {% include image src='activitati-montessori-15.jpg' cls='large' %}
 [Justmontessori.com/practical-life](http://www.justmontessori.com/practical-life){:target="_blank"}
 
-Gasiti aici o multitudine de activitati practice de incercat acasa. :smile:
+Gasiti aici o multitudine de activitati practice de incercat acasa. 
 
 
-Surse de inspiratie sunt multe. Uneori, ca parinte nu stii ce sa alegi sa faci cu copilul. Eu mereu am pe lista de asteptare activitati care se lasa asteptate.
+Surse de inspiratie sunt multe. Uneori, ca parinte nu stii ce sa alegi sa faci cu copilul. Eu mereu am o lista cu activitati in asteptare.
 
 Va doresc sa aveti un Paste Fericit si activitati frumoase! :sunflower:
