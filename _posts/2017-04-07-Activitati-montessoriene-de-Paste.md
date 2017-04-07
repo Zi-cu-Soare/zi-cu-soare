@@ -3,7 +3,6 @@ title:  "Activitati montessoriene de Paste"
 teaser: "Activitati ce se pot realiza cu ocazia Pastelui"
 categories: montessori
 tags: montessori paste activitati primavara
-draft: true
 ---
 Am rasfoit zilele acestea internetul in cautarea de idei pentru activitatile ce urmeaza sa le intreprindem acasa cu ocazia Pastelui.
 
