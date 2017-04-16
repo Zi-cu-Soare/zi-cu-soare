@@ -23,6 +23,7 @@ Reteta pentru drob:
 Ingrediente:
 
 500 gr ciuperci champignion;
+2 morcovi;
 1 legatura ceapa verde;
 1 legatura leurda (usturoi salbatic);
 2 fire usturoi verde;
@@ -41,7 +42,7 @@ sare dupa gust;
 Mod de preparare:
 
 Taiem cubulete ciupercile, le calim in tigaie cu o lingura de unt de cocos, pana scade zeama pe care si-o lasa.
-Amestecam ciupercile cu restul ingredientelor si legumele tocate marunt.
+Amestecam ciupercile cu restul ingredientelor si legumele tocate marunt (morcovul l-am dat pe razatoare).
 Le-am asezat intr-o forma de chec si am dat compozitia la cuptor la 180* pentru aproximativ 30-40 minute.
 Drobul se serveste rece.
 
