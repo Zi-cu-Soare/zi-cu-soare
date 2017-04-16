@@ -3,9 +3,8 @@ title:  "Primul meu Paste vegan"
 teaser: "Si ce am gatit pentru intreaga familie"
 categories: bucatarie
 tags: paste vegan mancare
-draft: true
 ---
-Au trecut 4 luni de cand am schimbat meniul de vegetarian cu unul vegan. Prima sapatamana mi s-a parut cea mai dificila, nemaitinand post de mai bine de 3 ani.
+Au trecut 4 luni de cand am schimbat meniul de vegetarian cu unul vegan. Prima saptamana mi s-a parut cea mai dificila, nemaitinand post de mai bine de 3 ani.
 Organismul insa a eliminat rapid grasimile, dand la o parte si cateva kilograme acumulate dupa sarcina. Deci, sa tot fii vegan. =))
 
 Motivatia mea pentru adoptarea acestui stil de viata este atat de natura etica, in ceea ce priveste exploatarea si suferinta animalelor, dar si in ceea ce priveste sanatatea corporala si mentala pe termen lung.
