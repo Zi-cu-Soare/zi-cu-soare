@@ -16,7 +16,7 @@ Omleta de torfu cu legume:
 Ingrediente:
 
 1 cutie de tofu simplu de la Inedit. Am incercat si tofu afumat si mi-a placut mai mult gustul final al omletei.
-legume diverse (am folosit un amestec congelat cu mazare, ardei, morcov, mazare, pastarnac);
+legume diverse (am folosit un amestec congelat cu mazare, ardei, morcov, pastarnac la care am adaugat cateva rosii cherry ce le aveam prin frigider);
 1 linguraunt de cocos;
 1 praf de sare,
 piper, boia dulce, turmeric dupa gust.
@@ -25,6 +25,8 @@ Mod de preparare:
 
 Am sfaramat tofu cu furculita. L-am aruncat in tigaie alaturi de legume, lingura de cocos si condimente. Amestecati continuu sa nu se prinda de tigaie. 
 In mai putin de 10 minute se ia de pe foc si se serveste calda.
+
+Am presarat un fir de ceapa verde tocat deasupra.
 
 Guacamole:
 
@@ -36,11 +38,11 @@ Ingrediente:
 1 fir de usturoi verde;
 sare, piper dupa gust,
 zeama de lamaie,
-busuioc.
+busuioc, patrunjel.
 
 Mod de preparare:
 
-Am curatat cei doi avocado, i-am tocat cubulete. Rosiile, ceapa si usturoiul la fel tocate marunt.
+Am curatat cei doi avocado, i-am tocat cubulete. Rosiile, ceapa si usturoiul la fel tocate.
 Am condimentat dupa gust. 
 
 Sa aveti pofta!
