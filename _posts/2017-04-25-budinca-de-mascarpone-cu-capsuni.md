@@ -3,7 +3,6 @@ title:  "Budinca de mascarpone cu capsuni"
 teaser: "Budinca de mascarpone cu capsuni - gata in 20 minute"
 categories: bucatarie
 tags: budinca mascarpone capsuni
-draft: true
 ---
 Sunt in permanenta in cautare de retete rapide si usor de facut.
 
