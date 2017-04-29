@@ -3,7 +3,7 @@ title:  "Mic dejun rapid"
 teaser: "Mic dejun rapid, vegan"
 categories: bucatarie
 tags: mic-dejun vegan omleta guacamole
-draft: true
+
 ---
 Maine e zi de weekend si va propun un mic dejun simplu de realizat.
 
