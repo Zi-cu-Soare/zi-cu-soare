@@ -10,7 +10,7 @@ Maine e zi de weekend si va propun un mic dejun simplu de realizat.
 Intotdeauna am mai mult timp pentru gatit in weekend, pentru ca are cine sa stea cu copilul si eu ma pot invarti de voie prin bucatarie fara sa fiu intrerupta din minut in minut, asa cum se intampla in restul saptamanii.
 Imi place sa ne adunam cu totii la masa, iar weekendul mi se pare cel mai potrivit pentru asta.
 
-Asadar, rapid de gatit si de mancat, va propun: Omleta de tofu cu legume, guacamole si salata.
+Asadar, rapid de gatit si de mancat, va propun: Omleta de tofu cu legume si guacamole.
 
 ### Omleta de tofu cu legume
 
