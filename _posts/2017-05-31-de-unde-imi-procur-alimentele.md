@@ -4,7 +4,6 @@ teaser: "Se poate sanatos"
 categories: recomandari
 tags: hrana sanatoasa faina paine legume
 top_image: morcovi.jpg
-draft: true
 ---
 Am constatat intrebarea aceasta pe foarte multe grupuri dedicate hranei sanatoase si a grijii pentru sanatate si m-am decis sa scriu cateva randuri referitoare la procurarea hranei, surse sigure testate de mine si familia mea.
 
