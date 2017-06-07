@@ -3,7 +3,6 @@ title:  "Dulceata de capsune fara zahar"
 teaser: "100% naturala"
 categories: bucatarie
 tags: dulceata capsune agar-agar fara-zahar
-draft: true
 ---
 Recunosc ca este prima data cand fac dulceata fara zahar, 100% naturala.
 Am primit vreo 4 kg de capsune de gradina, sursa sigura si am decis sa le fac dulceata.
@@ -27,7 +26,7 @@ Eu am ales sa le las mai mult la fiert si sa adaug agar-agar-ul, astfel schimban
 Merele taiate le-am trecut prin storcatorul de fructe si a rezultat cu aproximatie 2,5 l de suc.
 Acesta a mers la foc pana si-a injumatatit cantitatea, apoi am adaugat si capsunele scurse.
 A fiert, aproximativ 1 h, pana si-a injumatatit volumul. Spre final cu 15-20 min inainte de a opri focul, am adaugat agar-agar-ul, aproximativ 20 gr.
-In timpul fierberii isi lasa o spuma, care trebuie luata cu strecuratoarea.
+In timpul fierberii dulceata formeaza putina spuma la suprafata, care trebuie luata cu strecuratoarea.
 La final am turnat dulceata fierbinte in borcane de sticla.
 
 Pont: Ca sa nu aveti surpriza sa vi se sparga vreun borcan, acestea le asezati inainte sa turnati dulceata fierbinte pe o tava de fier. Eu am folosit tava cuptorului pe care am asezat-o jos pe gresie. Am turnat compozitia cu un polonic, treptat pana la umplere.
