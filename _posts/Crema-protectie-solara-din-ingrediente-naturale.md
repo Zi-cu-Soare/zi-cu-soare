@@ -22,6 +22,7 @@ Iata ce am folosit eu:
 Mod de preparare: Am adaugat ingredientele intr-un borcan de sticla si le-am pus la bain-marie pana s-au topit, mestecand din cand in cand.
 Cand s-au dizolvat complet, am adaugat compozitia in recipiente si am dat-o afara pe balcon, fiind o temperatura mai optima fata de cea din casa.
 Ideal ar fi sa folositi recipiente din sticla, eu n-am avut pe moment, dar voi fi pregatita pentru data viitoare.
+Din cantitatea de ingrediente folosite, mi-au iesit 3 recipiente de crema, 2 recipiente de 100 de ml fiecare si un recipient de 250 ml.
 
 Tipul de protectie oferit de ingredientele naturale este urmatorul:
 
