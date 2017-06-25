@@ -3,8 +3,9 @@ title:  "Crema pentru protectie solara"
 teaser: "Facuta din ingrediente naturale, pentru toata familia"
 categories: timp_liber
 tags: crema protectie solara
-draft: true
 ---
+
+
 Anul acesta am schimbat multe lucruri in alimentatie, in felul de a gandi, am renuntat la multe produse cosmetice pline cu chimicale si am preparat multe retete culinare si nu numai, pentru prima data.
 
 O premiera pentru mine reprezinta si crearea **in casa** a unei creme pentru protectia solara, pentru toata familia.
