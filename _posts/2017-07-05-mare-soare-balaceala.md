@@ -3,6 +3,7 @@ title:  "Mare, soare, balaceala"
 teaser: "Balaceala la Eforie Nord"
 categories: timp_liber
 tags: mare balaceala
+top_image: stea-de-mare1.jpg
 draft: true
 ---
 Se pare ca experientele noastre la mare cu copilul sunt reusite.
@@ -55,5 +56,20 @@ Ce am realizat de fiecare data dupa o astfel de experienta cu familia, in vacant
 N-am tips and trics pentru vacanta asta, pentru ca nu m-am pregatit intr-un mod special, am lasat totul sa decurga de la sine si a fost minunat.
 
 Las marturie cateva poze cu vila in care ne-am cazat, calatoria noastra cu trenul si momentele noastre de joaca si relaxare. Evident ca momentele cele mai frumoase ale unei vacante sunt cele simtite si n-ai timp pentru a le imortaliza, sau daca o faci raman in arhiva personala.
+
+{% include image src='eforie-nord1/eforie-nord-10.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-11.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-12.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-13.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-14.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-15.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-16.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-17.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-18.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-19.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-20.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-21.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-22.jpg' cls='huge' %}
+{% include image src='eforie-nord1/eforie-nord-23.jpg' cls='huge' %}
 
 Zile cu soare si cer senin va doresc!
