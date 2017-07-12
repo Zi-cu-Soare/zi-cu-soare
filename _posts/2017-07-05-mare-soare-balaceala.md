@@ -10,7 +10,7 @@ Se pare ca experientele noastre la mare cu copilul sunt reusite.
 
 Luna trecuta am fost intr-un sejur de 6 zile in Eforie Nord si pot spune ca m-am odihnit, contrar asteptarilor.
 Am ales o statiune draga noua, curata si familiara, fiind al treilea an cu copilul de cand venim aici.
-Ne-am deplasat cu trenul, pentru a-i acorda copilului libertatea de miscare necesara si pentru ca nici eu si nici sotul nu conducem, fiind o alegere personala.
+Ne-am deplasat cu trenul, pentru a-i acorda copilului libertatea de miscare necesara.
 
 Am pornit cu ganduri pozitive, cazarea o aveam rezervata, in privinta mesei ne-am descurcat la fata locului.
 Pentru cazare am ales Vila Pretty Woman, o vila curata, bine ingrijita, cu gradina si spatiu generos si loc de pregatire a mesei.
@@ -48,12 +48,12 @@ Pe tren am pregatit o punga cu jucarii si activitati printre care s-au numarat:
 - un set de carduri realizate manual de recunoastere si potrivire a unor figuri geometrice carora nu le-a acordat prea mare atentie
 - 2 figurine playmobile pentru care eu personal recunosc am facut o pasiune. Acum nu stiu daca le-am luat pentru copil sau pentru mine, sunt tare dragalase. :stuck_out_tongue_closed_eyes:
 
-Pentru plaja, venisem pregatiti de acasa cu crema protectoare homemade, bazin de joaca si minge de apa; la fata locului am cumparat un set de nisip si o minge usoara de volei pe care copilul a alergat-o pe toata plaja.
+Pentru plaja, venisem pregatiti de acasa cu crema protectoare homemade, bazin de joaca si minge de apa; la fata locului am cumparat un set cu galetusa si ustensile pentru nisip si o minge usoara de volei pe care copilul a alergat-o pe toata plaja.
 
 Reteta cu crema preparata in casa de protectie solara o gasiti: [Crema protectie solara](http://zi-cu-soare.ro/2017/06/crema-protectie-solara-din-ingrediente-naturale).
 
-Ce am realizat de fiecare data dupa o astfel de experienta cu familia, in vacanta este ca cu cat suntem cu totii mai relaxati, mai fara griji, vacanta garantat o sa fie una reusita si relaxanta.
-N-am tips and trics pentru vacanta asta, pentru ca nu m-am pregatit intr-un mod special, am lasat totul sa decurga de la sine si a fost minunat.
+Ce am realizat de fiecare data dupa o astfel de experienta, cu cat suntem mai relaxati, mai fara griji, vacanta garantat o sa fie una reusita si relaxanta.
+N-am tips and tricks pentru vacanta asta, pentru ca nu m-am pregatit intr-un mod special, am lasat sa decurga totul de la sine si a fost minunat.
 
 Las marturie cateva poze cu vila in care ne-am cazat, calatoria noastra cu trenul si momentele noastre de joaca si relaxare. Evident ca momentele cele mai frumoase ale unei vacante sunt cele simtite si n-ai timp pentru a le imortaliza, sau daca o faci raman in arhiva personala.
 
