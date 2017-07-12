@@ -5,7 +5,7 @@ categories: timp_liber
 tags: mare balaceala
 top_image: stea-de-mare1.jpg
 ---
-Se pare ca experientele noastre la mare cu copilul sunt reusite.
+Experientele noastre la mare cu copilul sunt reusite.
 
 Luna trecuta am fost intr-un sejur de 6 zile in Eforie Nord si pot spune ca m-am odihnit, contrar asteptarilor.
 Am ales o statiune draga noua, curata si familiara, fiind al treilea an cu copilul de cand venim aici.
