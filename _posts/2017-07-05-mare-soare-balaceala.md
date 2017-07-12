@@ -1,7 +1,7 @@
 ---
 title:  "Mare, soare, balaceala"
 teaser: "Balaceala la Eforie Nord"
-categories: in_vacanta
+categories: timp_liber
 tags: mare balaceala
 top_image: stea-de-mare1.jpg
 ---
