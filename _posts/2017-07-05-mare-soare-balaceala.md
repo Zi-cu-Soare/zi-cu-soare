@@ -4,7 +4,6 @@ teaser: "Balaceala la Eforie Nord"
 categories: timp_liber
 tags: mare balaceala
 top_image: stea-de-mare1.jpg
-draft: true
 ---
 Se pare ca experientele noastre la mare cu copilul sunt reusite.
 
