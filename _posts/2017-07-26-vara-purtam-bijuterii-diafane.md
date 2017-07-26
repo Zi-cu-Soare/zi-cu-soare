@@ -13,8 +13,8 @@ O recomanda minunatiile diafane lucrate de ea, seturile pentru ocazie, dar si ce
 
 Va arat si voua cateva dintre creatiile realizate de ea. Daca va place, o puteti urmari aici: https://www.facebook.com/MonoArt-Handmade-148666068676700
 
-{% include image src='recomandari/bijuterii-diafane-10.jpg' cls='large' %}
-{% include image src='recomandari/bijuterii-diafane-11.jpg' cls='large' %}
+{% include image src='recomandari/bijuterii-diafane-21.jpg' cls='large' %}
+{% include image src='recomandari/bijuterii-diafane-22.jpg' cls='large' %}
 {% include image src='recomandari/bijuterii-diafane-12.jpg' cls='large' %}
 {% include image src='recomandari/bijuterii-diafane-13.jpg' cls='large' %}
 {% include image src='recomandari/bijuterii-diafane-14.jpg' cls='large' %}
@@ -24,7 +24,6 @@ Va arat si voua cateva dintre creatiile realizate de ea. Daca va place, o puteti
 {% include image src='recomandari/bijuterii-diafane-18.jpg' cls='large' %}
 {% include image src='recomandari/bijuterii-diafane-19.jpg' cls='large' %}
 {% include image src='recomandari/bijuterii-diafane-20.jpg' cls='large' %}
-{% include image src='recomandari/bijuterii-diafane-21.jpg' cls='large' %}
-{% include image src='recomandari/bijuterii-diafane-22.jpg' cls='large' %}
+
 
 Zile cu soare si plimbari lungi!
