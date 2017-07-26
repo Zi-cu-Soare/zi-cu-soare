@@ -3,7 +3,6 @@ title:  "Vara purtam bijuterii diafane"
 teaser: "Bijuterii diafane lucrate manual"
 categories: recomandari
 tags: handmade bijuterii
-draft: true
 ---
 Iubesc vara si bijuteriile statement, care impodobesc minunat o tinuta simpla. Sunt de parere ca o bijuterie frumos lucrata, poate inlocui fara nici un dubiu machiajul.
 Pe Mihaela o cunosc in calitate de clienta. Lucreaza cu migala bijuterii crosetate din margele de dimensiuni foarte mici si o face foarte bine.
