@@ -10,7 +10,7 @@ Artizanul anului in 2015, premiu acordat de catre revista Atelierul, Nico aka Ni
 A experimentat diferite tehnici de lucru, iar in 2013 a renuntat definitiv la job pentru a se dedica trup si suflet pasiunii pentru handmade.
 Atelierul spiridusesc din propria-i locuinta, reprezinta pentru Nico, un loc de relaxare si de liniste.
 
-{% include image src='atelier-spiridus-10.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-10.jpg' cls='huge' %}
 
 In prezent Nico realizeaza obiecte personalizate, medalioane cu porteretele persoanelor dragi, obiecte personalizate pentru evenimente speciale din viata fiecaruia, podoabe vesele: cercei, coliere, brose…
 In calitate de cumparator si clienta fidela deja de multa vreme, va confirm ca ceea ce Nico realizeaza sunt obiecte lucrate impecabil ca tehnica si acuratete.
@@ -25,14 +25,14 @@ Iata si cum se descrie ea:
 
 I-am cerut cateva poze reprezentative pentru acest articol si iata ce minunatii am primit.
 
-{% include image src='atelier-spiridus-11.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-12.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-13.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-14.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-15.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-16.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-17.jpg' cls='huge' %}
-{% include image src='atelier-spiridus-18.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-11.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-12.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-13.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-14.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-15.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-16.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-17.jpg' cls='huge' %}
+{% include image src='recomandari/atelier-spiridus-18.jpg' cls='huge' %}
 
 O recomand din inima si dezinteresat. Mi-am dorit sa scriu cateva cuvinte despre un om valoros, mic la stat, dar mare la sfat, un om dedicat muncii sale, pasionat de frumos si optimist.
 

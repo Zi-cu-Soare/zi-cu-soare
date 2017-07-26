@@ -16,15 +16,15 @@ Satisfactia cea mai mare a lucrului bine facut, il reprezinta clientii multumiti
 
 Mi-a acordat increderea sa preiau cateva poze de pe pagina personala, am ales si va las si pe voi sa va bucurati de aceste minunate podoabe:
 
-{% include image src='minunatii-margele-10.jpg' cls='large' %}
-{% include image src='minunatii-margele-11.jpg' cls='large' %}
-{% include image src='minunatii-margele-12.jpg' cls='large' %}
-{% include image src='minunatii-margele-13.jpg' cls='large' %}
-{% include image src='minunatii-margele-14.jpg' cls='large' %}
-{% include image src='minunatii-margele-15.jpg' cls='large' %}
-{% include image src='minunatii-margele-16.jpg' cls='large' %}
-{% include image src='minunatii-margele-17.jpg' cls='large' %}
-{% include image src='minunatii-margele-18.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-10.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-11.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-12.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-13.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-14.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-15.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-16.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-17.jpg' cls='large' %}
+{% include image src='recomandari/minunatii-margele-18.jpg' cls='large' %}
 
 Pe Gabi, o gasiti pe [pagina ei de Facebook](https://www.facebook.com/gabriela.bivolaru.9).
 
