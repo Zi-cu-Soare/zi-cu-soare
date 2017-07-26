@@ -1,5 +1,5 @@
 ---
-title:  "Spatiu de joaca si locuibil pentru un toddler (partea I)"
+title:  "Spatiu de joaca si locuibil pentru un toddler partea I"
 teaser: "Asa cum l-am vazut eu"
 categories: montessori_acasa
 tags: montessori spatiu joaca
