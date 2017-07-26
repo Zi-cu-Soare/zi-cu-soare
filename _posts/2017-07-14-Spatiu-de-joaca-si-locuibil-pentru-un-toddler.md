@@ -3,14 +3,13 @@ title:  "Spatiu de joaca si locuibil pentru un toddler"
 teaser: "Asa cum l-am vazut eu"
 categories: montessori_acasa
 tags: montessori spatiu joaca
-draft: true
 ---
 Intotdeuna am fost atrasa de amenajari de tot felul, mi-a placut sa aranjez masa de sarbatori cand eram copil si-mi place sa o fac si acum ca adult. Cand vine vorba de copil, i-am dedicat in totalitate lui spatiul destinat pana nu de curand noua, mie si sotului.
 
 Am facut sufrageria loc de joaca, aranjand totul in ordine si cat mai accesibil copilului. Incerc pe cat posibil sa folosesc numai materiale naturale, atat in privinta mobilierului cat si a jucariilor. Exceptiile sunt asumate.
 Spatiul de acasa dedicat copilului, in opinia mea trebuie sa fie curat, ordonat pe cat posibil si vesel.
 Am ales culori neutre pentru mobila si culori vesele pentru decor.
-Ca si achizitii de mobila, am folosit magazinul Ikea, Vivre online. Pentru dulapul din camera noastra si scaunel, am apelat la Atelierul lui mesterel, link facebook. Imi place tare cum lucreaza raportat calitate-pret.
+Ca si achizitii de mobila, am folosit magazinul Ikea, Vivre online. Pentru dulapul din camera noastra si scaunel, am apelat la Atelierul lui mesterel,il gasiti pe facebook. Imi place tare cum lucreaza raportat calitate-pret.
 Desi locuim intr-un apartament de doua camere, am avut suficient spatiu sa ma desfasor si sa aranjez asa cum mi-am dorit.
 Las aici cateva cadre de inspiratie.
 
