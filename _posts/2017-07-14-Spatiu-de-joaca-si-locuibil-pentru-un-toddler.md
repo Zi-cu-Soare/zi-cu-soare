@@ -16,4 +16,12 @@ Las aici cateva cadre de inspiratie.
 
 Literele sunt pictate de mine si comandate special pentru spatiul de citit. Mi-a placut ideea indemnului. <3
 
+{% include image src='spatiu-de-joaca-10.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-11.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-12.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-13.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-14.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-15.jpg' cls='large' %}
+{% include image src='spatiu-de-joaca-16.jpg' cls='large' %}
+
 Zi cu soare, voie buna si culoare sa aveti! :sunflower:
