@@ -4,6 +4,7 @@ teaser: "Asa cum l-am vazut eu"
 categories: montessori_acasa
 tags: montessori spatiu joaca
 ---
+
 Intotdeuna am fost atrasa de amenajari de tot felul, mi-a placut sa aranjez masa de sarbatori cand eram copil si-mi place sa o fac si acum ca adult. Cand vine vorba de copil, i-am dedicat in totalitate lui spatiul destinat pana nu de curand noua, mie si sotului.
 
 Am facut sufrageria loc de joaca, aranjand totul in ordine si cat mai accesibil copilului. Incerc pe cat posibil sa folosesc numai materiale naturale, atat in privinta mobilierului cat si a jucariilor. Exceptiile sunt asumate.
