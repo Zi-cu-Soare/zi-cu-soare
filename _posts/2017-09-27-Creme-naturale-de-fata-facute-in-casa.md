@@ -3,7 +3,6 @@ title:  "Creme de fata facute in casa"
 teaser: "Creme de fata din ingrediente naturale"
 categories: pasiuni
 tags: crema naturala
-draft: true
 ---
 
 Va spuneam acum ceva timp, intr-un post de al meu, ca intentionez sa renunt definitiv si treptat la toate produsele de ingrijire cosmetica si nu numai pe baza de chimicale.
