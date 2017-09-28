@@ -1,7 +1,7 @@
 ---
-title:  "Creme de fata facute in casa"
-teaser: "Creme de fata din ingrediente naturale"
-categories: pasiuni
+title:  "Creme de fata din ingrediente naturale"
+teaser: "home-made"
+categories: timp liber
 tags: crema naturala
 ---
 
