@@ -41,7 +41,7 @@ Tonifica si infrumuseteaza pielea.
 Uleiul esenţial de Tea Tree are virtuţi incontestabile și dovedite, acţionează eficient împotriva infecţiilor bacteriene, virale și fungice, și este considerat a fi unul dintre cele mai neiritante uleiuri antiseptice. În cosmetică este interesant în special pentru acţiunea benefică asupra pielii afectate de acnee, rozacee, acnee juvenilă - preventiv sau curativ.
 
 
-Este o crema care se prepara rapid prin incalzirea la baire marie a untului de shea si a uleiului de cocos. Dupa topirea totala a acestora se adauga picaturile de Tea Tree.
+Este o crema care se prepara rapid prin incalzirea la bain-marie a untului de shea si a uleiului de cocos. Dupa topirea totala a acestora se adauga picaturile de Tea Tree.
 Crema este benefica si pentru cei care sufera de acnee.
 
 
