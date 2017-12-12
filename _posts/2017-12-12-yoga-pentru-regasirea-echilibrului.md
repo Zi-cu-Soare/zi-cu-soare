@@ -4,7 +4,6 @@ teaser: "Yoga cu iubire"
 categories: pasiuni
 tags: yoga iubire echilibru
 top_image: "yoga-sun1.jpg"
-draft: true
 ---
 In weekendul ce tocmai a trecut, m-am lasat dusa de val si ghidata de intuitie si iubire si am participat la doua clase speciale si noi pentru mine de yoga; Yoga in stil balinez cu Andreea de la [Sunt un copac](https://suntuncopac.com/despre-copac) si Yoga Kundalini cu [Dora Dinu](https://www.facebook.com/MinodoraDinu).
 Prima data am practicat yoga intr-o sala de fitness, acum aproape 4 ani, ashtanga yoga, hatha yoga, flow yoga cu [Cristina Ionescu](https://www.facebook.com/cristayoga). Ei ii datorez dragostea la prima vedere pentru practica yoga si ii sunt vesnic recunoscatoare. 🙂 Prin practica yoga, am trecut mai usor peste lipsa unei fiinte dragi din viata mea, care la scurt timp a transmis stafeta baietelului meu, cel ce urma sa ma aleaga sa-i fiu mama.
