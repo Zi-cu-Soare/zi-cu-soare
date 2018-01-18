@@ -5,7 +5,6 @@ categories: pasiuni
 tags: iubire viata
 top_image: "cautare-soare1.jpg"
 title_color: orange
-draft: true
 ---
 De cand am pornit cu inima deschisa in cautarea sinelui pierdut, am realizat ca viata si existenta noastra ne este pavata de intentiile si actiunile noastre. Desigur ca universul ajuta ca anumite intamplari sa nu fie la intamplare, insa noi suntem de cele mai multe ori proprii creatori ai destinului nostru. Tu cum iti trasezi linia vietii tale, o pavezi cu intentii si ganduri bune sau te amagesti si cazi in capcana disperariii? Sa nu uitam ca suntem cu totii lumina si intuneric deopotriva, yin si yang, alfa si omega, viata si moarte.
 
